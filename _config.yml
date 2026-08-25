@@ -1,3 +1,5 @@
 theme: jekyll-theme-minimal
 title: The Dolpheverse Lore
 description: Lore for Dolphe's Geometry Dash level series
+
+markdown: kramdown
