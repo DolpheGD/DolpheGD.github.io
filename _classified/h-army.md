@@ -4,6 +4,7 @@ title: "H-Army"
 icon: "🦾"
 order: 10
 section: classified-files
+group_of: "h-nation"
 ---
 
 <table class="file-header">

@@ -4,6 +4,7 @@ title: "Aero Squad"
 icon: "🛩️"
 order: 5
 section: classified-files
+group_of: "team-cascade"
 ---
 
 <table class="file-header">

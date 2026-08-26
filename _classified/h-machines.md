@@ -4,6 +4,7 @@ title: "H-Machines"
 icon: "⚙️"
 order: 11
 section: classified-files
+group_of: "h-nation"
 ---
 
 <table class="file-header">

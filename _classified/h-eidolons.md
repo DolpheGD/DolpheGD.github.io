@@ -4,6 +4,7 @@ title: "H-Eidolons"
 icon: "🩸"
 order: 9
 section: classified-files
+group_of: "h-nation"
 ---
 
 <table>

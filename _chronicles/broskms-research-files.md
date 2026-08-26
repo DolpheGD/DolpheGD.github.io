@@ -13,10 +13,8 @@ section: chronicles
   \>Warp Implants   
   \>Dimensional Warp \[TERMINATED\]  
 * Borgtech
-
-		\> NF89  
-		\> Subject 29 \[TERMINATED\]
-
+  \>NF89  
+  \>Subject 29 \[TERMINATED\]
 * Mecha sentience project *shared by Duko*  
 * Void Ore Extraction Project I \[Project Success\]  
 * Void Ore Extraction Project II   

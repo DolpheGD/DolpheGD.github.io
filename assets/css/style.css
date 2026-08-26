@@ -16,7 +16,14 @@
 
 * { box-sizing: border-box; }
 
-html { -webkit-text-size-adjust: 100%; }
+html {
+  -webkit-text-size-adjust: 100%;
+  scrollbar-width: none; /* Firefox */
+  -ms-overflow-style: none; /* IE/Edge */
+}
+html::-webkit-scrollbar {
+  display: none; /* Chrome/Safari/Edge */
+}
 
 body {
   margin: 0;
@@ -26,6 +33,10 @@ body {
   font-size: 17px;
   line-height: 1.65;
   -webkit-font-smoothing: antialiased;
+  scrollbar-width: none; /* Firefox */
+}
+body::-webkit-scrollbar {
+  display: none; /* Chrome/Safari/Edge */
 }
 
 a { color: var(--accent); text-decoration: none; }
@@ -205,6 +216,32 @@ h1, h2, h3, h4, h5 { line-height: 1.25; font-weight: 700; }
   -webkit-box-orient: vertical;
   overflow: hidden;
 }
+
+.section-group {
+  grid-column: 1 / -1;
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  background: var(--bg-alt);
+  padding: 1rem;
+}
+.section-card-parent {
+  border-color: var(--accent);
+  background: var(--accent-soft);
+}
+.section-group-children {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(190px, 1fr));
+  gap: 0.75rem;
+  margin-top: 0.9rem;
+  padding-top: 0.9rem;
+  border-top: 1px dashed var(--border);
+}
+.section-card-child {
+  padding: 0.8rem 1rem;
+  box-shadow: none;
+}
+.section-card-child .section-card-icon { font-size: 1.3rem; }
+.section-card-child .section-card-title { font-size: 0.92rem; }
 
 /* Big top-level nav cards used on the homepage */
 .nav-card-grid {

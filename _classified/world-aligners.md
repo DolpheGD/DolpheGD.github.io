@@ -4,6 +4,7 @@ title: "World Aligners"
 icon: "🌍"
 order: 18
 section: classified-files
+group_of: "side-factions"
 ---
 
 <table class="file-header">

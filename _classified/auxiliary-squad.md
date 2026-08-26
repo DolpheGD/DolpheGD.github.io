@@ -4,6 +4,7 @@ title: "Auxiliary Squad"
 icon: "🗡️"
 order: 4
 section: classified-files
+group_of: "team-cascade"
 ---
 
 <table>

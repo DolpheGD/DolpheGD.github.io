@@ -4,6 +4,7 @@ title: "Captains"
 icon: "🌟"
 order: 2
 section: classified-files
+group_of: "team-cascade"
 ---
 
 <table class="file-header">

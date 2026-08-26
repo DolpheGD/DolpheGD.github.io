@@ -4,6 +4,7 @@ title: "Weapons & Vehicles"
 icon: "⚔️"
 order: 6
 section: classified-files
+group_of: "team-cascade"
 ---
 
 <table class="file-header">

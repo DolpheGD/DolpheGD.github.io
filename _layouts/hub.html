@@ -22,11 +22,33 @@
     <div class="card-grid">
       {% assign items = site[page.collection_key] | sort: 'order' %}
       {% for item in items %}
-      <a class="section-card" href="{{ item.url | relative_url }}">
-        <span class="section-card-icon">{{ item.icon | default: "📄" }}</span>
-        <span class="section-card-title">{{ item.title }}</span>
-        <span class="section-card-excerpt">{{ item.content | strip_html | strip_newlines | truncate: 110 }}</span>
-      </a>
+      {% unless item.group_of %}
+        {% assign children = items | where: 'group_of', item.slug %}
+        {% if children.size > 0 %}
+        <div class="section-group">
+          <a class="section-card section-card-parent" href="{{ item.url | relative_url }}">
+            <span class="section-card-icon">{{ item.icon | default: "📄" }}</span>
+            <span class="section-card-title">{{ item.title }}</span>
+            <span class="section-card-excerpt">{{ item.content | strip_html | strip_newlines | truncate: 110 }}</span>
+          </a>
+          <div class="section-group-children">
+            {% for child in children %}
+            <a class="section-card section-card-child" href="{{ child.url | relative_url }}">
+              <span class="section-card-icon">{{ child.icon | default: "📄" }}</span>
+              <span class="section-card-title">{{ child.title }}</span>
+              <span class="section-card-excerpt">{{ child.content | strip_html | strip_newlines | truncate: 90 }}</span>
+            </a>
+            {% endfor %}
+          </div>
+        </div>
+        {% else %}
+        <a class="section-card" href="{{ item.url | relative_url }}">
+          <span class="section-card-icon">{{ item.icon | default: "📄" }}</span>
+          <span class="section-card-title">{{ item.title }}</span>
+          <span class="section-card-excerpt">{{ item.content | strip_html | strip_newlines | truncate: 110 }}</span>
+        </a>
+        {% endif %}
+      {% endunless %}
       {% endfor %}
     </div>
 
