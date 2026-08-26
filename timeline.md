@@ -15,7 +15,7 @@ image_height: 600
 </nav>
 
 <header class="entry-header">
-  <span class="entry-icon">📕</span>
+  <span class="entry-icon"><img src="/assets/chronicles/images/image8.png" alt="" style="width: 1.8rem; height: 1.8rem; vertical-align: -0.25rem;"></span>
   <h1 class="page-title">Series Timeline</h1>
 </header>
 
@@ -30,7 +30,7 @@ image_height: 600
 <div class="timeline-rail">
   <div class="timeline-entry type-lore">
     <div class="timeline-entry-header">
-      <span class="timeline-entry-date"><span class="redacted" aria-hidden="true">DATDAD</span><span class="sr-only">redacted</span> IC</span>
+      <span class="timeline-entry-date"><span class="redacted" aria-hidden="true">????????</span><span class="sr-only">redacted</span> IC</span>
       <span class="timeline-entry-tag type-lore">Lore Event</span>
     </div>
     <h2 class="timeline-entry-title">Before Everything</h2>
@@ -48,7 +48,7 @@ image_height: 600
     <h2 class="timeline-entry-title">The Daily Dolphe</h2>
     <div class="timeline-entry-body">
       <p><strong>Dolphe</strong>, alongside a few friends, establishes &ldquo;The Daily Dolphe,&rdquo; an independent news agency focused on delivering truth. Icon Leaders <strong>Xender</strong> and <strong>HHyper</strong> represent the first meeting between Acatrya and H-Nation (the two major nations), after 90 years of silence.</p>
-      <p>They both vow to a mutualistic society, and an equal division of rights over the remains of Eris.</p>
+      <p>They both vow to a mutualistic society, and an equal division of rights over Eris remains in place.</p>
     </div>
     <p class="timeline-gap">&#8627; 8 years later</p>
   </div>
@@ -71,7 +71,7 @@ image_height: 600
     </div>
     <h2 class="timeline-entry-title">Glacier 15</h2>
     <div class="timeline-entry-body">
-      <p><strong>Glacier 15</strong>, a once-thriving city, is reduced to frozen rubble from a cover-up &ldquo;incident.&rdquo; One survivor is <strong>Josh</strong>, who lost his home and realizes the corruption of Xender's regime.</p>
+      <p><strong>Glacier 15</strong>, a once-thriving city, is reduced to frozen rubble from a cover-up of an unknown &ldquo;incident.&rdquo; One survivor is <strong>Josh</strong>, who lost his home and realizes the corruption of Xender's regime.</p>
       <p>Shortly after, Xender shuts down The Daily Dolphe, which rebrands to &ldquo;<strong>Team Cascade</strong>.&rdquo; Team Cascade is an independent military organization that opposes Xender's regime.</p>
     </div>
     <p class="timeline-gap">&#8627; 2 years later</p>
@@ -112,7 +112,7 @@ image_height: 600
     <h2 class="timeline-entry-title">Glacier 15 & Prologue</h2>
     <div class="timeline-entry-body">
       <p>Team Cascade is investigating the ruined city of Glacier 15, two years after the incident. Members on the operation include Dolphe, Nebula, Gostley, Andy, Virtual, and others. An anomaly appears on Team Cascade's radar, so Dolphe sends Nebula and Gostley to investigate.</p>
-      <p>Meanwhile, <strong>[Player]</strong> treads through the frozen terrain. Famished, a beacon appears in the distance &mdash; Team Cascade's base. [Player] makes their way to the beacon, powering heat beacons to survive, and soon makes contact with Nebula and Gostley. A mechanical worm emerges, tearing through the icy landscape and unleashing energy blasts. After narrowly escaping the worm, [Player] joins Team Cascade at their base.</p>
+      <p>Meanwhile, <strong>[Player]</strong> treads through the frozen terrain. Famished, a beacon appears in the distance &mdash; Team Cascade's base. [Player] makes their way to the beacon, powering heat beacons to survive, and soon makes contact with Nebula and Gostley. A mechanical worm emerges, tearing through the icy landscape and unleashing its energy blasts. After narrowly escaping the worm, [Player] joins Team Cascade at their base.</p>
     </div>
     <figure class="timeline-entry-image">
       <img src="/assets/images/timeline/glacier-15-prologue.jpg" alt="Glacier 15 & Prologue &mdash; scene from the level" loading="lazy">
@@ -139,8 +139,8 @@ image_height: 600
     </div>
     <h2 class="timeline-entry-title">Operation Wastelands</h2>
     <div class="timeline-entry-body">
-      <p>After joining Team Cascade, <strong>[Player]</strong> and other Cascade members representing <strong>[Squad 1]</strong> are sent to protect and rescue strikers, protesters, and rioters in The Wastelands. Meanwhile, Stubby expresses frustration to Xender over Ocellios Lab and the escaped &ldquo;vessel.&rdquo; Boss John sends mechs to eliminate the dissenters, but runs into trouble with Team Cascade.</p>
-      <p>After destroying a mech, Team Cascade retreats to Terra Dock, receiving word that <strong>[Squad 2]</strong> has successfully retrieved a Xendium supercomputer &mdash; and that a move on Xender will soon be needed.</p>
+      <p>After joining Team Cascade, <strong>[Player]</strong> and other Cascade members representing <strong>[SQUAD 1]</strong> are sent to protect and rescue strikers, protesters, and rioters in The Wastelands. Meanwhile, Stubby expresses frustration to Xender over Ocellios Lab and the escaped &ldquo;vessel.&rdquo; Boss John sends mechs to eliminate the dissenters, but runs into trouble with Team Cascade.</p>
+      <p>After destroying a mech, Team Cascade retreats to Terra Dock, receiving word that <strong>[SQUAD 2]</strong> has successfully retrieved a Xendium supercomputer &mdash; and that a move on Xender will soon be needed.</p>
     </div>
     <figure class="timeline-entry-image">
       <img src="/assets/images/timeline/wastelands-hellfire.jpg" alt="Operation Wastelands &mdash; scene from the level" loading="lazy">
@@ -155,7 +155,7 @@ image_height: 600
     </div>
     <h2 class="timeline-entry-title">Mission Hellfire</h2>
     <div class="timeline-entry-body">
-      <p>Team Cascade sends <strong>[Caliper]</strong> and other Cascade members representing <strong>[Squad 2]</strong> to investigate a lab in the Hotlands. Meanwhile, Xender sends Thedoggyp and others to secure the Xendium Lab, a center for supercomputer research.</p>
+      <p>Team Cascade sends <strong>[Caliper]</strong> and other Cascade members representing <strong>[SQUAD 2]</strong> to investigate a lab in the Hotlands. Meanwhile, Xender sends Thedoggyp and others to secure the Xendium Lab, a center for supercomputer research.</p>
       <p>Squad 2 and Xender's squad collide, but after clumsily taking down mechs and Thedoggyp, Squad 2 escapes with Xender's supercomputer &mdash; which will be used to decrypt Subject 29's files.</p>
     </div>
     <p class="timeline-gap">&#8627; 2 days later</p>
@@ -220,7 +220,7 @@ image_height: 600
     <h2 class="timeline-entry-title">Project Novaform</h2>
     <div class="timeline-entry-body">
       <p>After the events of Ocellios, Team Cascade regroups, salvaging the remains of Acatrya's Queen and aiding survivors. Cascade notices <strong>[Player]</strong> is missing and undetectable. Meanwhile, Duko and Broskm deliver the &ldquo;superweapon&rdquo; to HHyper &mdash; a core that can power Project Novaform.</p>
-      <p>On the morning of Aug 26, H-Nation invades the Outpost, unleashing Project Novaform with it. [Dolphe] and the rest of Cascade take down HHyper's forces, including Bli, HHyper's Eidolon of frost. Meanwhile, Stubby captures the Vessel, planning to &ldquo;bring a new era to the world.&rdquo; Boss John unexpectedly finds HHyper.</p>
+      <p>On the morning of Aug 26, H-Nation invades the Outpost, unleashing Project Novaform with it. [Dolphe] and the rest of Cascade take down HHyper's forces, including Bli, HHyper's Eidolon of frost. Meanwhile, Stubby captures the Vessel, planning to &ldquo;bring a new era to this world.&rdquo; Boss John unexpectedly finds HHyper.</p>
     </div>
     <figure class="timeline-entry-image">
       <img src="/assets/images/timeline/novaform-mk2.jpg" alt="Project Novaform &mdash; scene from the level" loading="lazy">
@@ -247,10 +247,10 @@ image_height: 600
     </div>
     <h2 class="timeline-entry-title">Abyssnia</h2>
     <div class="timeline-entry-body">
-      <p>H-Nation, Acatrya forces, Team Cascade, and Stubby's <span class="redacted" aria-hidden="true">XXXXXXXXXXXX</span><span class="sr-only">redacted</span> <span class="redacted" aria-hidden="true">XXXXXX</span><span class="sr-only">redacted</span> converge on Abyssnia.</p>
+      <p>H-Nation, Acatrya forces, Team Cascade, and Stubby's <span class="redacted" aria-hidden="true">XXXXXXXXX</span><span class="sr-only">redacted</span> <span class="redacted" aria-hidden="true">XXXXX</span><span class="sr-only">redacted</span> converge on Abyssnia.</p>
     </div>
     <span class="timeline-end">The End</span>
   </div>
 </div>
 
-<p class="timeline-source-note"><strong>[Bracketed names]</strong> mark the self-insert player character or other codenamed/unconfirmed identities. Adapted from the official <a href="{{ site.links.timeline_slides }}" target="_blank" rel="noopener">Series Timeline and Summary</a> slides.</p>
+<p class="timeline-source-note"><strong>[Player]</strong> is a self-insert &mdash; a cat icon rendered in the player's chosen colors. Other <strong>[bracketed names]</strong> mark codenamed or unconfirmed identities. Adapted from the official <a href="{{ site.links.timeline_slides }}" target="_blank" rel="noopener">Series Timeline and Summary</a> slides.</p>
