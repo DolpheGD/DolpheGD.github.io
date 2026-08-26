@@ -2,6 +2,12 @@ title: The Dolpheverse Lore
 description: Lore for Dolphe's Geometry Dash level series
 markdown: kramdown
 
+links:
+  team_discord: https://discord.gg/vm8P6xWHdv
+  lore_discord: https://discord.gg/C9tkEYGcMQ
+  google_doc: https://docs.google.com/document/d/1SG9VJY71UT77JTrUE-HR5_dAAgGHBUzb3nKtlRjXZe8/edit?usp=sharing
+  youtube: https://youtube.com/channel/@dolphe
+
 collections:
   classified:
     output: true

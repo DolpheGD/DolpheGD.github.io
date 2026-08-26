@@ -9,5 +9,11 @@
       <a href="{{ '/classified-files/' | relative_url }}"{% if page.section == 'classified-files' %} class="active"{% endif %}>Classified Files</a>
       <a href="{{ '/chronicles/' | relative_url }}"{% if page.section == 'chronicles' %} class="active"{% endif %}>Chronicles</a>
     </nav>
+    <nav class="site-links" aria-label="Community links">
+      <a href="{{ site.links.team_discord }}" target="_blank" rel="noopener" title="Team Discord" aria-label="Team Discord">💬</a>
+      <a href="{{ site.links.lore_discord }}" target="_blank" rel="noopener" title="Lore Discord" aria-label="Lore Discord">📖</a>
+      <a href="{{ site.links.google_doc }}" target="_blank" rel="noopener" title="Official Google Doc" aria-label="Official Google Doc">📄</a>
+      <a href="{{ site.links.youtube }}" target="_blank" rel="noopener" title="YouTube" aria-label="YouTube">▶️</a>
+    </nav>
   </div>
 </header>

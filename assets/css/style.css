@@ -82,6 +82,25 @@ img { max-width: 100%; height: auto; }
 .site-nav a:hover { background: var(--accent-soft); color: var(--accent-dark); text-decoration: none; }
 .site-nav a.active { background: var(--accent); color: #fff; }
 
+/* Compact community-link icons (Discord, Google Doc, YouTube) in the header */
+.site-links {
+  display: flex;
+  gap: 0.15rem;
+  padding-left: 0.5rem;
+  border-left: 1px solid var(--border);
+}
+.site-links a {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 2.1rem;
+  height: 2.1rem;
+  border-radius: 8px;
+  font-size: 1.05rem;
+  line-height: 1;
+}
+.site-links a:hover { background: var(--accent-soft); text-decoration: none; }
+
 /* ---------- Layout ---------- */
 .site-main { min-height: 60vh; }
 
@@ -103,6 +122,14 @@ img { max-width: 100%; height: auto; }
   font-size: 0.9rem;
 }
 .site-footer-inner p { margin: 0.25rem 0; }
+.footer-links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.4rem 1.1rem;
+  margin-bottom: 0.9rem;
+}
+.footer-links a { color: var(--text); font-weight: 600; }
+.footer-links a:hover { color: var(--accent); }
 
 /* ---------- Breadcrumb ---------- */
 .breadcrumb {
@@ -206,6 +233,34 @@ h1, h2, h3, h4, h5 { line-height: 1.25; font-weight: 700; }
 .nav-card-title { font-weight: 700; font-size: 1.12rem; display: block; margin-bottom: 0.3rem; }
 .nav-card-desc { color: var(--text-muted); font-size: 0.92rem; }
 
+/* Pill-style link row (homepage community links) */
+.link-row {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.7rem;
+  margin: 1rem 0 2rem;
+}
+.link-chip {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  padding: 0.6rem 1.1rem;
+  border-radius: 999px;
+  border: 1px solid var(--border);
+  background: var(--bg-alt);
+  color: var(--text);
+  font-weight: 600;
+  font-size: 0.94rem;
+  transition: transform 0.12s ease, box-shadow 0.12s ease, border-color 0.12s ease;
+}
+.link-chip:hover {
+  text-decoration: none;
+  transform: translateY(-2px);
+  box-shadow: var(--card-shadow);
+  border-color: var(--accent);
+}
+.link-chip-icon { font-size: 1.05rem; }
+
 /* ---------- Entry pager ---------- */
 .entry-pager {
   display: flex;
@@ -255,6 +310,7 @@ h1, h2, h3, h4, h5 { line-height: 1.25; font-weight: 700; }
   padding: 0.85rem 1.1rem;
   vertical-align: top;
   border-bottom: 1px solid var(--border);
+  overflow-wrap: anywhere;
 }
 
 .entry-content tr:last-child th,
@@ -269,18 +325,38 @@ h1, h2, h3, h4, h5 { line-height: 1.25; font-weight: 700; }
   background: var(--bg-alt);
   font-weight: 700;
   color: var(--text);
+  overflow-wrap: anywhere;
 }
 
-.entry-content th:last-child,
-.page-wrap table th:last-child {
+/* "File XX-000: Title" / "Last Updated: ..." header-bar tables only --
+   NOT every table's last cell, so image/description cells never
+   inherit this (that was clipping multi-image galleries). */
+.entry-content table.file-header th:last-child,
+.page-wrap table.file-header th:last-child {
   color: var(--text-muted);
   font-weight: 600;
   font-size: 0.85rem;
-  white-space: nowrap;
 }
 
-/* Image thumbnails packed inline in a cell -> tidy little gallery */
+/* Short "Clearance level / Class [...]" style labels that used to float
+   as plain text between cards -- folded into the following card as a
+   compact label strip so every line of content lives inside a bubble. */
+.entry-content tr.meta-row th,
+.page-wrap table tr.meta-row th {
+  font-weight: 600;
+  font-size: 0.82rem;
+  color: var(--text-muted);
+  padding-top: 0.65rem;
+  padding-bottom: 0.65rem;
+  line-height: 1.5;
+}
+
+/* Image thumbnails packed inline in a cell -> tidy little gallery.
+   These land in <th> cells (every cell in these tables is a <th>), so
+   the selector has to match th, not just td. */
+.entry-content th img,
 .entry-content td img,
+.page-wrap table th img,
 .page-wrap table td img {
   display: inline-block;
   max-height: 150px;
@@ -289,6 +365,7 @@ h1, h2, h3, h4, h5 { line-height: 1.25; font-weight: 700; }
   border-radius: 8px;
   margin: 0.2rem 0.3rem 0.2rem 0;
   border: 1px solid var(--border);
+  vertical-align: top;
 }
 
 /* ---------- Misc content polish ---------- */

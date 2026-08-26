@@ -8,17 +8,16 @@ section: classified-files
 
  
 
-<table>
+<table class="file-header">
   <thead>
     <tr><th markdown="span">Acatrya</th><th markdown="span">Last Updated: DATDAD, 109 IC</th></tr>
   </thead>
 </table>
 
-Clearance level: 0
-
 <table>
   <thead>
-    <tr><th markdown="span">Acatrya is a nation</th></tr>
+      <tr class="meta-row"><th markdown="span">Clearance level: 0</th></tr>
+<tr><th markdown="span">Acatrya is a nation</th></tr>
   </thead>
 </table>
 

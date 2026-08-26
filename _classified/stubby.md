@@ -6,17 +6,16 @@ order: 16
 section: classified-files
 ---
 
-<table>
+<table class="file-header">
   <thead>
     <tr><th markdown="span">File S-000: Stubby</th><th markdown="span">Last Updated: DATDAD, 109 IC</th></tr>
   </thead>
 </table>
 
-Clearance level: 6
-
 <table>
   <thead>
-    <tr><th markdown="span">![image129](/assets/classified-files/images/image129.png)</th></tr>
+      <tr class="meta-row"><th markdown="span">Clearance level: 6</th></tr>
+<tr><th markdown="span">![image129](/assets/classified-files/images/image129.png)</th></tr>
   </thead>
   <tbody>
     <tr><td markdown="span">The Owner and leader of Ocellios Labs. Specific information about Stubby themself is limited. Frequently runs experiments on prisoners of Acatrya, allegedly perfected void, and designs supermassive mechs of destruction. After the destruction of Ocellios, Stubby has not been located by Cascade forces. However, intel from members suggests that Stubby is planning something with Xender. Stubby is confirmed to be alive after the Destruction Eruption.</td></tr>
@@ -41,16 +40,15 @@ Clearance level: 6
   </thead>
 </table>
 
-<table>
+<table class="file-header">
   <thead>
     <tr><th markdown="span">File S-001: ??????</th><th markdown="span">Last Updated: DATDAD, 109 IC</th></tr>
   </thead>
 </table>
 
-Clearance level: 6
-
 <table>
   <thead>
-    <tr><th markdown="span">??????????????</th><th markdown="span">???????????????</th></tr>
+      <tr class="meta-row"><th markdown="span" colspan="2">Clearance level: 6</th></tr>
+<tr><th markdown="span">??????????????</th><th markdown="span">???????????????</th></tr>
   </thead>
 </table>

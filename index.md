@@ -30,6 +30,15 @@ Lore for Dolphe's Geometry Dash level series — the mainline story, a full ency
   </a>
 </div>
 
+## 🔗 Community & Resources
+
+<div class="link-row">
+  <a class="link-chip" href="{{ site.links.team_discord }}" target="_blank" rel="noopener"><span class="link-chip-icon">💬</span> Team Discord</a>
+  <a class="link-chip" href="{{ site.links.lore_discord }}" target="_blank" rel="noopener"><span class="link-chip-icon">📖</span> Lore Discord</a>
+  <a class="link-chip" href="{{ site.links.google_doc }}" target="_blank" rel="noopener"><span class="link-chip-icon">📄</span> Official Google Doc</a>
+  <a class="link-chip" href="{{ site.links.youtube }}" target="_blank" rel="noopener"><span class="link-chip-icon">▶️</span> YouTube Channel</a>
+</div>
+
 <img src="/assets/images/image2.png" alt="Dolpheverse level order chart" style="border-radius: 12px; box-shadow: var(--card-shadow); margin: 0.5rem 0 1rem;">
 
 ## ⭐ Recommended Play Order ⭐
