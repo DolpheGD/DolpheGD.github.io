@@ -10,7 +10,7 @@ description: "Also known as the Abandoned Frozen City and the Lost City. Has a f
 
 <table class="file-header">
   <thead>
-    <tr><th markdown="span">File GE-001: Glacier 15</th><th markdown="span">Last Updated: DATDAD, 109 IC</th></tr>
+    <tr><th markdown="span">File GE-001: Glacier 15</th><th markdown="span">Last Updated: <span class="redacted" aria-hidden="true">DATDAD</span><span class="sr-only">redacted</span>, 109 IC</th></tr>
   </thead>
 </table>
 

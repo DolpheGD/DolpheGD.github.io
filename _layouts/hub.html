@@ -27,7 +27,7 @@
       <span class="hero-card-icon">{{ hero.icon | default: "📄" }}</span>
       <span class="hero-card-body">
         <span class="hero-card-title">{{ hero.title }}</span>
-        <span class="hero-card-excerpt">{{ hero.content | strip_html | strip_newlines | truncate: 200 }}</span>
+        <span class="hero-card-excerpt">{{ hero.description | default: hero.content | strip_html | strip_newlines | truncate: 200 }}</span>
       </span>
     </a>
     {% endfor %}
@@ -41,14 +41,14 @@
           <a class="section-card section-card-parent" href="{{ item.url | relative_url }}">
             <span class="section-card-icon">{{ item.icon | default: "📄" }}</span>
             <span class="section-card-title">{{ item.title }}</span>
-            <span class="section-card-excerpt">{{ item.content | strip_html | strip_newlines | truncate: 110 }}</span>
+            <span class="section-card-excerpt">{{ item.description | default: item.content | strip_html | strip_newlines | truncate: 110 }}</span>
           </a>
           <div class="section-group-children">
             {% for child in children %}
             <a class="section-card section-card-child" href="{{ child.url | relative_url }}">
               <span class="section-card-icon">{{ child.icon | default: "📄" }}</span>
               <span class="section-card-title">{{ child.title }}</span>
-              <span class="section-card-excerpt">{{ child.content | strip_html | strip_newlines | truncate: 90 }}</span>
+              <span class="section-card-excerpt">{{ child.description | default: child.content | strip_html | strip_newlines | truncate: 90 }}</span>
             </a>
             {% endfor %}
           </div>
@@ -57,13 +57,13 @@
         <a class="section-card section-card-wide" href="{{ item.url | relative_url }}">
           <span class="section-card-icon">{{ item.icon | default: "📄" }}</span>
           <span class="section-card-title">{{ item.title }}</span>
-          <span class="section-card-excerpt">{{ item.content | strip_html | strip_newlines | truncate: 160 }}</span>
+          <span class="section-card-excerpt">{{ item.description | default: item.content | strip_html | strip_newlines | truncate: 160 }}</span>
         </a>
         {% else %}
         <a class="section-card" href="{{ item.url | relative_url }}">
           <span class="section-card-icon">{{ item.icon | default: "📄" }}</span>
           <span class="section-card-title">{{ item.title }}</span>
-          <span class="section-card-excerpt">{{ item.content | strip_html | strip_newlines | truncate: 110 }}</span>
+          <span class="section-card-excerpt">{{ item.description | default: item.content | strip_html | strip_newlines | truncate: 110 }}</span>
         </a>
         {% endif %}
       {% endunless %}

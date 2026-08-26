@@ -10,7 +10,7 @@ description: "The standard issue Cascade Ship. This is the only airship Team Cas
 
 <table class="file-header">
   <thead>
-    <tr><th markdown="span">File WV-000: Standard Cascade Ship</th><th markdown="span">Last Updated: DATDAD, 109 IC</th></tr>
+    <tr><th markdown="span">File WV-000: Standard Cascade Ship</th><th markdown="span">Last Updated: <span class="redacted" aria-hidden="true">DATDAD</span><span class="sr-only">redacted</span>, 109 IC</th></tr>
   </thead>
 </table>
 

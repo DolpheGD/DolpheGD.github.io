@@ -10,7 +10,7 @@ description: "Several posters were recovered from the Glacier 15 mission. The fi
 
 <table class="file-header">
   <thead>
-    <tr><th markdown="span">File M-003: Glacier 15 Posters</th><th markdown="span">Last Updated: DATDAD, 109 IC</th></tr>
+    <tr><th markdown="span">File M-003: Glacier 15 Posters</th><th markdown="span">Last Updated: <span class="redacted" aria-hidden="true">DATDAD</span><span class="sr-only">redacted</span>, 109 IC</th></tr>
   </thead>
 </table>
 

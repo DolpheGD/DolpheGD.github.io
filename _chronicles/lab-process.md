@@ -30,23 +30,23 @@ This document is meant to streamline the process of creating in the tech/mech st
 
 \[Otimization\]......................................................\[X\]
 
-\[XXXXXXXXXXXXXXXXX\]................................................\[X\]
+\[<span class="redacted" aria-hidden="true">XXXXXXXXXXXXXXXXX</span><span class="sr-only">redacted</span>\]................................................\[X\]
 
-\[XXXXXXXXXXXXXXXXX\]................................................\[X\]
+\[<span class="redacted" aria-hidden="true">XXXXXXXXXXXXXXXXX</span><span class="sr-only">redacted</span>\]................................................\[X\]
 
-\[XXXXXXXXXXXXXXXXX\]................................................\[X\]
+\[<span class="redacted" aria-hidden="true">XXXXXXXXXXXXXXXXX</span><span class="sr-only">redacted</span>\]................................................\[X\]
 
-\[XXXXXXXXXXXXXXXXX\]................................................\[X\]
+\[<span class="redacted" aria-hidden="true">XXXXXXXXXXXXXXXXX</span><span class="sr-only">redacted</span>\]................................................\[X\]
 
-\[XXXXXXXXXXXXXXXXX\]................................................\[X\]
+\[<span class="redacted" aria-hidden="true">XXXXXXXXXXXXXXXXX</span><span class="sr-only">redacted</span>\]................................................\[X\]
 
-\[XXXXXXXXXXXXXXXXX\]................................................\[X\]
+\[<span class="redacted" aria-hidden="true">XXXXXXXXXXXXXXXXX</span><span class="sr-only">redacted</span>\]................................................\[X\]
 
-\[XXXXXXXXXXXXXXXXX\]................................................\[X\]
+\[<span class="redacted" aria-hidden="true">XXXXXXXXXXXXXXXXX</span><span class="sr-only">redacted</span>\]................................................\[X\]
 
-\[XXXXXXXXXXXXXXXXX\]................................................\[X\]
+\[<span class="redacted" aria-hidden="true">XXXXXXXXXXXXXXXXX</span><span class="sr-only">redacted</span>\]................................................\[X\]
 
-\[XXXXXXXXXXXXXXXXX\]................................................\[X\]
+\[<span class="redacted" aria-hidden="true">XXXXXXXXXXXXXXXXX</span><span class="sr-only">redacted</span>\]................................................\[X\]
 
 ## \[Layer Management\]
 

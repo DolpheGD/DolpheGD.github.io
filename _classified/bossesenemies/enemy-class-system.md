@@ -10,7 +10,7 @@ description: "Team Cascade uses an enemy Class system to determine the average t
 
 <table class="file-header">
   <thead>
-    <tr><th markdown="span">File BE-000: Enemy Class System</th><th markdown="span">Last Updated: DATDAD, 109 IC</th></tr>
+    <tr><th markdown="span">File BE-000: Enemy Class System</th><th markdown="span">Last Updated: <span class="redacted" aria-hidden="true">DATDAD</span><span class="sr-only">redacted</span>, 109 IC</th></tr>
   </thead>
 </table>
 

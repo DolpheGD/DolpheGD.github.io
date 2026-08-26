@@ -10,7 +10,7 @@ description: "The Crawfish is an extremely rare cascade ship model designed for 
 
 <table class="file-header">
   <thead>
-    <tr><th markdown="span">File WV-005: The Crawfish</th><th markdown="span">Last Updated: DATDAD, 109 IC</th></tr>
+    <tr><th markdown="span">File WV-005: The Crawfish</th><th markdown="span">Last Updated: <span class="redacted" aria-hidden="true">DATDAD</span><span class="sr-only">redacted</span>, 109 IC</th></tr>
   </thead>
 </table>
 

@@ -10,7 +10,7 @@ description: "Corrupted Bli is extremely dangerous and unstable, and should be a
 
 <table class="file-header">
   <thead>
-    <tr><th markdown="span">File BE-011: Corrupted Bli</th><th markdown="span">Last Updated: DATDAD, 109 IC</th></tr>
+    <tr><th markdown="span">File BE-011: Corrupted Bli</th><th markdown="span">Last Updated: <span class="redacted" aria-hidden="true">DATDAD</span><span class="sr-only">redacted</span>, 109 IC</th></tr>
   </thead>
 </table>
 
@@ -23,7 +23,7 @@ description: "Corrupted Bli is extremely dangerous and unstable, and should be a
 
 <table class="file-header">
   <thead>
-    <tr><th markdown="span">File BE-011: Corrupted Bli</th><th markdown="span">Last Updated: DATDAD, 109 IC</th></tr>
+    <tr><th markdown="span">File BE-011: Corrupted Bli</th><th markdown="span">Last Updated: <span class="redacted" aria-hidden="true">DATDAD</span><span class="sr-only">redacted</span>, 109 IC</th></tr>
   </thead>
 </table>
 

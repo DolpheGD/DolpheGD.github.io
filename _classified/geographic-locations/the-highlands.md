@@ -10,7 +10,7 @@ description: "The Highlands is a yellowish, rocky mesa biome with high mountains
 
 <table class="file-header">
   <thead>
-    <tr><th markdown="span">File GE-016: The Highlands</th><th markdown="span">Last Updated: DATDAD, 109 IC</th></tr>
+    <tr><th markdown="span">File GE-016: The Highlands</th><th markdown="span">Last Updated: <span class="redacted" aria-hidden="true">DATDAD</span><span class="sr-only">redacted</span>, 109 IC</th></tr>
   </thead>
 </table>
 

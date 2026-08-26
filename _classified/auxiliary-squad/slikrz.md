@@ -10,7 +10,7 @@ description: "A lobotomized cube that appeared in The Wastelands in 100 IC seemi
 
 <table class="file-header">
   <thead>
-    <tr><th markdown="span">File AU-005: Slikrz</th><th markdown="span">Last Updated: DATDAD, 109 IC</th></tr>
+    <tr><th markdown="span">File AU-005: Slikrz</th><th markdown="span">Last Updated: <span class="redacted" aria-hidden="true">DATDAD</span><span class="sr-only">redacted</span>, 109 IC</th></tr>
   </thead>
 </table>
 

@@ -10,7 +10,7 @@ description: "The Sunfish is an uncommon basic Cascade ship model whose purpose 
 
 <table class="file-header">
   <thead>
-    <tr><th markdown="span">File WV-004: The Sunfish</th><th markdown="span">Last Updated: DATDAD, 109 IC</th></tr>
+    <tr><th markdown="span">File WV-004: The Sunfish</th><th markdown="span">Last Updated: <span class="redacted" aria-hidden="true">DATDAD</span><span class="sr-only">redacted</span>, 109 IC</th></tr>
   </thead>
 </table>
 

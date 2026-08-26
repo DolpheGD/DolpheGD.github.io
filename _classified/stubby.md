@@ -10,7 +10,7 @@ description: "The Owner and leader of Ocellios Labs. Specific information about 
 
 <table class="file-header">
   <thead>
-    <tr><th markdown="span">File S-000: Stubby</th><th markdown="span">Last Updated: DATDAD, 109 IC</th></tr>
+    <tr><th markdown="span">File S-000: Stubby</th><th markdown="span">Last Updated: <span class="redacted" aria-hidden="true">DATDAD</span><span class="sr-only">redacted</span>, 109 IC</th></tr>
   </thead>
 </table>
 
@@ -44,7 +44,7 @@ description: "The Owner and leader of Ocellios Labs. Specific information about 
 
 <table class="file-header">
   <thead>
-    <tr><th markdown="span">File S-001: ??????</th><th markdown="span">Last Updated: DATDAD, 109 IC</th></tr>
+    <tr><th markdown="span">File S-001: ??????</th><th markdown="span">Last Updated: <span class="redacted" aria-hidden="true">DATDAD</span><span class="sr-only">redacted</span>, 109 IC</th></tr>
   </thead>
 </table>
 

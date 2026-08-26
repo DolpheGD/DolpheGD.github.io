@@ -10,7 +10,7 @@ description: "A member of Team Cascade and a former biologist and bioweapons eng
 
 <table class="file-header">
   <thead>
-    <tr><th markdown="span">File AU-000: Bee Jee</th><th markdown="span">Last Updated: DATDAD, 109 IC</th></tr>
+    <tr><th markdown="span">File AU-000: Bee Jee</th><th markdown="span">Last Updated: <span class="redacted" aria-hidden="true">DATDAD</span><span class="sr-only">redacted</span>, 109 IC</th></tr>
   </thead>
 </table>
 

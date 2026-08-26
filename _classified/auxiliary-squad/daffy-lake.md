@@ -10,7 +10,7 @@ description: "Daffy and Lake are two siblings who joined Team Cascade after thei
 
 <table class="file-header">
   <thead>
-    <tr><th markdown="span">File AU-009: Daffy & Lake</th><th markdown="span">Last Updated: DATDAD, 109 IC</th></tr>
+    <tr><th markdown="span">File AU-009: Daffy & Lake</th><th markdown="span">Last Updated: <span class="redacted" aria-hidden="true">DATDAD</span><span class="sr-only">redacted</span>, 109 IC</th></tr>
   </thead>
 </table>
 

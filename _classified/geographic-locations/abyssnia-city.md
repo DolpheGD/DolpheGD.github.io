@@ -10,7 +10,7 @@ description: "The largest City of Acatrya. Has a temperate climate with little v
 
 <table class="file-header">
   <thead>
-    <tr><th markdown="span">File GE-000: Abyssnia City</th><th markdown="span">Last Updated: DATDAD, 109 IC</th></tr>
+    <tr><th markdown="span">File GE-000: Abyssnia City</th><th markdown="span">Last Updated: <span class="redacted" aria-hidden="true">DATDAD</span><span class="sr-only">redacted</span>, 109 IC</th></tr>
   </thead>
 </table>
 

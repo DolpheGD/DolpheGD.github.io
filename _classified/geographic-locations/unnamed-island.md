@@ -10,7 +10,7 @@ description: "Not much is known about the Unnamed Island. Team Cascade operative
 
 <table class="file-header">
   <thead>
-    <tr><th markdown="span">File GE-002: Unnamed Island</th><th markdown="span">Last Updated: DATDAD, 109 IC</th></tr>
+    <tr><th markdown="span">File GE-002: Unnamed Island</th><th markdown="span">Last Updated: <span class="redacted" aria-hidden="true">DATDAD</span><span class="sr-only">redacted</span>, 109 IC</th></tr>
   </thead>
 </table>
 

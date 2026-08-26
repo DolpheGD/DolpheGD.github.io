@@ -10,7 +10,7 @@ description: "Void is a type of material"
 
 <table class="file-header">
   <thead>
-    <tr><th markdown="span">File M-000: Void</th><th markdown="span">Last Updated: DATDAD, 109 IC</th></tr>
+    <tr><th markdown="span">File M-000: Void</th><th markdown="span">Last Updated: <span class="redacted" aria-hidden="true">DATDAD</span><span class="sr-only">redacted</span>, 109 IC</th></tr>
   </thead>
 </table>
 

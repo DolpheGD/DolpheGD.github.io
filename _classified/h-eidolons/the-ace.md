@@ -10,7 +10,7 @@ description: "An Unnamed Eidolon Member is not discussed to the public. HHyper r
 
 <table class="file-header">
   <thead>
-    <tr><th markdown="span">File H-006: ?????</th><th markdown="span">Last Updated: DATDAD, 109 IC</th></tr>
+    <tr><th markdown="span">File H-006: ?????</th><th markdown="span">Last Updated: <span class="redacted" aria-hidden="true">DATDAD</span><span class="sr-only">redacted</span>, 109 IC</th></tr>
   </thead>
 </table>
 

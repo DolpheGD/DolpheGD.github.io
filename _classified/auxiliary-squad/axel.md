@@ -10,7 +10,7 @@ description: "Underwent experimentation from Stubby’s Labs after being unjustl
 
 <table class="file-header">
   <thead>
-    <tr><th markdown="span">File AU-008: Axel</th><th markdown="span">Last Updated: DATDAD, 109 IC</th></tr>
+    <tr><th markdown="span">File AU-008: Axel</th><th markdown="span">Last Updated: <span class="redacted" aria-hidden="true">DATDAD</span><span class="sr-only">redacted</span>, 109 IC</th></tr>
   </thead>
 </table>
 

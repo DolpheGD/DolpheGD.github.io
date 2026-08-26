@@ -10,7 +10,7 @@ description: "The Hotlands are a largely uninhabitable stretch of land below the
 
 <table class="file-header">
   <thead>
-    <tr><th markdown="span">File GE-008: The Hotlands</th><th markdown="span">Last Updated: DATDAD, 109 IC</th></tr>
+    <tr><th markdown="span">File GE-008: The Hotlands</th><th markdown="span">Last Updated: <span class="redacted" aria-hidden="true">DATDAD</span><span class="sr-only">redacted</span>, 109 IC</th></tr>
   </thead>
 </table>
 

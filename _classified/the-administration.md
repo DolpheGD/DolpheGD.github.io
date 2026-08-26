@@ -10,7 +10,7 @@ description: "Known as the Leader of Acatrya (otherwise referred to as the Xende
 
 <table class="file-header">
   <thead>
-    <tr><th markdown="span">File X-000: Xender</th><th markdown="span">Last Updated: DATDAD, 109 IC</th></tr>
+    <tr><th markdown="span">File X-000: Xender</th><th markdown="span">Last Updated: <span class="redacted" aria-hidden="true">DATDAD</span><span class="sr-only">redacted</span>, 109 IC</th></tr>
   </thead>
 </table>
 
@@ -23,7 +23,7 @@ description: "Known as the Leader of Acatrya (otherwise referred to as the Xende
 
 <table class="file-header">
   <thead>
-    <tr><th markdown="span">File X-001: Dorve</th><th markdown="span">Last Updated: DATDAD, 109 IC</th></tr>
+    <tr><th markdown="span">File X-001: Dorve</th><th markdown="span">Last Updated: <span class="redacted" aria-hidden="true">DATDAD</span><span class="sr-only">redacted</span>, 109 IC</th></tr>
   </thead>
 </table>
 
@@ -36,7 +36,7 @@ description: "Known as the Leader of Acatrya (otherwise referred to as the Xende
 
 <table class="file-header">
   <thead>
-    <tr><th markdown="span">File X-002: Boss John</th><th markdown="span">Last Updated: DATDAD, 109 IC</th></tr>
+    <tr><th markdown="span">File X-002: Boss John</th><th markdown="span">Last Updated: <span class="redacted" aria-hidden="true">DATDAD</span><span class="sr-only">redacted</span>, 109 IC</th></tr>
   </thead>
 </table>
 
@@ -49,7 +49,7 @@ description: "Known as the Leader of Acatrya (otherwise referred to as the Xende
 
 <table class="file-header">
   <thead>
-    <tr><th markdown="span">File X-003: Samuel</th><th markdown="span">Last Updated: DATDAD, 109 IC</th></tr>
+    <tr><th markdown="span">File X-003: Samuel</th><th markdown="span">Last Updated: <span class="redacted" aria-hidden="true">DATDAD</span><span class="sr-only">redacted</span>, 109 IC</th></tr>
   </thead>
 </table>
 

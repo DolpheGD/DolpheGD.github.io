@@ -229,7 +229,7 @@ As of Dec 31, 94 IC The Daily Dolphe will transition to an ad-free, entirely onl
 
 <table>
   <thead>
-    <tr><th markdown="span">ANKB LA NK ANKBLA NKB LANKB LANKB LANKBLA contact impossible due to a sudden disappearance of ANKBLANK ANKB LA NK Possibly linked to project XXXXXXXXX due to evidence of LANKB LANKBLA NKB LA ANKB and LA NK ANKBLA NKKBLANKBL ANKBLA According to ABLA the military has been dispatched to ANKBLA NKBANKB LANKBLA NKB L BLANK  BLANK BL ANKBLA BLAN KBL ANKBLANK last contact at 3:00 AM BL ANKBLANKB LANK B despite many officials are scrambling to cover up the ANKBLA  ABLANKBLANK BL ANKBLA NKB LANKB possibly linked to Ocellios Labs, evidence shows LANKB LANKBLA  NKB LANKB LANKB LANKBLA NK LANKB LANKBLA tests show clear online censorship as well as tracking of  LANKB LAN.NKB L BLANK ANKBLANKB LAN.</th></tr>
+    <tr><th markdown="span">ANKB LA NK ANKBLA NKB LANKB LANKB LANKBLA contact impossible due to a sudden disappearance of ANKBLANK ANKB LA NK Possibly linked to project <span class="redacted" aria-hidden="true">XXXXXXXXX</span><span class="sr-only">redacted</span> due to evidence of LANKB LANKBLA NKB LA ANKB and LA NK ANKBLA NKKBLANKBL ANKBLA According to ABLA the military has been dispatched to ANKBLA NKBANKB LANKBLA NKB L BLANK  BLANK BL ANKBLA BLAN KBL ANKBLANK last contact at 3:00 AM BL ANKBLANKB LANK B despite many officials are scrambling to cover up the ANKBLA  ABLANKBLANK BL ANKBLA NKB LANKB possibly linked to Ocellios Labs, evidence shows LANKB LANKBLA  NKB LANKB LANKB LANKBLA NK LANKB LANKBLA tests show clear online censorship as well as tracking of  LANKB LAN.NKB L BLANK ANKBLANKB LAN.</th></tr>
   </thead>
 </table>
 

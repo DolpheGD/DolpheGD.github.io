@@ -10,7 +10,7 @@ description: "An Eidolon that was dormant for a while, but resurfaced as of rece
 
 <table class="file-header">
   <thead>
-    <tr><th markdown="span">File H-004: Koma</th><th markdown="span">Last Updated: DATDAD, 109 IC</th></tr>
+    <tr><th markdown="span">File H-004: Koma</th><th markdown="span">Last Updated: <span class="redacted" aria-hidden="true">DATDAD</span><span class="sr-only">redacted</span>, 109 IC</th></tr>
   </thead>
 </table>
 

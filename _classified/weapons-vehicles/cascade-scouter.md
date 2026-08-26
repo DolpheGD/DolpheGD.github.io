@@ -10,7 +10,7 @@ description: "The Cascade Scouter is a semi-rare Cascade ship model exclusively 
 
 <table class="file-header">
   <thead>
-    <tr><th markdown="span">File WV-006: Cascade Scouter</th><th markdown="span">Last Updated: DATDAD, 109 IC</th></tr>
+    <tr><th markdown="span">File WV-006: Cascade Scouter</th><th markdown="span">Last Updated: <span class="redacted" aria-hidden="true">DATDAD</span><span class="sr-only">redacted</span>, 109 IC</th></tr>
   </thead>
 </table>
 

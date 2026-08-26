@@ -10,7 +10,7 @@ description: "The Ocellios Defense system is located in the heart of the Ocellio
 
 <table class="file-header">
   <thead>
-    <tr><th markdown="span">File BE-005: Ocellios Defense System</th><th markdown="span">Last Updated: DATDAD, 109 IC</th></tr>
+    <tr><th markdown="span">File BE-005: Ocellios Defense System</th><th markdown="span">Last Updated: <span class="redacted" aria-hidden="true">DATDAD</span><span class="sr-only">redacted</span>, 109 IC</th></tr>
   </thead>
 </table>
 

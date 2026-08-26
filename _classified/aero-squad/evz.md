@@ -10,7 +10,7 @@ description: "A member of Team Cascade, originating from Stormpoint City. He stu
 
 <table class="file-header">
   <thead>
-    <tr><th markdown="span">File AS-003: Evz</th><th markdown="span">Last Updated: DATDAD, 109 IC</th></tr>
+    <tr><th markdown="span">File AS-003: Evz</th><th markdown="span">Last Updated: <span class="redacted" aria-hidden="true">DATDAD</span><span class="sr-only">redacted</span>, 109 IC</th></tr>
   </thead>
 </table>
 

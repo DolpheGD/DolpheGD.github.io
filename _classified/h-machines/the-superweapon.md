@@ -10,7 +10,7 @@ description: "Also known as Project Novaform’s Core, Superweapon Core, Superwe
 
 <table class="file-header">
   <thead>
-    <tr><th markdown="span">File HM-002: The “Superweapon”</th><th markdown="span">Last Updated: DATDAD, 109 IC</th></tr>
+    <tr><th markdown="span">File HM-002: The “Superweapon”</th><th markdown="span">Last Updated: <span class="redacted" aria-hidden="true">DATDAD</span><span class="sr-only">redacted</span>, 109 IC</th></tr>
   </thead>
 </table>
 

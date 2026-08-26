@@ -10,7 +10,7 @@ description: "A member of Team Cascade, originating from H-Nation. Blastix’s b
 
 <table class="file-header">
   <thead>
-    <tr><th markdown="span">File SU-003: Blastix</th><th markdown="span">Last Updated: DATDAD, 109 IC</th></tr>
+    <tr><th markdown="span">File SU-003: Blastix</th><th markdown="span">Last Updated: <span class="redacted" aria-hidden="true">DATDAD</span><span class="sr-only">redacted</span>, 109 IC</th></tr>
   </thead>
 </table>
 

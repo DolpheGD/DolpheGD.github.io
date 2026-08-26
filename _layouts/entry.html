@@ -86,7 +86,7 @@
         <a class="section-card" href="{{ child.url | relative_url }}">
           <span class="section-card-icon">{{ child.icon | default: "📄" }}</span>
           <span class="section-card-title">{{ child.title }}</span>
-          <span class="section-card-excerpt">{{ child.content | strip_html | strip_newlines | truncate: 110 }}</span>
+          <span class="section-card-excerpt">{{ child.description | default: child.content | strip_html | strip_newlines | truncate: 110 }}</span>
         </a>
         {% endfor %}
       </div>

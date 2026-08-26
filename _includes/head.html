@@ -19,6 +19,9 @@
 <meta property="og:description" content="{{ seo_desc }}">
 <meta property="og:url" content="{{ seo_url }}">
 <meta property="og:image" content="{{ seo_image | absolute_url }}">
+<meta property="og:image:width" content="{{ site.image_width | default: 1593 }}">
+<meta property="og:image:height" content="{{ site.image_height | default: 896 }}">
+<meta property="og:image:alt" content="{{ page.title | default: site.title }}">
 <meta property="og:locale" content="en_US">
 
 <!-- Twitter Card -->
@@ -26,6 +29,7 @@
 <meta name="twitter:title" content="{{ seo_title }}">
 <meta name="twitter:description" content="{{ seo_desc }}">
 <meta name="twitter:image" content="{{ seo_image | absolute_url }}">
+<meta name="twitter:image:alt" content="{{ page.title | default: site.title }}">
 
 <!-- Favicon (inline SVG, matches the site's ⭐ brand mark -- no extra asset request) -->
 <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Ctext y='.9em' font-size='90'%3E%E2%AD%90%3C/text%3E%3C/svg%3E">
@@ -41,5 +45,9 @@
   "url": {{ site.url | jsonify }}
 }
 </script>
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Special+Elite&display=swap" rel="stylesheet">
 
 <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
