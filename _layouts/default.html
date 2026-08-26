@@ -3,7 +3,7 @@
 <head>
 {% include head.html %}
 </head>
-<body>
+<body class="section-{{ page.section | default: 'site' }}">
 {% include nav.html %}
 <main class="site-main">
   <div class="page-wrap">

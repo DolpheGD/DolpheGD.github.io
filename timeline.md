@@ -2,6 +2,7 @@
 layout: default
 title: "Series Timeline"
 permalink: /timeline/
+section: timeline
 description: "A chronological history of the Dolpheverse, from the fall of the ancient city of Eris to the final convergence on Abyssnia."
 image: /assets/images/timeline/destruction-eruption.jpg
 image_width: 1130

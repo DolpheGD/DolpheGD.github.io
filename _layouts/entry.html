@@ -3,7 +3,7 @@
 <head>
 {% include head.html %}
 </head>
-<body>
+<body class="section-{{ page.section | default: 'site' }}">
 {% include nav.html %}
 <main class="site-main">
   <div class="page-wrap">
@@ -87,6 +87,22 @@
           <span class="section-card-icon">{{ child.icon | default: "📄" }}</span>
           <span class="section-card-title">{{ child.title }}</span>
           <span class="section-card-excerpt">{{ child.description | default: child.content | strip_html | strip_newlines | truncate: 110 }}</span>
+        </a>
+        {% endfor %}
+      </div>
+    </div>
+    {% endif %}
+
+    {% assign related_items = pager_items | where_exp: "i", "i.url != page.url" %}
+    {% if related_items.size > 0 %}
+    <div class="child-entries related-files">
+      <h2 class="child-entries-title">See Also</h2>
+      <div class="card-grid">
+        {% for item in related_items limit:6 %}
+        <a class="section-card" href="{{ item.url | relative_url }}">
+          <span class="section-card-icon">{{ item.icon | default: "📄" }}</span>
+          <span class="section-card-title">{{ item.title }}</span>
+          <span class="section-card-excerpt">{{ item.description | default: item.content | strip_html | strip_newlines | truncate: 110 }}</span>
         </a>
         {% endfor %}
       </div>

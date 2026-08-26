@@ -12,6 +12,26 @@ permalink: /
 
 Lore for Dolphe's Geometry Dash level series — the mainline story, a full encyclopedia of characters and factions, and the side stories and artifacts that fill in the rest of the world.
 
+{% assign top_factions = site.classified | where_exp: "i", "i.group_of == nil" %}
+<div class="stats-strip">
+  <div class="stat-tile">
+    <span class="stat-number">{{ site.classified.size }}</span>
+    <span class="stat-label">Classified Files</span>
+  </div>
+  <div class="stat-tile">
+    <span class="stat-number">{{ site.chronicles.size }}</span>
+    <span class="stat-label">Chronicle Entries</span>
+  </div>
+  <div class="stat-tile">
+    <span class="stat-number">{{ site.data.timeline.count }}</span>
+    <span class="stat-label">Timeline Events</span>
+  </div>
+  <div class="stat-tile">
+    <span class="stat-number">{{ top_factions.size }}</span>
+    <span class="stat-label">Major Factions</span>
+  </div>
+</div>
+
 <div class="nav-card-grid">
   <a class="nav-card" href="/timeline/">
     <span class="nav-card-icon"><img src="/assets/chronicles/images/image8.png" alt="" style="width: 1.8rem; height: 1.8rem;"></span>
