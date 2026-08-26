@@ -13,7 +13,7 @@ permalink: /
 Lore for Dolphe's Geometry Dash level series — the mainline story, a full encyclopedia of characters and factions, and the side stories and artifacts that fill in the rest of the world.
 
 <div class="nav-card-grid">
-  <a class="nav-card" href="https://docs.google.com/presentation/d/1O-p_AB1jbQi3y7Q-Axrke7MKcVPh7OYxu0zh5VDWyII/edit?usp=sharing">
+  <a class="nav-card" href="/assets/Series Timeline and Summary.pdf">
     <span class="nav-card-icon">📕</span>
     <span class="nav-card-title">Series Timeline and Summary</span>
     <span class="nav-card-desc">Documents the mainline series of events that transpires after Ocellios Lab, July 26, 109 IC. The storyline follows a self-inserted [PLAYER] escaping Ocellios Lab.</span>
