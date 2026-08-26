@@ -16,7 +16,7 @@ section: chronicles
 
 <table>
   <thead>
-    <tr><th markdown="span">Table of Contents: The Daily Dolphe The Legend of Josh Everyday in Dolpheverse Mission Hellfire Broskm From The Depths</th></tr>
+    <tr><th markdown="span">Table of Contents: [The Daily Dolphe](/chronicles/the-daily-dolphe/), [The Legend of Josh](/chronicles/the-legend-of-josh/), [Everyday in Dolpheverse](/chronicles/everyday-in-dolpheverse/), [Mission Hellfire](/chronicles/mission-hellfire/), [Broskm](/chronicles/broskm/), [From The Depths](/chronicles/from-the-depths/)</th></tr>
   </thead>
 </table>
 

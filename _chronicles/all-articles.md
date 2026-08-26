@@ -277,7 +277,7 @@ As of Dec 31, 94 IC The Daily Dolphe will transition to an ad-free, entirely onl
 <table>
   <thead>
       <tr class="meta-row"><th markdown="span" colspan="2">**DECLARATION OF WAR**</th></tr>
-<tr><th markdown="span">As of Jul 27, 109 IC, HHyper has officially declared war on the Acatrya. Our analysis shows likely factors being the cause: 98 IC: Xender’s ownership of Ocellios 108 IC: dispute over Eris-void technology 108 IC: Void Crevasse border dispute, collapse of international trade. Mar 5, 109 IC: Void Instability Project Jul 26, 109 IC: Ocellios Labs Disaster, or the “Destruction Eruption Incident”</th><th markdown="span">![image20](/assets/chronicles/images/image20.png)</th></tr>
+<tr><th markdown="span">As of Jul 27, 109 IC, HHyper has officially declared war on the Acatrya. Our analysis shows likely factors being the cause:<br>• 98 IC: Xender’s ownership of Ocellios<br>• 108 IC: dispute over Eris-void technology<br>• 108 IC: Void Crevasse border dispute, collapse of international trade<br>• Mar 5, 109 IC: Void Instability Project<br>• Jul 26, 109 IC: Ocellios Labs Disaster, or the “Destruction Eruption Incident”</th><th markdown="span">![image20](/assets/chronicles/images/image20.png)</th></tr>
   </thead>
 </table>
 

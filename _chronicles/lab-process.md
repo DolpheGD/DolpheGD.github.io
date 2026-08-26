@@ -58,7 +58,7 @@ This table lists Assets that should be on the different Z layers.
   </thead>
   <tbody>
     <tr><td markdown="span">BG1</td><td markdown="span">BG2</td><td markdown="span">MG</td><td markdown="span">MG2</td><td markdown="span">Block Deco</td><td markdown="span">Block Deco2</td><td markdown="span">FG</td><td markdown="span">FG2</td><td markdown="span">Mask/FG</td><td markdown="span">HUD</td></tr>
-    <tr><td markdown="span">GLOWB5</td><td markdown="span">BG1 Glow</td><td markdown="span">BG2 Glow</td><td markdown="span">MG Glow</td><td markdown="span">MG2Glow</td><td markdown="span">Block Glow</td><td markdown="span">Block Glow2</td><td markdown="span">FG Glow</td><td markdown="span">FG Glow2</td><td markdown="span">MASK Glow</td></tr>
+    <tr><td markdown="span">GLOW B5</td><td markdown="span">BG1 Glow</td><td markdown="span">BG2 Glow</td><td markdown="span">MG Glow</td><td markdown="span">MG2 Glow</td><td markdown="span">Block Glow</td><td markdown="span">Block Glow2</td><td markdown="span">FG Glow</td><td markdown="span">FG Glow2</td><td markdown="span">MASK Glow</td></tr>
   </tbody>
 </table>
 

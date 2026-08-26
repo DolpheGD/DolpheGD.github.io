@@ -45,12 +45,14 @@ Lore for Dolphe's Geometry Dash level series — the mainline story, a full ency
 
 🎥 = There is a separate prologue associated with this level.
 
-<table>
-  <tr>
-    <td>Destruction Eruption Glacier 15 🎥 Operation Wastelands Mission Hellfire</td>
-    <td>The Voidlands Ocellios Project Novaform Mk2</td>
-  </tr>
-</table>
+1. Destruction Eruption
+2. Glacier 15 🎥
+3. Operation Wastelands
+4. Mission Hellfire
+5. The Voidlands
+6. Ocellios
+7. Project Novaform
+8. Mk2
 
 **Notes:**
 - The Voidlands will be replaced in the future.

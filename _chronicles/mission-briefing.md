@@ -22,8 +22,8 @@ section: chronicles
     <tr><th markdown="span">Team Leader: Caliper</th><th markdown="span">![image40](/assets/chronicles/images/image40.png)</th></tr>
   </thead>
   <tbody>
-    <tr><td markdown="span">**Combat Crew:** Refender Aura Star Kotori</td><td markdown="span"></td></tr>
-    <tr><td markdown="span">**Supercomputer Crew:** Gostley Chary Aizer Sader</td><td markdown="span">![image41](/assets/chronicles/images/image41.png)</td></tr>
+    <tr><td markdown="span">**Combat Crew:** Refender, Aura, Star, Kotori</td><td markdown="span"></td></tr>
+    <tr><td markdown="span">**Supercomputer Crew:** Gostley, Chary, Aizer, Sader</td><td markdown="span">![image41](/assets/chronicles/images/image41.png)</td></tr>
   </tbody>
 </table>
 
