@@ -5,6 +5,7 @@ icon: "❄️"
 order: 6
 section: classified-files
 group_of: "h-eidolons"
+description: "Eidolon Assassin, who worked for HHyper until 109 IC. Traces show that the ice on Bli’s body was linked to samples from Glacier 15’s ice. Ocellios Lab…"
 ---
 
 <table class="file-header">

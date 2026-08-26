@@ -5,6 +5,7 @@ icon: "📊"
 order: 1
 section: classified-files
 group_of: "bossesenemies"
+description: "Team Cascade uses an enemy Class system to determine the average threat level of enemies encountered. Each Class is given a label X, S, A, B, C, D, N…"
 ---
 
 <table class="file-header">

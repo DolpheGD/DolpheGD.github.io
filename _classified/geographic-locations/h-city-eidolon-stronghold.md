@@ -5,6 +5,7 @@ icon: "📍"
 order: 14
 section: classified-files
 group_of: "geographic-locations"
+description: "H-city and the Eidolon Stronghold rest in the heart of the central H-Nation. Has a temperate to cold weather with little variation. Due to its large size…"
 ---
 
 <table class="file-header">

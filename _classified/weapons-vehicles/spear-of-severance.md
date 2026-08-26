@@ -5,6 +5,7 @@ icon: "🔱"
 order: 3
 section: classified-files
 group_of: "weapons-vehicles"
+description: "Spear of Severance is a secret one-time-use weapon manufactured by Team Cascade. The blueprints to construct it were unveiled during the Glacier 15…"
 ---
 
 <table class="file-header">

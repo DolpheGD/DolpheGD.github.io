@@ -5,6 +5,7 @@ icon: "📍"
 order: 5
 section: classified-files
 group_of: "geographic-locations"
+description: "Ocellios Lab is a massive research facility owned by Stubby Inc. It has a cold to temperate climate with little variation. Nearly always sunny, with…"
 ---
 
 <table class="file-header">

@@ -5,6 +5,7 @@ icon: "🐻‍❄️"
 order: 4
 section: classified-files
 group_of: "auxiliary-squad"
+description: "A member of Team Cascade, identifying as a polar bear. Polo, also known as Gaipolo, has no unique specialties. Originating from the Wastelands, Polo…"
 ---
 
 <table class="file-header">

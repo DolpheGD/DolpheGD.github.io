@@ -5,6 +5,7 @@ icon: "🤖"
 order: 2
 section: classified-files
 group_of: "defense-division"
+description: "Earny is"
 ---
 
 <table class="file-header">

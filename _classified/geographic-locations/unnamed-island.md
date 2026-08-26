@@ -5,6 +5,7 @@ icon: "📍"
 order: 3
 section: classified-files
 group_of: "geographic-locations"
+description: "Not much is known about the Unnamed Island. Team Cascade operatives have not been able to travel to the island. It is speculated that either illegal…"
 ---
 
 <table class="file-header">

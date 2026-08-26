@@ -5,6 +5,7 @@ icon: "⚫"
 order: 1
 section: classified-files
 group_of: "miscellaneous-files"
+description: "Void is a type of material"
 ---
 
 <table class="file-header">

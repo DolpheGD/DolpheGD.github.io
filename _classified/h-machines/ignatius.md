@@ -5,6 +5,7 @@ icon: "🚀"
 order: 2
 section: classified-files
 group_of: "h-machines"
+description: "Ignatius is a large H-nation airship estimated to have 40-50 crew members. The airship is relatively fragile due to being composed of the same “H-metal…"
 ---
 
 <table class="file-header">

@@ -5,6 +5,7 @@ icon: "📍"
 order: 13
 section: classified-files
 group_of: "geographic-locations"
+description: "The Eroded Wastes is a section of HHyper’s territory that has largely been uninhabited for the last 100 years. Has a dry climate with severe variation…"
 ---
 
 <table class="file-header">

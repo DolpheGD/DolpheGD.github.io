@@ -5,6 +5,7 @@ icon: "💥"
 order: 3
 section: classified-files
 group_of: "h-machines"
+description: "Also known as Project Novaform’s Core, Superweapon Core, Superweapon Energy Cell. This device was manufactured inside Ocellios Lab, based on an unknown…"
 ---
 
 <table class="file-header">

@@ -5,6 +5,7 @@ icon: "📍"
 order: 19
 section: classified-files
 group_of: "geographic-locations"
+description: "The Deadlands is a section of HHyper’s territory that has been uninhabited for the last 200 years. Has a cold, foggy, dry climate with little variation…"
 ---
 
 <table class="file-header">

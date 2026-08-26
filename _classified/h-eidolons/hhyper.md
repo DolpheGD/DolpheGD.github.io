@@ -5,6 +5,7 @@ icon: "👑"
 order: 1
 section: classified-files
 group_of: "h-eidolons"
+description: "The Leader of H-Nation. Oversees the operations of the nation, including the economy, research, and defense. Leads a group of 6 elite operatives known as…"
 ---
 
 <table class="file-header">

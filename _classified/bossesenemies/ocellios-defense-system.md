@@ -5,6 +5,7 @@ icon: "🛡️"
 order: 6
 section: classified-files
 group_of: "bossesenemies"
+description: "The Ocellios Defense system is located in the heart of the Ocellios Lab security sector, adjacent to the underground lab and bio sectors. The system is…"
 ---
 
 <table class="file-header">

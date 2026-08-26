@@ -5,6 +5,7 @@ icon: "💤"
 order: 5
 section: classified-files
 group_of: "h-eidolons"
+description: "An Eidolon that was dormant for a while, but resurfaced as of recent events, starting from Destruction Eruption. He has still not been spotted operating…"
 ---
 
 <table class="file-header">

@@ -5,6 +5,7 @@ icon: "👥"
 order: 2
 section: classified-files
 group_of: "other-units"
+description: "The following Team Cascade Members are not well-documented: Star, Kotori, Refender, Aura, Chary, Aizer, Sader. If you wish to provide more information and…"
 ---
 
 <table class="file-header">

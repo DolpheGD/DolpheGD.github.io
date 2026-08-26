@@ -5,6 +5,7 @@ icon: "📍"
 order: 8
 section: classified-files
 group_of: "geographic-locations"
+description: "The Outpost is a research station owned by Xender, but not heavily regulated due to logistical issues. Has a warm to hot dry climate with little…"
 ---
 
 <table class="file-header">

@@ -5,6 +5,7 @@ icon: "❄️"
 order: 12
 section: classified-files
 group_of: "bossesenemies"
+description: "Corrupted Bli is extremely dangerous and unstable, and should be avoided unless forced to engage. Once Bli is locked onto a target, he will not stop until…"
 ---
 
 <table class="file-header">

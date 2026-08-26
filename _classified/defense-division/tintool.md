@@ -5,6 +5,7 @@ icon: "🤖"
 order: 3
 section: classified-files
 group_of: "defense-division"
+description: "TinTool is a type of robot with an advanced machine learning model as its mind to carry out its tasks. The physical model is designed for mass production…"
 ---
 
 <table class="file-header">

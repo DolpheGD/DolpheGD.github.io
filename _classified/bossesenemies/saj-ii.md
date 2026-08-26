@@ -5,6 +5,7 @@ icon: "⚙️"
 order: 7
 section: classified-files
 group_of: "bossesenemies"
+description: "SAJ II is a void-electromagnetic hybrid mech, which can generate a stable magnetic field of XX.XXT. Originally used for mining and clearing out debris…"
 ---
 
 <table class="file-header">

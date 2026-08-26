@@ -5,6 +5,7 @@ icon: "📕"
 order: 6
 section: chronicles
 group_of: "the-legend-of-josh"
+description: "The Legend of Josh [Chapter 1: Right from Wrong] “What does it mean for be right or wrong?” “When im scavenge for food, Im steal for people. It that right…"
 ---
 
 The Legend of Josh  

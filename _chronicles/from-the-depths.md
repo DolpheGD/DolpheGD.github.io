@@ -5,6 +5,7 @@ icon: "🚛"
 order: 16
 section: chronicles
 wide: true
+description: "After Operation Wastelands and Mission Hellfire, Xender and Boss John work together to track down Team Cascade. After an unexpected interception, Virtual…"
 ---
 
 <table>

@@ -5,6 +5,7 @@ icon: "🍳"
 order: 2
 section: classified-files
 group_of: "auxiliary-squad"
+description: "A member of Team Cascade from Abyssnia City. After graduating from culinary school, she started her small canteen, but shortly after, the war between…"
 ---
 
 <table class="file-header">

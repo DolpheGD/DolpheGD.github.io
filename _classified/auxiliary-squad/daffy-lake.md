@@ -5,6 +5,7 @@ icon: "👬"
 order: 10
 section: classified-files
 group_of: "auxiliary-squad"
+description: "Daffy and Lake are two siblings who joined Team Cascade after their parents were killed in Xender’s Void Instability project. The event was covered up…"
 ---
 
 <table class="file-header">

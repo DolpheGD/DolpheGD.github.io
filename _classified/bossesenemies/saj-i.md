@@ -5,6 +5,7 @@ icon: "🤖"
 order: 2
 section: classified-files
 group_of: "bossesenemies"
+description: "SAJ I is a tertiary defense mechanism controlled by the Ocellios Defense Systems. Its only role is eliminating intruders. It is equipped with multiple…"
 ---
 
 <table class="file-header">

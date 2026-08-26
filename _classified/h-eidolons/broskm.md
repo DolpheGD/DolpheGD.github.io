@@ -5,6 +5,7 @@ icon: "🧪"
 order: 3
 section: classified-files
 group_of: "h-eidolons"
+description: "Eidolon Researcher specializes in biotech mech creation and Void research. After successfully inventing the prototype of \"Voidwarp,\" Broskm was sucked…"
 ---
 
 <table class="file-header">

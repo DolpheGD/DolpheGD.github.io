@@ -5,6 +5,7 @@ icon: "🧪"
 order: 13
 section: chronicles
 group_of: "broskm"
+description: "Crystal fabrication [Project Success] Voidwarp >Warp gates >Warp Engines >Warp Implants >Dimensional Warp [TERMINATED] Borgtech >NF89 >Subject 29…"
 ---
 
 * Crystal fabrication \[Project Success\]  

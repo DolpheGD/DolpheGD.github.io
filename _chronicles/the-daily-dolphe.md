@@ -4,6 +4,7 @@ title: "The Daily Dolphe"
 icon: "🗞️"
 order: 2
 section: chronicles
+description: "The Daily Dolphe is a series of Articles published starting Jan 1, 90 IC. This newspaper would eventually lay the foundation for the creation of Team…"
 ---
 
 <table>

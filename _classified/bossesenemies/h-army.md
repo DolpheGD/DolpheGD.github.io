@@ -5,6 +5,7 @@ icon: "🪖"
 order: 9
 section: classified-files
 group_of: "bossesenemies"
+description: "H-Army contains tiers of soldiers for HHyper. H-Henchmen are Tier 0, the lowest rank of H-Army soldiers. They have no armor and are equipped with a single…"
 ---
 
 <table class="file-header">

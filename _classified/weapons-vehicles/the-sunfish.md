@@ -5,6 +5,7 @@ icon: "✈️"
 order: 5
 section: classified-files
 group_of: "weapons-vehicles"
+description: "The Sunfish is an uncommon basic Cascade ship model whose purpose is to Voidwarp more often than other ships. To maximize the efficiency of the design…"
 ---
 
 <table class="file-header">

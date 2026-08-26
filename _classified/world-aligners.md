@@ -5,6 +5,7 @@ icon: "🌍"
 order: 18
 section: classified-files
 group_of: "side-factions"
+description: "The World Aligners are a group of 5 members: Josh, Jofrog, Refender, Blueflame, and Dolphin. The 5 believe they are the chosen ones to uphold the…"
 ---
 
 <table class="file-header">

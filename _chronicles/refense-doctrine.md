@@ -5,6 +5,7 @@ icon: "😃"
 order: 8
 section: chronicles
 group_of: "everyday-in-dolpheverse"
+description: "Refense Doctrine Refense embodies the seamless harmony between offense and defense, where aggressive advances fluidly transition into protective stances…"
 ---
 
 **Refense Doctrine**  

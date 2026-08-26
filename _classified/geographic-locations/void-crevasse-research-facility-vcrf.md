@@ -5,6 +5,7 @@ icon: "📍"
 order: 16
 section: classified-files
 group_of: "geographic-locations"
+description: "The Void Crevasse Research Facility is a HHyper-owned void lab that researches the effects of Void on people and machines. Test subjects are often brought…"
 ---
 
 <table class="file-header">

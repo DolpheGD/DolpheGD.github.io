@@ -5,6 +5,7 @@ icon: "🛠️"
 order: 1
 section: classified-files
 group_of: "aero-squad"
+description: "An engineer and an Air Force Commander for Team Cascade, specialized in airship piloting and airship weaponry design. Knowledgeable in void technology and…"
 ---
 
 <table class="file-header">

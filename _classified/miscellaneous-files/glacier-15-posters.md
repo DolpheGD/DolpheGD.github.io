@@ -5,6 +5,7 @@ icon: "📰"
 order: 4
 section: classified-files
 group_of: "miscellaneous-files"
+description: "Several posters were recovered from the Glacier 15 mission. The first poster is an advertisement for JFC. JFC was an upcoming low-budget movie directed by…"
 ---
 
 <table class="file-header">

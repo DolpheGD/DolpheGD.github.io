@@ -5,6 +5,7 @@ icon: "🥷"
 order: 3
 section: classified-files
 group_of: "special-units"
+description: "A member of Team Cascade and self-proclaimed “ninja.” She first lived on the outskirts of Abyssnia, dreaming of moving into the big city. However, Nyrvite…"
 ---
 
 <table class="file-header">

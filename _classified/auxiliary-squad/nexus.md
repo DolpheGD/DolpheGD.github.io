@@ -5,6 +5,7 @@ icon: "🎯"
 order: 8
 section: classified-files
 group_of: "auxiliary-squad"
+description: "Nexus is a low-ranking Cascade member who is proficient in operating rifles. He aspires to rise through the ranks of Cascade, but has yet to prove his…"
 ---
 
 <table class="file-header">

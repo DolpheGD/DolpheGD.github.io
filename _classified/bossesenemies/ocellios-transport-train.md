@@ -5,6 +5,7 @@ icon: "🚂"
 order: 8
 section: classified-files
 group_of: "bossesenemies"
+description: "NF Duko, and Broskm are three Eidolons who overtook Ocellios Lab after the Destruction Eruption incident. Note: this file only applies to the encounter at…"
 ---
 
 <table class="file-header">

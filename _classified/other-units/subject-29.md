@@ -5,6 +5,7 @@ icon: "🔍"
 order: 1
 section: classified-files
 group_of: "other-units"
+description: "Subject 29 is a captured member of Team Cascade. On May 23, 109, IC Subject 29 escaped containment at the Void Crevasse Research Facility and transmitted…"
 ---
 
 <table class="file-header">

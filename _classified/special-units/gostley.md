@@ -5,6 +5,7 @@ icon: "👁️"
 order: 2
 section: classified-files
 group_of: "special-units"
+description: "Member of the Special Units Cascade division with an unknown backstory. He exhibits an unknown anomalous behavior, not yet researched. Wears a contact…"
 ---
 
 <table class="file-header">

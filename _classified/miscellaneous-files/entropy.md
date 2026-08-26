@@ -5,6 +5,7 @@ icon: "🌀"
 order: 2
 section: classified-files
 group_of: "miscellaneous-files"
+description: "Entropy is a type of material"
 ---
 
 <table class="file-header">

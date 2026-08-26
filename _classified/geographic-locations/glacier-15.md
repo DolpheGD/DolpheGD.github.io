@@ -5,6 +5,7 @@ icon: "📍"
 order: 2
 section: classified-files
 group_of: "geographic-locations"
+description: "Also known as the Abandoned Frozen City and the Lost City. Has a freezing climate with little variation. Mostly clear skies with frequent blizzards. While…"
 ---
 
 <table class="file-header">

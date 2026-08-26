@@ -5,6 +5,7 @@ icon: "📍"
 order: 9
 section: classified-files
 group_of: "geographic-locations"
+description: "The Hotlands are a largely uninhabitable stretch of land below the Wastelands. Has an extremely hot climate with little variation. Mostly cloudy red skies…"
 ---
 
 <table class="file-header">
@@ -13,10 +14,9 @@ group_of: "geographic-locations"
   </thead>
 </table>
 
-Clearance level: 0
-
 <table>
   <thead>
+      <tr class="meta-row"><th markdown="span" colspan="2">Clearance level: 0</th></tr>
     <tr><th markdown="span">![image154](/assets/classified-files/images/image154.png)</th></tr>
   </thead>
   <tbody>

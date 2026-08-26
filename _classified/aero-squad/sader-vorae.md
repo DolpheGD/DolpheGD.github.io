@@ -5,6 +5,7 @@ icon: "🌊"
 order: 2
 section: classified-files
 group_of: "aero-squad"
+description: "Sader was a resident of Glacier 15, specifically in the Estonia district. Her entire life was destroyed in the Glacier 15 incident. After barely surviving…"
 ---
 
 <table class="file-header">

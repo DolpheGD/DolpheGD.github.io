@@ -5,6 +5,7 @@ icon: "📷"
 order: 2
 section: classified-files
 group_of: "xender-machines"
+description: "XG-SCamera is a standard-issue Xender Surveillance Camera. It is mass-produced and placed primarily in the Wastelands and the Hotlands. Surveillance…"
 ---
 
 <table class="file-header">

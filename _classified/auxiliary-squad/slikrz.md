@@ -5,6 +5,7 @@ icon: "🌀"
 order: 6
 section: classified-files
 group_of: "auxiliary-squad"
+description: "A lobotomized cube that appeared in The Wastelands in 100 IC seemingly out of nowhere. He claims he was not always like this, that in a previous time he…"
 ---
 
 <table class="file-header">

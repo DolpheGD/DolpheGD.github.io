@@ -5,6 +5,7 @@ icon: "📃"
 order: 11
 section: chronicles
 group_of: "mission-hellfire"
+description: "# Objective: Team Cascade plans to retrieve a “Xendium-Powered Supercomputer” located in a Xender controlled lab in The Hotlands on Aug 2nd, 109 (IC)…"
 ---
 
 # 

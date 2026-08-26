@@ -5,6 +5,7 @@ icon: "🛸"
 order: 5
 section: classified-files
 group_of: "bossesenemies"
+description: "XG-23 is a heavily armed and fortified assault drone, equipped with rocket launchers and plasma blasters. It flies using a propeller and has a large…"
 ---
 
 <table class="file-header">

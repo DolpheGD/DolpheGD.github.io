@@ -5,6 +5,7 @@ icon: "📍"
 order: 1
 section: classified-files
 group_of: "geographic-locations"
+description: "The largest City of Acatrya. Has a temperate climate with little variation. Mostly sunny except for occasional rain and storms. The flora consists of…"
 ---
 
 <table class="file-header">

@@ -5,6 +5,7 @@ icon: "🌿"
 order: 2
 section: classified-files
 group_of: "miscellaneous"
+description: "The Anti-Void Allegiance is an Eco-terrorist group against Void technology, led by XXXXXXXX. Their primary belief is that Void technology is inherently…"
 ---
 
 <table class="file-header">

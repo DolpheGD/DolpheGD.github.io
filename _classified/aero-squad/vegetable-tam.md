@@ -5,6 +5,7 @@ icon: "🥕"
 order: 4
 section: classified-files
 group_of: "aero-squad"
+description: "A member of Team Cascade, also nicknamed “Vegtam.” Originally part of Xender’s air force, but disappeared from action to pursue his lifelong dream of…"
 ---
 
 <table class="file-header">

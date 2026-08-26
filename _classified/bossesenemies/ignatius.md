@@ -5,6 +5,7 @@ icon: "🚀"
 order: 11
 section: classified-files
 group_of: "bossesenemies"
+description: "Ignatius ships are outfitted with a giant void laser cannon on top, a fire-throwing cannon in the front, 4 heavy cannons around its perimeter, and at…"
 ---
 
 <table class="file-header">

@@ -4,6 +4,7 @@ title: "Acatrya"
 icon: "🐱"
 order: 12
 section: classified-files
+description: "Acatrya is a nation Xender is the leader of the Acatrya and operates under a top-down branching government system. The exact inner workings of the…"
 ---
 
  

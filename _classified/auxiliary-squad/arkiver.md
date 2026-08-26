@@ -5,6 +5,7 @@ icon: "🥊"
 order: 5
 section: classified-files
 group_of: "auxiliary-squad"
+description: "Is skilled at using melee weapons and specializes in dual-wielding elemental-infused gauntlets. Has moderate experience in engineering and designing melee…"
 ---
 
 <table class="file-header">

@@ -5,6 +5,7 @@ icon: "🛩️"
 order: 6
 section: classified-files
 group_of: "weapons-vehicles"
+description: "The Crawfish is an extremely rare cascade ship model designed for maneuverability and Voidwarp. Unlike other models, this ship can carry two passengers…"
 ---
 
 <table class="file-header">

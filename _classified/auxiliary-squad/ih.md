@@ -5,6 +5,7 @@ icon: "⚡"
 order: 7
 section: classified-files
 group_of: "auxiliary-squad"
+description: "IH specializes in creating and using handheld Railguns, electromagnetic pistols, and EMP grenades. IH dislikes the declining conditions of Xender's…"
 ---
 
 <table class="file-header">

@@ -610,29 +610,70 @@ h1, h2, h3, h4, h5 { line-height: 1.25; font-weight: 700; }
   line-height: 1.5;
 }
 
-/* Image thumbnails packed inline in a cell -> tidy little gallery.
+/* Content/image rows: the table's default width algorithm let the text
+   column dominate and squeezed the image column down to a sliver, which
+   forced every image to shrink far below its 280px cap. Break the row
+   out of table layout into a real two-column grid so the image side
+   gets a guaranteed, generous share of the width instead of whatever
+   is left over. Only the actual text+image row is targeted -- the
+   meta-row (clearance line) and file-header bars are untouched, and a
+   text-only "(Cont.)" row (a single th, no image sibling) just stays a
+   normal full-width cell. */
+.entry-content table:not(.file-header) tr:not(.meta-row):has(th:nth-child(2)),
+.page-wrap table:not(.file-header) tr:not(.meta-row):has(th:nth-child(2)) {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) minmax(260px, 0.85fr);
+  align-items: stretch;
+}
+.entry-content table:not(.file-header) tr:not(.meta-row) th:nth-child(2),
+.page-wrap table:not(.file-header) tr:not(.meta-row) th:nth-child(2) {
+  display: flex;
+  flex-wrap: wrap;
+  align-content: flex-start;
+  gap: 0.7rem;
+  background: var(--bg-alt);
+  border-left: 1px solid var(--border);
+}
+
+/* Image thumbnails packed inline in a cell -> a real gallery. Each image
+   keeps its natural aspect ratio (no cropping) but now grows to fill
+   its share of the enlarged column: a single image spans the whole
+   column, two or more wrap into a proper grid instead of a squeezed
+   stack of tiny thumbnails.
    These land in <th> cells (every cell in these tables is a <th>), so
    the selector has to match th, not just td. */
 .entry-content th img,
 .entry-content td img,
 .page-wrap table th img,
 .page-wrap table td img {
-  display: inline-block;
-  max-height: 280px;
+  display: block;
+  flex: 1 1 220px;
   width: auto;
+  height: auto;
   max-width: 100%;
+  max-height: 420px;
+  object-fit: contain;
   border-radius: 10px;
-  margin: 0.3rem 0.45rem 0.3rem 0;
+  margin: 0;
   border: 1px solid var(--border);
-  vertical-align: top;
+  background: var(--bg);
   box-shadow: var(--card-shadow);
 }
-@media (max-width: 640px) {
+@media (max-width: 720px) {
+  .entry-content table:not(.file-header) tr:not(.meta-row):has(th:nth-child(2)),
+  .page-wrap table:not(.file-header) tr:not(.meta-row):has(th:nth-child(2)) {
+    grid-template-columns: 1fr;
+  }
+  .entry-content table:not(.file-header) tr:not(.meta-row) th:nth-child(2),
+  .page-wrap table:not(.file-header) tr:not(.meta-row) th:nth-child(2) {
+    border-left: none;
+    border-top: 1px solid var(--border);
+  }
   .entry-content th img,
   .entry-content td img,
   .page-wrap table th img,
   .page-wrap table td img {
-    max-height: 200px;
+    max-height: 320px;
   }
 }
 

@@ -5,6 +5,7 @@ icon: "✈️"
 order: 10
 section: classified-files
 group_of: "bossesenemies"
+description: "This document pertains specifically to the modified version of Aerion Dolphe encountered in the Project Novaform incident. This Aerion Mk1 features…"
 ---
 
 <table class="file-header">

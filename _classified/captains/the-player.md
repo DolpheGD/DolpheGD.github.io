@@ -5,6 +5,7 @@ icon: "🐾"
 order: 1
 section: classified-files
 group_of: "captains"
+description: "Joined Team Cascade after Glacier 15 and survived the Destruction Eruption event. Exhibits many unique abilities, particularly with resonance to…"
 ---
 
 <table class="file-header">

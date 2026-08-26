@@ -5,6 +5,7 @@ icon: "📍"
 order: 10
 section: classified-files
 group_of: "geographic-locations"
+description: "The Voidlands is a rocky, slightly mountainous terrain riddled with deep ravines. It sits at a higher average elevation than most other locations on the…"
 ---
 
 <table class="file-header">
@@ -29,10 +30,9 @@ group_of: "geographic-locations"
   </thead>
 </table>
 
-Clearance level: 0
-
 <table>
   <thead>
+      <tr class="meta-row"><th markdown="span" colspan="2">Clearance level: 0</th></tr>
     <tr><th markdown="span">![image156](/assets/classified-files/images/image156.png)![image157](/assets/classified-files/images/image157.png)</th></tr>
   </thead>
   <tbody>

@@ -5,6 +5,7 @@ icon: "💣"
 order: 4
 section: classified-files
 group_of: "h-eidolons"
+description: "Eidolon Engineer specializes in mech creation. Duko was born in H-city to a poor family. Duko and his parents escaped to Void City to live a better life…"
 ---
 
 <table class="file-header">

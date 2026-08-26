@@ -5,6 +5,7 @@ icon: "✈️"
 order: 1
 section: classified-files
 group_of: "h-machines"
+description: "A mass-produced airship for H-Army. These types of ships are relatively inexpensive to create due to their modular components and cheap “H-metal blend.”…"
 ---
 
 <table class="file-header">

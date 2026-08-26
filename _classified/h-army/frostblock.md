@@ -5,6 +5,7 @@ icon: "👊"
 order: 3
 section: classified-files
 group_of: "h-army"
+description: "Frostblock is a Tier 3 H-Army soldier, although his true Tier is unknown due to how much he shifts around the ranks and roles within the H-Army. He is…"
 ---
 
 <table class="file-header">

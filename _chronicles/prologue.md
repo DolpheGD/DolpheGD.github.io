@@ -5,6 +5,7 @@ icon: "📕"
 order: 5
 section: chronicles
 group_of: "the-legend-of-josh"
+description: "The Legend of Josh [Prologue: A Glacier 15 Tale] Written by: Dolphe, Rex, Toile, lbs, Daffysamlake, Bioniq, Chary, SinWavs, Caliper, and Thedoggyp…"
 ---
 
 The Legend of Josh  

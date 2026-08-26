@@ -5,6 +5,7 @@ icon: "🖥️"
 order: 3
 section: classified-files
 group_of: "captains"
+description: "Mechanic for Team Cascade. Skilled at hologram engineering, mech engineering, and virtual projection technology. Can create Hologram swords and defensive…"
 ---
 
 <table class="file-header">

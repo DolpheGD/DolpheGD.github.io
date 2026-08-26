@@ -5,6 +5,7 @@ icon: "🎯"
 order: 1
 section: classified-files
 group_of: "h-army"
+description: "Dolpo was a tier 3 gunner for an Aerion Mk1 airship. During the events of Project Novaform, Dolpo would crash after his Aerion ship was split in half. He…"
 ---
 
 <table class="file-header">

@@ -5,6 +5,7 @@ icon: "🏔️"
 order: 1
 section: classified-files
 group_of: "special-units"
+description: "Specializes in survival, terrain traversing, and gaining tactical advantages using terrain. Incredibly accurate with a pistol, but struggles to wield…"
 ---
 
 <table class="file-header">

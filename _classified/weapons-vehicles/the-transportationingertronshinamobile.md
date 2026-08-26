@@ -5,6 +5,7 @@ icon: "🛴"
 order: 11
 section: classified-files
 group_of: "weapons-vehicles"
+description: "The Transportationingertronshinamobile is a vehicle that Virtual engineered as an addition to Cascade’s arsenal of vehicles. Unfortunately, Virtual was…"
 ---
 
 <table class="file-header">

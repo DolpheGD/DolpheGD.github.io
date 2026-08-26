@@ -5,6 +5,7 @@ icon: "📍"
 order: 15
 section: classified-files
 group_of: "geographic-locations"
+description: "Northern H-Island is a separate territory in H-Nation, which operates under its own sub-leadership. It has a cold climate with little variation. The…"
 ---
 
 <table class="file-header">

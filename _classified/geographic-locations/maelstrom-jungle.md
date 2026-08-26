@@ -5,6 +5,7 @@ icon: "📍"
 order: 18
 section: classified-files
 group_of: "geographic-locations"
+description: "Not much is known about this location due to how deep into H-Nation territory it is. Reports from H-Nation media show that Maelstrom Jungle is a hotspot…"
 ---
 
 <table class="file-header">

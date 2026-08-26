@@ -5,6 +5,7 @@ icon: "🕵️"
 order: 3
 section: classified-files
 group_of: "auxiliary-squad"
+description: "A member of Team Cascade originating from a city adjacent to Void City. He grew up with an interest in void technology, but never got the opportunity in…"
 ---
 
 <table class="file-header">

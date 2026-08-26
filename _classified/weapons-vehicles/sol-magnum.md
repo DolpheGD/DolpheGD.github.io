@@ -5,6 +5,7 @@ icon: "🔫"
 order: 4
 section: classified-files
 group_of: "weapons-vehicles"
+description: "Sol Magnum is a special weapon designed by Team Cascade specifically to counter extremely durable and void-resistant metals. Only effective short-range…"
 ---
 
 <table class="file-header">

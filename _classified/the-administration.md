@@ -5,6 +5,7 @@ icon: "🏤"
 order: 13
 section: classified-files
 group_of: "acatrya"
+description: "Known as the Leader of Acatrya (otherwise referred to as the Xender-nation or Feline Nation). Oversees all federal operations, including infrastructure…"
 ---
 
 <table class="file-header">

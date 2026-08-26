@@ -5,6 +5,7 @@ icon: "🧊"
 order: 1
 section: classified-files
 group_of: "world-aligners"
+description: "Josh is a survivor of the Glacier 15 tragedy of April 14, 107 IC. Cold, detached, and aggressive if provoked, even towards allies. Josh exhibited an…"
 ---
 
 <table class="file-header">

@@ -5,6 +5,7 @@ icon: "📄"
 order: 14
 section: chronicles
 group_of: "broskm"
+description: "INCIDENT REPORT Case file #1025J05H May 23rd 109IC Documentation sent to HHHQ 04:15 Security systems reported an explosion in cell block B, and fire…"
 ---
 
 ## INCIDENT REPORT

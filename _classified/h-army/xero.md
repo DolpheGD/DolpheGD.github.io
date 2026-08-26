@@ -5,6 +5,7 @@ icon: "💣"
 order: 2
 section: classified-files
 group_of: "h-army"
+description: "Xero is a Tier 4 H-Army soldier, defined by his glowing blue eyes, dark armor, and expertise in explosives. He has a scar on his face, so he usually…"
 ---
 
 <table class="file-header">

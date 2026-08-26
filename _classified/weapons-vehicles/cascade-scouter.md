@@ -5,6 +5,7 @@ icon: "🛰️"
 order: 7
 section: classified-files
 group_of: "weapons-vehicles"
+description: "The Cascade Scouter is a semi-rare Cascade ship model exclusively built for combat and scouting. These models have weak thrusters built to hover close to…"
 ---
 
 <table class="file-header">

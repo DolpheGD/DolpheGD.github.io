@@ -4,6 +4,7 @@ title: "Team Cascade"
 icon: "🔳"
 order: 1
 section: classified-files
+description: "Team Cascade is an independent resistance group that opposes the Xender regime. The organization is broken up into several groups: Captains, Special…"
 ---
 
 <table class="file-header">

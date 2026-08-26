@@ -5,6 +5,7 @@ icon: "🐬"
 order: 2
 section: classified-files
 group_of: "captains"
+description: "The leader of Team Cascade. Dolphe oversees the logistics of the team, strategic coordination, black-market networking, and maintaining the team's…"
 ---
 
 <table class="file-header">

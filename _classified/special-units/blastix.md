@@ -5,6 +5,7 @@ icon: "🔥"
 order: 4
 section: classified-files
 group_of: "special-units"
+description: "A member of Team Cascade, originating from H-Nation. Blastix’s backstory is relatively unknown, but it has a connection with H-Nation’s “Highlands.” Was…"
 ---
 
 <table class="file-header">

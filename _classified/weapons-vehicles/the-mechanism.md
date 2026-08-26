@@ -5,6 +5,7 @@ icon: "⚙️"
 order: 10
 section: classified-files
 group_of: "weapons-vehicles"
+description: "The mechanism is an experimental ship design engineered by Virtual, Andy, FAX, BLANKK, Gai, BLK, BLAK, Caliper, and BLANKKKK. Its sole purpose is to…"
 ---
 
 <table class="file-header">

@@ -5,6 +5,7 @@ icon: "💥"
 order: 9
 section: classified-files
 group_of: "auxiliary-squad"
+description: "Underwent experimentation from Stubby’s Labs after being unjustly convicted of treason. He was forced to replace organs with void-powered augments, which…"
 ---
 
 <table class="file-header">

@@ -5,6 +5,7 @@ icon: "📍"
 order: 12
 section: classified-files
 group_of: "geographic-locations"
+description: "A city on the west coast of the continent under the Voidlands. The city’s location is strategically important due to its proximity to Eris. However, after…"
 ---
 
 <table class="file-header">

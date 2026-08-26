@@ -5,6 +5,7 @@ icon: "📍"
 order: 17
 section: classified-files
 group_of: "geographic-locations"
+description: "The Highlands is a yellowish, rocky mesa biome with high mountains. It has temperate weather with little variation, apart from storms near the shores. The…"
 ---
 
 <table class="file-header">

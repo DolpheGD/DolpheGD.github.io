@@ -5,6 +5,7 @@ icon: "⚕️"
 order: 3
 section: classified-files
 group_of: "aero-squad"
+description: "A member of Team Cascade, originating from Stormpoint City. He studied to become a doctor and enjoys helping people. However, his job as a doctor started…"
 ---
 
 <table class="file-header">

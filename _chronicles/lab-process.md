@@ -5,6 +5,7 @@ icon: "🔬"
 order: 15
 section: chronicles
 group_of: "broskm"
+description: "## [Introduction] This document is meant to streamline the process of creating in the tech/mech style. Setting rules for standards to keep things clean…"
 ---
 
 ## \[Introduction\]

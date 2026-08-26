@@ -5,6 +5,7 @@ icon: "📍"
 order: 6
 section: classified-files
 group_of: "geographic-locations"
+description: "The Wastelands are a boggy marsh with varying terrain. Some areas are dry and rocky, while areas near Tar Lake are boggy. The flora consists of…"
 ---
 
 <table class="file-header">

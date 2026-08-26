@@ -5,6 +5,7 @@ icon: "🛰️"
 order: 4
 section: classified-files
 group_of: "h-machines"
+description: "Project Novaform is a giant satellite powered by ion thrusters and the superweapon at its central core. This satellite has two “arms” which serve as…"
 ---
 
 <table class="file-header">

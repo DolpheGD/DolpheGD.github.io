@@ -5,6 +5,7 @@ icon: "🛸"
 order: 1
 section: classified-files
 group_of: "xender-machines"
+description: "XG-23 is a heavily armed and fortified assault drone, mass-produced for Xender’s needs and surveillance. XG-23 is often used by Xender and Boss John to…"
 ---
 
 <table class="file-header">

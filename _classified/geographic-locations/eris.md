@@ -5,6 +5,7 @@ icon: "📍"
 order: 11
 section: classified-files
 group_of: "geographic-locations"
+description: "Nicknamed the “Old Civilization.” Eris resembles a flying city in the sky, now half destroyed. The surrounding area is constructed of rocky mountains with…"
 ---
 
 <table class="file-header">

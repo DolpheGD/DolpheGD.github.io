@@ -5,6 +5,7 @@ icon: "🃏"
 order: 7
 section: classified-files
 group_of: "h-eidolons"
+description: "An Unnamed Eidolon Member is not discussed to the public. HHyper referred to them as “The Ace.” This member is only speculated to exist, as in HHyper’s…"
 ---
 
 <table class="file-header">

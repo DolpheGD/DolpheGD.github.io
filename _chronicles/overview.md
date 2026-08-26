@@ -5,6 +5,7 @@ icon: "📜"
 order: 1
 section: chronicles
 hero: true
+description: "⭐ Cascade Chronicles⭐ These files document lore pieces from around the Dolpheverse Table of Contents: The Daily Dolphe, The Legend of Josh, Everyday in…"
 ---
 
 **⭐ Cascade Chronicles⭐**

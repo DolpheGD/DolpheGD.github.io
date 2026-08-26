@@ -5,6 +5,7 @@ icon: "💻"
 order: 1
 section: classified-files
 group_of: "miscellaneous"
+description: "Mr. R is a kid who grew up in the heart of Abyssnia in a wealthy family. While Mr. R could have lived a comfortable life through the normal pathways, he…"
 ---
 
 <table class="file-header">

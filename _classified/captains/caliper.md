@@ -5,6 +5,7 @@ icon: "🔫"
 order: 4
 section: classified-files
 group_of: "captains"
+description: "Specializes in firearm engineering and design. Caliper was raised in a surprisingly wealthy area near the Void City, sheltered from war and disaster…"
 ---
 
 <table class="file-header">

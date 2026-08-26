@@ -5,6 +5,7 @@ icon: "🚢"
 order: 9
 section: classified-files
 group_of: "weapons-vehicles"
+description: "The Cascade Carrier Ship is an uncommon Cascade ship model specialized in carrying many passengers. These models are not capable of Voidwarp, although…"
 ---
 
 <table class="file-header">

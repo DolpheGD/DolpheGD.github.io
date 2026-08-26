@@ -1,0 +1,22 @@
+---
+permalink: /sitemap.xml
+layout: null
+---
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+{%- for page in site.html_pages %}
+  <url>
+    <loc>{{ site.url }}{{ page.url | relative_url }}</loc>
+  </url>
+{%- endfor %}
+{%- for item in site.classified %}
+  <url>
+    <loc>{{ site.url }}{{ item.url | relative_url }}</loc>
+  </url>
+{%- endfor %}
+{%- for item in site.chronicles %}
+  <url>
+    <loc>{{ site.url }}{{ item.url | relative_url }}</loc>
+  </url>
+{%- endfor %}
+</urlset>

@@ -5,6 +5,7 @@ icon: "📄"
 order: 3
 section: chronicles
 group_of: "the-daily-dolphe"
+description: "🐬The Daily Dolphe🐬 Dolphe News Co. Vol 0 TEST Test. This is the beginning. The beginning of our journey. It is not apparent now. But there is great power…"
 ---
 
 <table>

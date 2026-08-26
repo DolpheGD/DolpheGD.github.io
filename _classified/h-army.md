@@ -5,6 +5,7 @@ icon: "🦾"
 order: 10
 section: classified-files
 group_of: "h-nation"
+description: "H-Army is a class of enemies distinguished by their orange, brown, and gray color palette, sometimes donning H-Nation uniforms or weapons. Many of these…"
 ---
 
 <table class="file-header">

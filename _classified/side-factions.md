@@ -4,6 +4,7 @@ title: "Side Factions"
 icon: "🚩"
 order: 17
 section: classified-files
+description: "Side Factions"
 ---
 
 <table class="file-header">

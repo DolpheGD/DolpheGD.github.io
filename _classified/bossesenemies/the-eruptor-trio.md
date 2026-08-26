@@ -5,6 +5,7 @@ icon: "🌋"
 order: 3
 section: classified-files
 group_of: "bossesenemies"
+description: "DR-001 Borehole is a robot initially used to drill holes deep into the facility’s bedrock. This would allow workers to expand the labs or install new…"
 ---
 
 <table class="file-header">

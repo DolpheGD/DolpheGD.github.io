@@ -5,6 +5,7 @@ icon: "🗺️"
 order: 5
 section: classified-files
 group_of: "aero-squad"
+description: "A member of Team Cascade, originating from Void City. He always had great aspirations: he wanted to be the leader of an international company, to be the…"
 ---
 
 <table class="file-header">

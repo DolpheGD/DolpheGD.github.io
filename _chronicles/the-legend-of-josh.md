@@ -4,6 +4,7 @@ title: "The Legend of Josh"
 icon: "📚"
 order: 4
 section: chronicles
+description: "April 14, 107 IC, the “Glacier 15 incident” occured. Josh, a young but determined kid, is one of the few survivors. In this storyline, Josh recounts his…"
 ---
 
 <table>

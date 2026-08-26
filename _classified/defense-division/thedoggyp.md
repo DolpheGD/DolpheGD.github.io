@@ -5,6 +5,7 @@ icon: "🐕"
 order: 1
 section: classified-files
 group_of: "defense-division"
+description: "Thedoggyp is"
 ---
 
 <table class="file-header">

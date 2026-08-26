@@ -5,6 +5,7 @@ icon: "🔬"
 order: 1
 section: classified-files
 group_of: "auxiliary-squad"
+description: "A member of Team Cascade and a former biologist and bioweapons engineer at Ocellios Labs before its destruction. She became disgusted with Stubby's…"
 ---
 
 <table class="file-header">

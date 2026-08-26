@@ -5,6 +5,7 @@ icon: "⚔️"
 order: 2
 section: classified-files
 group_of: "weapons-vehicles"
+description: "SW-Manta is an energy sword that utilizes energy cores with traces of void matter in a tube running along the blade. This allows the blade to be…"
 ---
 
 <table class="file-header">

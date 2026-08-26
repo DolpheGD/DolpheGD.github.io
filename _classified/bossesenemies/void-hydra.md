@@ -5,6 +5,7 @@ icon: "🐉"
 order: 4
 section: classified-files
 group_of: "bossesenemies"
+description: "The Void Hydra is a mech discovered by the Glacier 15 investigation squad. Contains high levels of void particles, permafrost ore, and potentially has…"
 ---
 
 <table class="file-header">

@@ -4,6 +4,7 @@ title: "Broskm"
 icon: "😠"
 order: 12
 section: chronicles
+description: "[Insert Overview]"
 ---
 
 <table>

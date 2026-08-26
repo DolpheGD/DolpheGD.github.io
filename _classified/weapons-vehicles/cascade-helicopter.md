@@ -5,6 +5,7 @@ icon: "🚁"
 order: 8
 section: classified-files
 group_of: "weapons-vehicles"
+description: "The Standard issue Cascade Helicopters. They are fairly common vehicles, although less common than the Standard Cascade ship. They come in some…"
 ---
 
 <table class="file-header">

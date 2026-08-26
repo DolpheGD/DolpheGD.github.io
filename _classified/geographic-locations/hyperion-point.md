@@ -5,6 +5,7 @@ icon: "📍"
 order: 20
 section: classified-files
 group_of: "geographic-locations"
+description: "Team Cascade does not have any intel on what Hyperion Point is, apart from HHyper building a special underwater project there. Distant images and…"
 ---
 
 <table class="file-header">

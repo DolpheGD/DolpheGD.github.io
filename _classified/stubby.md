@@ -5,6 +5,7 @@ icon: "🔬"
 order: 16
 section: classified-files
 wide: true
+description: "The Owner and leader of Ocellios Labs. Specific information about Stubby themself is limited. Frequently runs experiments on prisoners of Acatrya…"
 ---
 
 <table class="file-header">

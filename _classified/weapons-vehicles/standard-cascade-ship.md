@@ -5,6 +5,7 @@ icon: "🚀"
 order: 1
 section: classified-files
 group_of: "weapons-vehicles"
+description: "The standard issue Cascade Ship. This is the only airship Team Cascade has many units of. It is relatively durable and features a single seat for the…"
 ---
 
 <table class="file-header">

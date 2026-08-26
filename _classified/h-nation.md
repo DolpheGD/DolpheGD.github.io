@@ -4,6 +4,7 @@ title: "H-Nation"
 icon: "🏨"
 order: 8
 section: classified-files
+description: "H-nation is a nation that spans the north west territory of the continent. The nation has a distinct power structure: HHyper, The 6 Eidolons, The H-Army"
 ---
 
 <table class="file-header">
