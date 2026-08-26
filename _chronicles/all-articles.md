@@ -4,6 +4,7 @@ title: "All Articles"
 icon: "📄"
 order: 3
 section: chronicles
+group_of: "the-daily-dolphe"
 ---
 
 <table>

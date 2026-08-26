@@ -4,6 +4,7 @@ title: "Incident Lab Report"
 icon: "📄"
 order: 14
 section: chronicles
+group_of: "broskm"
 ---
 
 ## INCIDENT REPORT

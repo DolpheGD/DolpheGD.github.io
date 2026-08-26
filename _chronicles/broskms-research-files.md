@@ -4,6 +4,7 @@ title: "Broskm's Research Files"
 icon: "🧪"
 order: 13
 section: chronicles
+group_of: "broskm"
 ---
 
 * Crystal fabrication \[Project Success\]  

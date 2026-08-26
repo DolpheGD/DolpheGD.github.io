@@ -4,6 +4,7 @@ title: "Mission Briefing"
 icon: "📃"
 order: 11
 section: chronicles
+group_of: "mission-hellfire"
 ---
 
 # 

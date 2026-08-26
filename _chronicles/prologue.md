@@ -4,6 +4,7 @@ title: "Prologue"
 icon: "📕"
 order: 5
 section: chronicles
+group_of: "the-legend-of-josh"
 ---
 
 The Legend of Josh  

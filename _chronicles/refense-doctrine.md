@@ -4,6 +4,7 @@ title: "Refense Doctrine"
 icon: "😃"
 order: 8
 section: chronicles
+group_of: "everyday-in-dolpheverse"
 ---
 
 **Refense Doctrine**  

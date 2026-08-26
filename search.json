@@ -1,0 +1,16 @@
+---
+layout: null
+permalink: /search.json
+---
+[
+{% assign all_items = site.classified | concat: site.chronicles %}
+{% for item in all_items %}
+  {
+    "title": {{ item.title | jsonify }},
+    "url": {{ item.url | relative_url | jsonify }},
+    "icon": {{ item.icon | default: "📄" | jsonify }},
+    "section": {{ item.section | jsonify }},
+    "excerpt": {{ item.content | strip_html | strip_newlines | strip | truncate: 200 | jsonify }}
+  }{% unless forloop.last %},{% endunless %}
+{% endfor %}
+]
