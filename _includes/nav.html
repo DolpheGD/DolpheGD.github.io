@@ -1,0 +1,13 @@
+<header class="site-header">
+  <div class="site-header-inner">
+    <a class="site-brand" href="{{ '/' | relative_url }}">
+      <span class="site-brand-icon">⭐</span>
+      <span class="site-brand-text">The Dolpheverse Lore</span>
+    </a>
+    <nav class="site-nav">
+      <a href="{{ '/' | relative_url }}"{% if page.url == '/' %} class="active"{% endif %}>Home</a>
+      <a href="{{ '/classified-files/' | relative_url }}"{% if page.section == 'classified-files' %} class="active"{% endif %}>Classified Files</a>
+      <a href="{{ '/chronicles/' | relative_url }}"{% if page.section == 'chronicles' %} class="active"{% endif %}>Chronicles</a>
+    </nav>
+  </div>
+</header>

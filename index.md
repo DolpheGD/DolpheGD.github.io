@@ -1,40 +1,40 @@
 ---
 layout: default
 title: The Dolpheverse Lore
+permalink: /
 ---
 
-[Home](index.html) &nbsp;·&nbsp; [Cascade Classified Files](classified-files.html) &nbsp;·&nbsp; [Cascade Chronicles](chronicles.html)
+<p class="placeholder-note">(AI was not used in any part of writing this lore)</p>
 
-# The Dolpheverse Lore
+<img src="/assets/images/image1.png" alt="Map of the Dolpheverse" style="border-radius: 12px; box-shadow: var(--card-shadow); margin: 0.5rem 0 1.5rem;">
 
-**(AI was not used in any part of writing this lore)**  
-**![image1](assets/images/image1.png)**
+# ⭐ The Dolpheverse ⭐
 
-**⭐THE DOLPHEVERSE ⭐**
+Lore for Dolphe's Geometry Dash level series — the mainline story, a full encyclopedia of characters and factions, and the side stories and artifacts that fill in the rest of the world.
 
-<table>
-  <tr>
-    <td>
-      📕 <strong>Series Timeline and Summary</strong> &mdash; Documents the mainline series of events that transpires after Ocellios Lab, July 26, 109 IC. The storyline follows a self-inserted [PLAYER] escaping Ocellios Lab.
-      <br><br>
-      📁 <strong>Cascade Classified Files</strong> &mdash; A complete encyclopedia of every character, location, faction, technology, and other miscellaneous details.
-      <br><br>
-      📁 <strong>Cascade Chronicles</strong> &mdash; A documentation of lore artifacts, stories, and historical records from all over the series.
-    </td>
-  </tr>
-</table>
+<div class="nav-card-grid">
+  <a class="nav-card" href="https://docs.google.com/presentation/d/1O-p_AB1jbQi3y7Q-Axrke7MKcVPh7OYxu0zh5VDWyII/edit?usp=sharing">
+    <span class="nav-card-icon">📕</span>
+    <span class="nav-card-title">Series Timeline and Summary</span>
+    <span class="nav-card-desc">Documents the mainline series of events that transpires after Ocellios Lab, July 26, 109 IC. The storyline follows a self-inserted [PLAYER] escaping Ocellios Lab.</span>
+  </a>
+  <a class="nav-card" href="/classified-files/">
+    <span class="nav-card-icon">📁</span>
+    <span class="nav-card-title">Cascade Classified Files</span>
+    <span class="nav-card-desc">A complete encyclopedia of every character, location, faction, technology, and other miscellaneous details.</span>
+  </a>
+  <a class="nav-card" href="/chronicles/">
+    <span class="nav-card-icon">📁</span>
+    <span class="nav-card-title">Cascade Chronicles</span>
+    <span class="nav-card-desc">A documentation of lore artifacts, stories, and historical records from all over the series.</span>
+  </a>
+</div>
 
-<table>
-  <tr>
-    <td>📕&nbsp;<a href="https://docs.google.com/presentation/d/1O-p_AB1jbQi3y7Q-Axrke7MKcVPh7OYxu0zh5VDWyII/edit?usp=sharing">Series Timeline and Summary</a></td>
-    <td>📁&nbsp;<a href="classified-files.html">Cascade Classified Files</a></td>
-    <td>📁&nbsp;<a href="chronicles.html">Cascade Chronicles</a></td>
-  </tr>
-</table>
+<img src="/assets/images/image2.png" alt="Dolpheverse level order chart" style="border-radius: 12px; box-shadow: var(--card-shadow); margin: 0.5rem 0 1rem;">
 
-**![image2](assets/images/image2.png)**  
-⭐**Recommended Play Order⭐**  
-🎥 \= There is a separate prologue associated with this level.
+## ⭐ Recommended Play Order ⭐
+
+🎥 = There is a separate prologue associated with this level.
 
 <table>
   <tr>
@@ -43,10 +43,6 @@ title: The Dolpheverse Lore
   </tr>
 </table>
 
-Notes:  
-The Voidlands will be replaced in the future.  
-Mission Hellfire has not been released yet.
-
----
-
-[Home](index.html) &nbsp;·&nbsp; [Cascade Classified Files](classified-files.html) &nbsp;·&nbsp; [Cascade Chronicles](chronicles.html)
+**Notes:**
+- The Voidlands will be replaced in the future.
+- Mission Hellfire has not been released yet.

@@ -1,5 +1,27 @@
-theme: jekyll-theme-minimal
 title: The Dolpheverse Lore
 description: Lore for Dolphe's Geometry Dash level series
-
 markdown: kramdown
+
+collections:
+  classified:
+    output: true
+    permalink: /classified-files/:path/
+  chronicles:
+    output: true
+    permalink: /chronicles/:path/
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
+  - scope:
+      path: ""
+      type: classified
+    values:
+      layout: entry
+  - scope:
+      path: ""
+      type: chronicles
+    values:
+      layout: entry

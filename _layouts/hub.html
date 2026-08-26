@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+{% include head.html %}
+</head>
+<body>
+{% include nav.html %}
+<main class="site-main">
+  <div class="page-wrap">
+
+    <nav class="breadcrumb">
+      <a href="{{ '/' | relative_url }}">Home</a>
+      <span class="crumb-sep">/</span>
+      <span>{{ page.title }}</span>
+    </nav>
+
+    <h1 class="page-title">{{ page.title }}</h1>
+    {% if page.tagline %}<p class="page-tagline">{{ page.tagline }}</p>{% endif %}
+
+    {{ content }}
+
+    <div class="card-grid">
+      {% assign items = site[page.collection_key] | sort: 'order' %}
+      {% for item in items %}
+      <a class="section-card" href="{{ item.url | relative_url }}">
+        <span class="section-card-icon">{{ item.icon | default: "📄" }}</span>
+        <span class="section-card-title">{{ item.title }}</span>
+        <span class="section-card-excerpt">{{ item.content | strip_html | strip_newlines | truncate: 110 }}</span>
+      </a>
+      {% endfor %}
+    </div>
+
+  </div>
+</main>
+<footer class="site-footer">
+  <div class="site-footer-inner">
+    <p>{{ site.description }}</p>
+    <p><a href="https://github.com/{{ site.github_username | default: 'DolpheGD' }}">View on GitHub</a></p>
+  </div>
+</footer>
+</body>
+</html>
