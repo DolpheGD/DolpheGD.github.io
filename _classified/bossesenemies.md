@@ -4,6 +4,7 @@ title: "Bosses/Enemies"
 icon: "🧨"
 order: 21
 section: classified-files
+wide: true
 ---
 
 <table class="file-header">

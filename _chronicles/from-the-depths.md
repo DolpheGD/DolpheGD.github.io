@@ -4,6 +4,7 @@ title: "From The Depths"
 icon: "🚛"
 order: 16
 section: chronicles
+wide: true
 ---
 
 <table>

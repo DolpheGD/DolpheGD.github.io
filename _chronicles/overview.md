@@ -4,6 +4,7 @@ title: "Overview"
 icon: "📜"
 order: 1
 section: chronicles
+hero: true
 ---
 
 **⭐ Cascade Chronicles⭐**

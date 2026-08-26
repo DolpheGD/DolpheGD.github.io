@@ -4,6 +4,7 @@ title: "Lab process"
 icon: "🔬"
 order: 15
 section: chronicles
+group_of: "broskm"
 ---
 
 ## \[Introduction\]

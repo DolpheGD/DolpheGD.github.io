@@ -4,7 +4,7 @@ title: "Xender Machines"
 icon: "🤖"
 order: 15
 section: classified-files
-group_of: "the-administration"
+group_of: "acatrya"
 ---
 
 <table class="file-header">

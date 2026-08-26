@@ -19,10 +19,22 @@
 
     {{ content }}
 
+    {% assign items = site[page.collection_key] | sort: 'order' %}
+
+    {% assign hero_items = items | where: 'hero', true %}
+    {% for hero in hero_items %}
+    <a class="hero-card" href="{{ hero.url | relative_url }}">
+      <span class="hero-card-icon">{{ hero.icon | default: "📄" }}</span>
+      <span class="hero-card-body">
+        <span class="hero-card-title">{{ hero.title }}</span>
+        <span class="hero-card-excerpt">{{ hero.content | strip_html | strip_newlines | truncate: 200 }}</span>
+      </span>
+    </a>
+    {% endfor %}
+
     <div class="card-grid">
-      {% assign items = site[page.collection_key] | sort: 'order' %}
       {% for item in items %}
-      {% unless item.group_of %}
+      {% unless item.group_of or item.hero %}
         {% assign children = items | where: 'group_of', item.slug %}
         {% if children.size > 0 %}
         <div class="section-group">
@@ -41,6 +53,12 @@
             {% endfor %}
           </div>
         </div>
+        {% elsif item.wide %}
+        <a class="section-card section-card-wide" href="{{ item.url | relative_url }}">
+          <span class="section-card-icon">{{ item.icon | default: "📄" }}</span>
+          <span class="section-card-title">{{ item.title }}</span>
+          <span class="section-card-excerpt">{{ item.content | strip_html | strip_newlines | truncate: 160 }}</span>
+        </a>
         {% else %}
         <a class="section-card" href="{{ item.url | relative_url }}">
           <span class="section-card-icon">{{ item.icon | default: "📄" }}</span>

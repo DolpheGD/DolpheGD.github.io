@@ -4,6 +4,7 @@ title: "Miscellaneous"
 icon: "❔"
 order: 19
 section: classified-files
+group_of: "side-factions"
 ---
 
 <table class="file-header">

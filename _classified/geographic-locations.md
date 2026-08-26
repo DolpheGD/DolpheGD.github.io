@@ -4,6 +4,7 @@ title: "Geographic Locations"
 icon: "🗺️"
 order: 20
 section: classified-files
+wide: true
 ---
 
 <table>

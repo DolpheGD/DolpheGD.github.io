@@ -4,6 +4,7 @@ title: "Stubby"
 icon: "🔬"
 order: 16
 section: classified-files
+wide: true
 ---
 
 <table class="file-header">

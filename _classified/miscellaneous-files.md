@@ -4,6 +4,7 @@ title: "Miscellaneous Files"
 icon: "❓"
 order: 22
 section: classified-files
+wide: true
 ---
 
 <table class="file-header">
