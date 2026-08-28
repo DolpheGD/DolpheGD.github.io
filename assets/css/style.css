@@ -11,7 +11,12 @@
   --card-shadow: 0 1px 2px rgba(20, 25, 40, 0.05), 0 4px 14px rgba(20, 25, 40, 0.06);
   --card-shadow-hover: 0 4px 10px rgba(20, 25, 40, 0.08), 0 10px 24px rgba(20, 25, 40, 0.10);
   --radius: 12px;
-  --radius-doc: 3px;
+  /* Document-style elements (tables, photos, the video/lightbox frames
+     built from the same "paper case file" family) read as flat paper,
+     not soft UI cards -- keep this at 0. The only things on the site
+     allowed to keep a rounded edge are fully-rounded pill/circle
+     buttons (search for `999px` / `50%`), never a partial radius. */
+  --radius-doc: 0;
   --max-width: 1080px;
   --stamp: #a3372c;
   --stamp-soft: #fbeeec;
@@ -671,15 +676,17 @@ h1, h2, h3, h4, h5 { line-height: 1.25; font-weight: 700; }
    is left over. Only the actual text+image row is targeted -- the
    meta-row (clearance line) and file-header bars are untouched, and a
    text-only "(Cont.)" row (a single th, no image sibling) just stays a
-   normal full-width cell. */
-.entry-content table:not(.file-header) tr:not(.meta-row):has(th:nth-child(2)),
-.page-wrap table:not(.file-header) tr:not(.meta-row):has(th:nth-child(2)) {
+   normal full-width cell. Rows with a 3rd cell (e.g. a masthead's
+   empty spacer columns) are excluded too -- forcing a 2-column grid
+   onto 3 cells stranded the 3rd as its own orphan row. */
+.entry-content table:not(.file-header) tr:not(.meta-row):has(th:nth-child(2)):not(:has(th:nth-child(3))),
+.page-wrap table:not(.file-header) tr:not(.meta-row):has(th:nth-child(2)):not(:has(th:nth-child(3))) {
   display: grid;
   grid-template-columns: minmax(0, 1fr) minmax(260px, 0.85fr);
   align-items: stretch;
 }
-.entry-content table:not(.file-header) tr:not(.meta-row) th:nth-child(2),
-.page-wrap table:not(.file-header) tr:not(.meta-row) th:nth-child(2) {
+.entry-content table:not(.file-header) tr:not(.meta-row):not(:has(th:nth-child(3))) th:nth-child(2),
+.page-wrap table:not(.file-header) tr:not(.meta-row):not(:has(th:nth-child(3))) th:nth-child(2) {
   display: flex;
   flex-wrap: wrap;
   align-content: flex-start;
@@ -706,19 +713,19 @@ h1, h2, h3, h4, h5 { line-height: 1.25; font-weight: 700; }
   max-width: 100%;
   max-height: 420px;
   object-fit: contain;
-  border-radius: 10px;
+  border-radius: 0;
   margin: 0;
   border: 1px solid var(--border);
   background: var(--bg);
   box-shadow: var(--card-shadow);
 }
 @media (max-width: 720px) {
-  .entry-content table:not(.file-header) tr:not(.meta-row):has(th:nth-child(2)),
-  .page-wrap table:not(.file-header) tr:not(.meta-row):has(th:nth-child(2)) {
+  .entry-content table:not(.file-header) tr:not(.meta-row):has(th:nth-child(2)):not(:has(th:nth-child(3))),
+  .page-wrap table:not(.file-header) tr:not(.meta-row):has(th:nth-child(2)):not(:has(th:nth-child(3))) {
     grid-template-columns: 1fr;
   }
-  .entry-content table:not(.file-header) tr:not(.meta-row) th:nth-child(2),
-  .page-wrap table:not(.file-header) tr:not(.meta-row) th:nth-child(2) {
+  .entry-content table:not(.file-header) tr:not(.meta-row):not(:has(th:nth-child(3))) th:nth-child(2),
+  .page-wrap table:not(.file-header) tr:not(.meta-row):not(:has(th:nth-child(3))) th:nth-child(2) {
     border-left: none;
     border-top: 1px solid var(--border);
   }
