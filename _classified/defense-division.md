@@ -8,4 +8,4 @@ group_of: "acatrya"
 description: "Acatrya's dedicated defense specialists, tasked with protecting the nation's citizens and infrastructure. Individual files for each member are documented…"
 ---
 
-Acatrya's dedicated defense specialists, tasked with protecting the nation's citizens and infrastructure. Individual files for each member are documented below.
+<a href="/classified-files/acatrya/">Acatrya</a>'s dedicated defense specialists, tasked with protecting the nation's citizens and infrastructure. Individual files for each member are documented below.

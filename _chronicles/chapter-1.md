@@ -8,7 +8,7 @@ group_of: "the-legend-of-josh"
 description: "The Legend of Josh [Chapter 1: Right from Wrong] “What does it mean for be right or wrong?” “When im scavenge for food, Im steal for people. It that right…"
 ---
 
-The Legend of Josh  
+The Legend of <a href="/classified-files/world-aligners/josh/">Josh</a>  
 \[Chapter 1: Right from Wrong\]  
 ![image39](/assets/chronicles/images/image39.png)
 
@@ -19,7 +19,7 @@ Josh pondered this question over and over. It’s not everyday he exercises his 
 Josh stumbled around the dim streets of Abyssnia, under the slight tinge of lamps and the faint glow of neon signs. Usually this time of the year is lively, but hardly anyone can speak. He slid into the stall of a 24 hour food stand. It was all robots… well mostly robots, but at this time there was a 0% chance of encountering another icon. But just to make sure, he tidied his brown hair and resisted the slouching of his malnourished yellow form.  
 He slid a few counterfeit coins in the machine. Genius, he thought to himself. Josh waited, and waited. Until.  
 The Robot turned red\! The alarm went off, and Josh immediately was sent hurdling across the street. The blast sword? No, that would attract too much unwanted attention. Ask for help? Clearly no. Shut it off? He didn’t know how to. Bins and alleys he went, Josh did the only sensible thing: flee.  
-	Soon Josh found himself under an overpass. A temporary shelter. What did he have at this point? Maybe a map, a few credits, and a couple scraps to his name. His identity was compromised. Glacier 15 people are supposed to exist, yet here he stood, his story yet to be told.  
+	Soon Josh found himself under an overpass. A temporary shelter. What did he have at this point? Maybe a map, a few credits, and a couple scraps to his name. His identity was compromised. <a href="/classified-files/geographic-locations/glacier-15/">Glacier 15</a> people are supposed to exist, yet here he stood, his story yet to be told.  
 	Footsteps.  
 	“Dam Hater\!”  
 	Josh panicked. This was it. This was the end. Maybe if he died on his own terms he wouldn't be experimented on. Maybe-  

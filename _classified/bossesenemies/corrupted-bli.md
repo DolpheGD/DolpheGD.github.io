@@ -10,14 +10,14 @@ description: "Corrupted Bli is extremely dangerous and unstable, and should be a
 
 <table class="file-header">
   <thead>
-    <tr><th markdown="span">File BE-011: Corrupted Bli</th><th markdown="span">Last Updated: <span class="redacted" aria-hidden="true">DATDAD</span><span class="sr-only">redacted</span>, 109 IC</th></tr>
+    <tr><th markdown="span">File BE-011: Corrupted <a href="/classified-files/h-eidolons/bli/">Bli</a></th><th markdown="span">Last Updated: <span class="redacted" aria-hidden="true">DATDAD</span><span class="sr-only">redacted</span>, 109 IC</th></tr>
   </thead>
 </table>
 
 <table>
   <thead>
       <tr class="meta-row"><th markdown="span" colspan="2">Clearance level: 4<br>Class \[S-05\]</th></tr>
-<tr><th markdown="span">Corrupted Bli is extremely dangerous and unstable, and should be avoided unless forced to engage. Once Bli is locked onto a target, he will not stop until the target is dead or Bli is unable to continue fighting. Bli exhibits near-instantaneous reaction speed. It is unwise to engage in physical combat, as Bli can easily counter any swordplay. It is only possible to harm Bli through parries/reflections, gunshots, or large AOE attacks. Bli is extremely durable, primarily made from reinforced permafrost metal. However, HHyper’s “revamps” left many vulnerabilities in Bli’s defense and offense.   Additionally, Bli exhibits extremely high movement speed due to his thruster wings and aerodynamic attack flow. It is wiser to hold your ground rather than trying to close distances. Bli’s void gun is capable of instantly disintegrating metal. Dodging or using a void-reflective weapon is the best option. Bli’s crystal ice spear is very dangerous, but easily counterable if you stand your ground. Getting hit may cause severe frostbite and necrosis.</th><th markdown="span">![image214](/assets/classified-files/images/image214.png) ![image215](/assets/classified-files/images/image215.png)![image216](/assets/classified-files/images/image216.png)</th></tr>
+<tr><th markdown="span">Corrupted Bli is extremely dangerous and unstable, and should be avoided unless forced to engage. Once Bli is locked onto a target, he will not stop until the target is dead or Bli is unable to continue fighting. Bli exhibits near-instantaneous reaction speed. It is unwise to engage in physical combat, as Bli can easily counter any swordplay. It is only possible to harm Bli through parries/reflections, gunshots, or large AOE attacks. Bli is extremely durable, primarily made from reinforced permafrost metal. However, <a href="/classified-files/h-eidolons/hhyper/">HHyper</a>’s “revamps” left many vulnerabilities in Bli’s defense and offense.   Additionally, Bli exhibits extremely high movement speed due to his thruster wings and aerodynamic attack flow. It is wiser to hold your ground rather than trying to close distances. Bli’s void gun is capable of instantly disintegrating metal. Dodging or using a void-reflective weapon is the best option. Bli’s crystal ice spear is very dangerous, but easily counterable if you stand your ground. Getting hit may cause severe frostbite and necrosis.</th><th markdown="span">![image214](/assets/classified-files/images/image214.png) ![image215](/assets/classified-files/images/image215.png)![image216](/assets/classified-files/images/image216.png)</th></tr>
   </thead>
 </table>
 

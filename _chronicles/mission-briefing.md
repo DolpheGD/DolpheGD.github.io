@@ -10,7 +10,7 @@ description: "Objective: Team Cascade plans to retrieve a “Xendium-Powered Sup
 
 <table>
   <thead>
-    <tr><th markdown="span">Objective: Team Cascade plans to retrieve a “Xendium-Powered Supercomputer” located in a Xender controlled lab in The Hotlands on Aug 2nd, 109 (IC).</th></tr>
+    <tr><th markdown="span">Objective: <a href="/classified-files/team-cascade/">Team Cascade</a> plans to retrieve a “Xendium-Powered Supercomputer” located in a Xender controlled lab in <a href="/classified-files/geographic-locations/the-hotlands/">The Hotlands</a> on Aug 2nd, 109 (IC).</th></tr>
   </thead>
   <tbody>
     <tr><td markdown="span">**Secondary Objective:** Find out additional research on the purpose, production, and integration of Xendium within Xender’s Lab. Analyze if there is a larger purpose of Xender’s Hotlands lab. Collect possible blueprints of Xendium-based mechs.</td></tr>
@@ -19,11 +19,11 @@ description: "Objective: Team Cascade plans to retrieve a “Xendium-Powered Sup
 
 <table>
   <thead>
-    <tr><th markdown="span">Team Leader: Caliper</th><th markdown="span">![image40](/assets/chronicles/images/image40.png)</th></tr>
+    <tr><th markdown="span">Team Leader: <a href="/classified-files/captains/caliper/">Caliper</a></th><th markdown="span">![image40](/assets/chronicles/images/image40.png)</th></tr>
   </thead>
   <tbody>
     <tr><td markdown="span">**Combat Crew:** Refender, Aura, Star, Kotori</td><td markdown="span"></td></tr>
-    <tr><td markdown="span">**Supercomputer Crew:** Gostley, Chary, Aizer, Sader</td><td markdown="span">![image41](/assets/chronicles/images/image41.png)</td></tr>
+    <tr><td markdown="span">**Supercomputer Crew:** <a href="/classified-files/special-units/gostley/">Gostley</a>, Chary, Aizer, Sader</td><td markdown="span">![image41](/assets/chronicles/images/image41.png)</td></tr>
   </tbody>
 </table>
 

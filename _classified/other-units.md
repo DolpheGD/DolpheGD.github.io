@@ -8,4 +8,4 @@ group_of: "team-cascade"
 description: "Personnel who don't fit neatly into Team Cascade's other divisions. Individual files are documented below."
 ---
 
-Personnel who don't fit neatly into Team Cascade's other divisions. Individual files are documented below.
+Personnel who don't fit neatly into <a href="/classified-files/team-cascade/">Team Cascade</a>'s other divisions. Individual files are documented below.

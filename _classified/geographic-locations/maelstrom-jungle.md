@@ -17,6 +17,6 @@ description: "Not much is known about this location due to how deep into H-Natio
 <table>
   <thead>
       <tr class="meta-row"><th markdown="span" colspan="2">Clearance level: 0</th></tr>
-<tr><th markdown="span">Not much is known about this location due to how deep into H-Nation territory it is. Reports from H-Nation media show that Maelstrom Jungle is a hotspot for paranormal phenomena and a source of conspiracy. It is commonly assumed that experimental research occurs here, although it is not certain.  Has an unknown climate with unknown weather. According to images, the Flora consists of a Jungle habitat.</th><th markdown="span">![image167](/assets/classified-files/images/image167.png)</th></tr>
+<tr><th markdown="span">Not much is known about this location due to how deep into <a href="/classified-files/h-nation/">H-Nation</a> territory it is. Reports from H-Nation media show that Maelstrom Jungle is a hotspot for paranormal phenomena and a source of conspiracy. It is commonly assumed that experimental research occurs here, although it is not certain.  Has an unknown climate with unknown weather. According to images, the Flora consists of a Jungle habitat.</th><th markdown="span">![image167](/assets/classified-files/images/image167.png)</th></tr>
   </thead>
 </table>

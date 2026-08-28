@@ -9,19 +9,19 @@ description: "Crystal fabrication [Project Success] Voidwarp >Warp gates >Warp E
 ---
 
 * Crystal fabrication \[Project Success\]  
-* Voidwarp   
+* <a href="/classified-files/miscellaneous-files/voidwarp/">Voidwarp</a>   
   \>Warp gates  
   \>Warp Engines  
   \>Warp Implants   
   \>Dimensional Warp \[TERMINATED\]  
 * Borgtech
-  \>NF89  
-  \>Subject 29 \[TERMINATED\]
-* Mecha sentience project *shared by Duko*  
-* Void Ore Extraction Project I \[Project Success\]  
+  \><a href="/classified-files/h-eidolons/nf89/">NF89</a>  
+  \><a href="/classified-files/other-units/subject-29/">Subject 29</a> \[TERMINATED\]
+* Mecha sentience project *shared by <a href="/classified-files/h-eidolons/duko/">Duko</a>*  
+* <a href="/classified-files/miscellaneous-files/void/">Void</a> Ore Extraction Project I \[Project Success\]  
 * Void Ore Extraction Project II   
-* Eris Extraction I \[TERMINATED\]  
-* Hyperion Point \[Undeterminable\]
+* <a href="/classified-files/geographic-locations/eris/">Eris</a> Extraction I \[TERMINATED\]  
+* <a href="/classified-files/geographic-locations/hyperion-point/">Hyperion Point</a> \[Undeterminable\]
 
 \[ Personal Notes and Journal \] 
 
@@ -38,4 +38,4 @@ Ever since the breaking discovery of being able to animate things with Void, thi
 The supreme leader arrived today. Today is the day. The day I will either be destroyed or saluted. I will be today's test subject. The presentation is simple, first, I will warp 10 meters across the room with a gate. Upgrade an engine with warp tech and test it in a vehicle. And finally, Implant myself with the first prototype of the myelencephalon implant or Voidheart. Will it work? Either way, if it doesn't please the supreme leader, I'm dead. 
 
 **\<AUGUST 4th, 109 IC\>**  
-Today I've been tasked to travel to the Ocellios ruin and rebuild. Stubby's projects are a sure key solution to synthesizing a Crystal. I'm going with a couple of Elite Eidolons, ruthless the two of them, 30 Sols ago one came to me with age-old implants. Since we were going to guard the place with our lives, I made him the most supreme implants known to any icon, he's invincible. The mercenary will be leading this mission. We cannot be compromised. Not like before. I will destroy that yellow feline if it's the last thing I do...
+Today I've been tasked to travel to the Ocellios ruin and rebuild. <a href="/classified-files/stubby/">Stubby</a>'s projects are a sure key solution to synthesizing a Crystal. I'm going with a couple of Elite Eidolons, ruthless the two of them, 30 Sols ago one came to me with age-old implants. Since we were going to guard the place with our lives, I made him the most supreme implants known to any icon, he's invincible. The mercenary will be leading this mission. We cannot be compromised. Not like before. I will destroy that yellow feline if it's the last thing I do...

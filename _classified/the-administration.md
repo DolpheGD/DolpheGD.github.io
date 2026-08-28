@@ -17,7 +17,7 @@ description: "Known as the Leader of Acatrya (otherwise referred to as the Xende
 <table>
   <thead>
       <tr class="meta-row"><th markdown="span" colspan="2">Clearance level: 2</th></tr>
-<tr><th markdown="span">Known as the Leader of Acatrya (otherwise referred to as the Xender-nation or Feline Nation). Oversees all federal operations, including infrastructure, laws, economy, and military. Responsibilities are subdivided between sections under Xender. He is affiliated with Stubby, Ocellios Lab, and void experimentation.  Has repeatedly shown himself to oppress the people of his nation through force and manipulation. Flies in an airship nicknamed “Acatrya’s Queen” to visit other cities. His primary base of operations is the Abyssnia Central Spire. Currently at War with HHyper and the H-Nation.  Location is unknown after the Acatrya’s Queen Voidlands raid.</th><th markdown="span">![image112](/assets/classified-files/images/image112.png)![image113](/assets/classified-files/images/image113.png)![image114](/assets/classified-files/images/image114.png)</th></tr>
+<tr><th markdown="span">Known as the Leader of <a href="/classified-files/acatrya/">Acatrya</a> (otherwise referred to as the Xender-nation or Feline Nation). Oversees all federal operations, including infrastructure, laws, economy, and military. Responsibilities are subdivided between sections under Xender. He is affiliated with <a href="/classified-files/stubby/">Stubby</a>, <a href="/classified-files/geographic-locations/ocellios-lab/">Ocellios Lab</a>, and void experimentation.  Has repeatedly shown himself to oppress the people of his nation through force and manipulation. Flies in an airship nicknamed “Acatrya’s Queen” to visit other cities. His primary base of operations is the Abyssnia Central Spire. Currently at War with <a href="/classified-files/h-eidolons/hhyper/">HHyper</a> and the <a href="/classified-files/h-nation/">H-Nation</a>.  Location is unknown after the Acatrya’s Queen Voidlands raid.</th><th markdown="span">![image112](/assets/classified-files/images/image112.png)![image113](/assets/classified-files/images/image113.png)![image114](/assets/classified-files/images/image114.png)</th></tr>
   </thead>
 </table>
 
@@ -30,7 +30,7 @@ description: "Known as the Leader of Acatrya (otherwise referred to as the Xende
 <table>
   <thead>
       <tr class="meta-row"><th markdown="span" colspan="2">Clearance level: 2</th></tr>
-<tr><th markdown="span">Xender’s elite assistant who oversees primary options by the military, including strategy and mobilization of the border during the Hyper-Xender border conflict.  Team Cascade has not encountered Dorve in combat.</th><th markdown="span">![image115](/assets/classified-files/images/image115.png) ![image116](/assets/classified-files/images/image116.png)</th></tr>
+<tr><th markdown="span">Xender’s elite assistant who oversees primary options by the military, including strategy and mobilization of the border during the Hyper-Xender border conflict.  <a href="/classified-files/team-cascade/">Team Cascade</a> has not encountered Dorve in combat.</th><th markdown="span">![image115](/assets/classified-files/images/image115.png) ![image116](/assets/classified-files/images/image116.png)</th></tr>
   </thead>
 </table>
 

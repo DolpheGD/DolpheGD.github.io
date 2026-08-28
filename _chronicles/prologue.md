@@ -8,11 +8,11 @@ group_of: "the-legend-of-josh"
 description: "The Legend of Josh [Prologue: A Glacier 15 Tale] Written by: Dolphe, Rex, Toile, lbs, Daffysamlake, Bioniq, Chary, SinWavs, Caliper, and Thedoggyp…"
 ---
 
-The Legend of Josh  
-\[Prologue: A Glacier 15 Tale\]  
+The Legend of <a href="/classified-files/world-aligners/josh/">Josh</a>  
+\[Prologue: A <a href="/classified-files/geographic-locations/glacier-15/">Glacier 15</a> Tale\]  
 ![image27](/assets/chronicles/images/image27.png)  
-**Written by:** Dolphe, Rex, Toile, lbs, Daffysamlake,  
-Bioniq, Chary, SinWavs, Caliper, and Thedoggyp  
+**Written by:** <a href="/classified-files/captains/dolphe/">Dolphe</a>, Rex, Toile, lbs, Daffysamlake,  
+Bioniq, Chary, SinWavs, <a href="/classified-files/captains/caliper/">Caliper</a>, and <a href="/classified-files/defense-division/thedoggyp/">Thedoggyp</a>  
 **Illustrated by:** Josh, Dolphe
 
 "To forget the fallen is to bury them twice."
@@ -116,7 +116,7 @@ Rex are so close but so far… I want talk to rex, but that will come later…
 	So, yesterday im maked $1000 dolar, so im go to John Cube hide out behind building. So he are say… John Cube are take my $1000 dolar… and then he are laugh at me. He are say, “You are stupid for believe in sword\! Haha\!” Then he are push me and run away. I am so angry, I am chase him but he are too fast and know the alley too good. I am fall and hurt my knee… now I am have no money and no sword  
 I am sit in alley and cry… but then I am think, maybe John Cube are liar, but the map are real. So, I am decide to find it myself and try learn how to see map. I am ask around the city, but nobody are want talk to me. They are look at me like I am trash…  
 But then, I am see a old man in the park. He are feed the bird and look kind. I am ask him about the Sword of Legend, and he are pause… then he are say, “Why you want it, boy?” I am tell him about Rex and the Xender people, and how I am need power to save him. The old man are sigh and say, “The sword are not for revenge… it are for protect.”  
-He are tell me how to read map. There are not just one sword of power… no… there are 8 sword… he point on the map… it has circle. He tell me to go and find the sword. And when im find them all, I will know the truth of place called Eris… Im not know wha Eris is… but… I know it my time strike at night.
+He are tell me how to read map. There are not just one sword of power… no… there are 8 sword… he point on the map… it has circle. He tell me to go and find the sword. And when im find them all, I will know the truth of place called <a href="/classified-files/geographic-locations/eris/">Eris</a>… Im not know wha Eris is… but… I know it my time strike at night.
 
 **Diary Entry 19 \- 21/5/107 IC**  
 **Robot are everywhere…**   

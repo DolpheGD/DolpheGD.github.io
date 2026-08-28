@@ -17,6 +17,6 @@ description: "Not much is known about the Unnamed Island. Team Cascade operative
 <table>
   <thead>
       <tr class="meta-row"><th markdown="span" colspan="2">Clearance level: 2</th></tr>
-<tr><th markdown="span">Not much is known about the Unnamed Island. Team Cascade operatives have not been able to travel to the island. It is speculated that either illegal research or other activities are kept here. Satellite views indicate what looks like a single structure on the Island.</th><th markdown="span">![image146](/assets/classified-files/images/image146.png)</th></tr>
+<tr><th markdown="span">Not much is known about the Unnamed Island. <a href="/classified-files/team-cascade/">Team Cascade</a> operatives have not been able to travel to the island. It is speculated that either illegal research or other activities are kept here. Satellite views indicate what looks like a single structure on the Island.</th><th markdown="span">![image146](/assets/classified-files/images/image146.png)</th></tr>
   </thead>
 </table>

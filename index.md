@@ -63,17 +63,16 @@ Lore for Dolphe's Geometry Dash level series — the mainline story, a full ency
 
 ## ⭐ Recommended Play Order ⭐
 
-🎥 = There is a separate prologue associated with this level.
+🎥 = There is a separate prologue associated with this level. ▶️ = Watch on YouTube.
 
-1. Destruction Eruption
-2. Glacier 15 🎥
-3. Operation Wastelands
-4. Mission Hellfire
-5. The Voidlands
-6. Ocellios
-7. Project Novaform
-8. Mk2
+1. [Destruction Eruption](https://www.youtube.com/watch?v=WCLdr-MbTIo&list=PLv-GaackQWwpaykfI7mJrZbcfr85Mj3MQ&index=1){:target="_blank" rel="noopener"} ▶️
+2. [Glacier 15](https://www.youtube.com/watch?v=37QdVq_O-lE&list=PLv-GaackQWwpaykfI7mJrZbcfr85Mj3MQ&index=3){:target="_blank" rel="noopener"} ▶️ &mdash; 🎥 [Prologue](https://www.youtube.com/watch?v=VT0BKNuGl2A&list=PLv-GaackQWwpaykfI7mJrZbcfr85Mj3MQ&index=2){:target="_blank" rel="noopener"} ▶️
+3. [Operation Wastelands](https://www.youtube.com/watch?v=JsFct9DYb74&list=PLv-GaackQWwpaykfI7mJrZbcfr85Mj3MQ&index=4){:target="_blank" rel="noopener"} ▶️
+4. [Mission Hellfire](https://www.youtube.com/watch?v=2RtfG_cAYsU&list=PLv-GaackQWwpaykfI7mJrZbcfr85Mj3MQ&index=5){:target="_blank" rel="noopener"} ▶️
+5. [The Voidlands](https://www.youtube.com/watch?v=BqekYDDlJ1o&list=PLv-GaackQWwpaykfI7mJrZbcfr85Mj3MQ&index=6){:target="_blank" rel="noopener"} ▶️
+6. [Ocellios](https://www.youtube.com/watch?v=YvojZF0C5DU&list=PLv-GaackQWwpaykfI7mJrZbcfr85Mj3MQ&index=7){:target="_blank" rel="noopener"} ▶️
+7. [Project Novaform](https://www.youtube.com/watch?v=Q774LOEwW-I&list=PLv-GaackQWwpaykfI7mJrZbcfr85Mj3MQ&index=8){:target="_blank" rel="noopener"} ▶️
+8. [Mk2](https://www.youtube.com/watch?v=3L24DaOQ7Gg&list=PLv-GaackQWwpaykfI7mJrZbcfr85Mj3MQ&index=9){:target="_blank" rel="noopener"} ▶️
 
 **Notes:**
 - The Voidlands will be replaced in the future.
-- Mission Hellfire has not been released yet.

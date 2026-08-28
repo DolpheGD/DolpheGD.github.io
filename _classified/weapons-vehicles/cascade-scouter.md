@@ -17,6 +17,6 @@ description: "The Cascade Scouter is a semi-rare Cascade ship model exclusively 
 <table>
   <thead>
       <tr class="meta-row"><th markdown="span" colspan="2">Clearance level: 1</th></tr>
-<tr><th markdown="span">The Cascade Scouter is a semi-rare Cascade ship model exclusively built for combat and scouting. These models have weak thrusters built to hover close to the ground. The model features a mounted machine gun in the rear, with a laser canon attached under the cabin. Interestingly, both the pilot and the outside gunner have control over the guns. This model is incapable of Voidwarp. It is also more fragile than other ship models. Requires a special license, although slightly less strict than for other standard models.</th><th markdown="span">![image63](/assets/classified-files/images/image63.png)</th></tr>
+<tr><th markdown="span">The Cascade Scouter is a semi-rare Cascade ship model exclusively built for combat and scouting. These models have weak thrusters built to hover close to the ground. The model features a mounted machine gun in the rear, with a laser canon attached under the cabin. Interestingly, both the pilot and the outside gunner have control over the guns. This model is incapable of <a href="/classified-files/miscellaneous-files/voidwarp/">Voidwarp</a>. It is also more fragile than other ship models. Requires a special license, although slightly less strict than for other standard models.</th><th markdown="span">![image63](/assets/classified-files/images/image63.png)</th></tr>
   </thead>
 </table>

@@ -9,7 +9,7 @@ description: "The Daily Dolphe is a series of Articles published starting Jan 1,
 
 <table>
   <thead>
-    <tr><th markdown="span">The Daily Dolphe is a series of Articles published starting Jan 1, 90 IC. This newspaper would eventually lay the foundation for the creation of Team Cascade.</th></tr>
+    <tr><th markdown="span">The Daily <a href="/classified-files/captains/dolphe/">Dolphe</a> is a series of Articles published starting Jan 1, 90 IC. This newspaper would eventually lay the foundation for the creation of <a href="/classified-files/team-cascade/">Team Cascade</a>.</th></tr>
   </thead>
 </table>
 

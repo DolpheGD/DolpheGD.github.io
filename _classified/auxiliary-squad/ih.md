@@ -17,6 +17,6 @@ description: "IH specializes in creating and using handheld Railguns, electromag
 <table>
   <thead>
       <tr class="meta-row"><th markdown="span" colspan="2">Clearance level: 0</th></tr>
-<tr><th markdown="span">IH specializes in creating and using handheld Railguns, electromagnetic pistols, and EMP grenades. IH dislikes the declining conditions of Xender's administration, especially the increased cost of goods and treatment of the Wastelands workers. After reading the truth of Xender’s void-experimentation in the Daily Dolphe, IH joined Team Cascade. Displays average physical strength and average skill in wielding weapons.</th><th markdown="span">![image37](/assets/classified-files/images/image37.png)</th></tr>
+<tr><th markdown="span">IH specializes in creating and using handheld Railguns, electromagnetic pistols, and EMP grenades. IH dislikes the declining conditions of Xender's administration, especially the increased cost of goods and treatment of the Wastelands workers. After reading the truth of Xender’s void-experimentation in the Daily <a href="/classified-files/captains/dolphe/">Dolphe</a>, IH joined <a href="/classified-files/team-cascade/">Team Cascade</a>. Displays average physical strength and average skill in wielding weapons.</th><th markdown="span">![image37](/assets/classified-files/images/image37.png)</th></tr>
   </thead>
 </table>

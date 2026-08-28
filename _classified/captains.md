@@ -8,4 +8,4 @@ group_of: "team-cascade"
 description: "Team Cascade's founding leadership and most senior field operatives. Clearance and combat records for each Captain are documented in their individual file…"
 ---
 
-Team Cascade's founding leadership and most senior field operatives. Clearance and combat records for each Captain are documented in their individual file below.
+<a href="/classified-files/team-cascade/">Team Cascade</a>'s founding leadership and most senior field operatives. Clearance and combat records for each Captain are documented in their individual file below.

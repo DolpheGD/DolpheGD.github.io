@@ -17,7 +17,7 @@ description: "H-Army contains tiers of soldiers for HHyper. H-Henchmen are Tier 
 <table>
   <thead>
       <tr class="meta-row"><th markdown="span">Clearance level: 1</th></tr>
-<tr><th markdown="span">H-Army contains tiers of soldiers for HHyper.</th></tr>
+<tr><th markdown="span">H-Army contains tiers of soldiers for <a href="/classified-files/h-eidolons/hhyper/">HHyper</a>.</th></tr>
   </thead>
 </table>
 
@@ -57,14 +57,14 @@ description: "H-Army contains tiers of soldiers for HHyper. H-Henchmen are Tier 
 
 <table>
   <thead>
-      <tr class="meta-row"><th markdown="span" colspan="2">Dolpo<br>Class \[B-01\]</th></tr>
+      <tr class="meta-row"><th markdown="span" colspan="2"><a href="/classified-files/h-army/dolpo/">Dolpo</a><br>Class \[B-01\]</th></tr>
 <tr><th markdown="span">Dolpo is a Tier 3 H-Army member with incredible accuracy with his cannon. He does not have any armor, which makes him an easy target, but he is likely to shoot before you can attack. The best counter to Dolpo (or any Aerion gunner) is to reflect their attacks or close the distance.</th><th markdown="span">![image206](/assets/classified-files/images/image206.png)</th></tr>
   </thead>
 </table>
 
 <table>
   <thead>
-      <tr class="meta-row"><th markdown="span" colspan="2">Xero<br>Class \[B-03\]</th></tr>
+      <tr class="meta-row"><th markdown="span" colspan="2"><a href="/classified-files/h-army/xero/">Xero</a><br>Class \[B-03\]</th></tr>
 <tr><th markdown="span">Xero is a Tier 4 H-Army member. His movements are fast, and he has a nearly endless arsenal of explosives. He is dangerous to engage at close distances, as Xero is highly resistant to explosives and may deploy bombs despite mutual damage. He is easier to counter at longer distances, where bombs can be dodged or reflected.</th><th markdown="span">![image207](/assets/classified-files/images/image207.png)</th></tr>
   </thead>
 </table>
@@ -77,7 +77,7 @@ description: "H-Army contains tiers of soldiers for HHyper. H-Henchmen are Tier 
 
 <table>
   <thead>
-      <tr class="meta-row"><th markdown="span" colspan="2">Frostblock<br>Class \[B+02\]</th></tr>
+      <tr class="meta-row"><th markdown="span" colspan="2"><a href="/classified-files/h-army/frostblock/">Frostblock</a><br>Class \[B+02\]</th></tr>
 <tr><th markdown="span">Frostblock is a Tier 3 H-Army member who specializes in punching. Relatively harmless at long distances, but encountering Frostblock in close ranges or an enclosed space is dangerous. The Janitor punch takes some time to charge up. But once unleashed, the punch can rip through flesh and metal with ease. Frostblock may also punch the ground in situations to get a speed and height boost. This closes distances, so it is best to maintain far distances from Frostblock if possible.</th><th markdown="span">![image208](/assets/classified-files/images/image208.png)</th></tr>
   </thead>
 </table>

@@ -17,6 +17,6 @@ description: "An Unnamed Eidolon Member is not discussed to the public. HHyper r
 <table>
   <thead>
       <tr class="meta-row"><th markdown="span" colspan="2">Clearance level: 5</th></tr>
-<tr><th markdown="span">An Unnamed Eidolon Member is not discussed to the public. HHyper referred to them as “The Ace.” This member is only speculated to exist, as in HHyper’s profiles, it was stated there are six Eidolon members that work for him, leaving this one unaccounted for. This member likely works in the shadows, and it is important to keep their identity a secret. Details are unknown.</th><th markdown="span">![image89](/assets/classified-files/images/image89.png)\\</th></tr>
+<tr><th markdown="span">An Unnamed Eidolon Member is not discussed to the public. <a href="/classified-files/h-eidolons/hhyper/">HHyper</a> referred to them as “The Ace.” This member is only speculated to exist, as in HHyper’s profiles, it was stated there are six Eidolon members that work for him, leaving this one unaccounted for. This member likely works in the shadows, and it is important to keep their identity a secret. Details are unknown.</th><th markdown="span">![image89](/assets/classified-files/images/image89.png)\\</th></tr>
   </thead>
 </table>

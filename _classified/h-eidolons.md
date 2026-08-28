@@ -8,4 +8,4 @@ group_of: "h-nation"
 description: "HHyper's six elite operatives, each excelling in combat, engineering, or mech piloting. Individual files for each Eidolon are documented below."
 ---
 
-HHyper's six elite operatives, each excelling in combat, engineering, or mech piloting. Individual files for each Eidolon are documented below.
+<a href="/classified-files/h-eidolons/hhyper/">HHyper</a>'s six elite operatives, each excelling in combat, engineering, or mech piloting. Individual files for each Eidolon are documented below.
