@@ -4,7 +4,7 @@ title: The Dolpheverse Lore
 permalink: /
 ---
 
-<p class="placeholder-note">(AI was not used in any part of writing this lore)</p>
+<p class="placeholder-note">Welcome to Dolphe's Dolpheverse</p>
 
 <img src="/assets/images/image1.png" alt="Map of the Dolpheverse" style="border-radius: 12px; box-shadow: var(--card-shadow); margin: 0.5rem 0 1.5rem;">
 
