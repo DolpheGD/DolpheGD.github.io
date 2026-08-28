@@ -871,6 +871,46 @@ hr { border: none; border-top: 1px solid var(--border); margin: 2rem 0; }
   font-style: italic;
 }
 
+.timeline-watch-link {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.32rem;
+  margin-left: auto;
+  padding: 0.16rem 0.6rem;
+  border-radius: 999px;
+  border: 1px solid var(--border);
+  background: var(--bg-alt);
+  color: var(--text);
+  font-family: var(--font-doc);
+  font-size: 0.66rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  transition: background 0.15s ease, border-color 0.15s ease;
+}
+.timeline-watch-link:hover {
+  text-decoration: none;
+  background: var(--accent-soft);
+  border-color: var(--accent);
+}
+
+.timeline-entry-video { margin-top: 0.9rem; }
+.video-embed {
+  position: relative;
+  padding-top: 56.25%;
+  border-radius: var(--radius-doc);
+  overflow: hidden;
+  border: 1px solid var(--border);
+  background: #000;
+}
+.video-embed iframe {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  border: 0;
+}
+
 .timeline-gap {
   margin-top: 0.75rem;
   font-family: var(--font-doc);
