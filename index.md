@@ -1,16 +1,16 @@
 ---
 layout: default
-title: The Dolpheverse Lore
+title: The Dolpheverse Lore Wiki
 permalink: /
 ---
 
-<p class="placeholder-note">Welcome to Dolphe's Dolpheverse</p>
+<p class="placeholder-note">Welcome to the Dolpheverse Lore Wiki</p>
 
 <img src="/assets/images/image1.png" alt="Map of the Dolpheverse" style="border-radius: 12px; box-shadow: var(--card-shadow); margin: 0.5rem 0 1.5rem;">
 
 # ⭐ The Dolpheverse ⭐
 
-Lore for Dolphe's Geometry Dash level series — the mainline story, a full encyclopedia of characters and factions, and the side stories and artifacts that fill in the rest of the world.
+Lore for Dolphe's Geometry Dash level series. This lore wiki includes the mainline story, a full encyclopedia of characters and factions, and the side stories and artifacts that fill in the rest of the world.
 
 {% assign top_factions = site.classified | where_exp: "i", "i.group_of == nil" %}
 <div class="stats-strip">
