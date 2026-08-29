@@ -17,9 +17,14 @@
 {%- if page.title %}{% assign seo_title = page.title | append: " | " | append: site.title %}{% endif %}
 {%- assign seo_desc = page.description | default: page.excerpt | strip_html | strip_newlines | strip | truncate: 160 %}
 {%- if seo_desc == "" or seo_desc == nil %}{% assign seo_desc = site.description %}{% endif %}
-{%- assign seo_image = page.image | default: site.image %}
-{%- assign seo_img_w = page.image_width | default: site.image_width | default: 1593 %}
-{%- assign seo_img_h = page.image_height | default: site.image_height | default: 896 %}
+{%- assign seo_image = page.preview | default: page.image | default: site.image %}
+{%- if page.preview or page.image %}
+  {%- assign seo_img_w = page.image_width %}
+  {%- assign seo_img_h = page.image_height %}
+{%- else %}
+  {%- assign seo_img_w = site.image_width | default: 1593 %}
+  {%- assign seo_img_h = site.image_height | default: 896 %}
+{%- endif %}
 {%- assign seo_url = site.url | append: page.url %}
 
 <title>{{ seo_title }}</title>
@@ -33,8 +38,8 @@
 <meta property="og:description" content="{{ seo_desc }}">
 <meta property="og:url" content="{{ seo_url }}">
 <meta property="og:image" content="{{ seo_image | absolute_url }}">
-<meta property="og:image:width" content="{{ seo_img_w }}">
-<meta property="og:image:height" content="{{ seo_img_h }}">
+{%- if seo_img_w %}<meta property="og:image:width" content="{{ seo_img_w }}">{% endif %}
+{%- if seo_img_h %}<meta property="og:image:height" content="{{ seo_img_h }}">{% endif %}
 <meta property="og:image:alt" content="{{ page.title | default: site.title }}">
 <meta property="og:locale" content="en_US">
 

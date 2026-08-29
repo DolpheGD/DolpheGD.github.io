@@ -20,10 +20,17 @@
     {{ content }}
 
     {% assign items = site[page.collection_key] | sort: 'order' %}
+    {% assign top_level = items | where_exp: "i", "i.group_of == nil" %}
+
+    {% if top_level.size > 4 %}
+    <nav class="hub-jump-nav" aria-label="Jump to section">
+      {% for t in top_level %}<a href="#{{ t.slug }}">{{ t.icon | default: "📄" }} {{ t.title }}</a>{% endfor %}
+    </nav>
+    {% endif %}
 
     {% assign hero_items = items | where: 'hero', true %}
     {% for hero in hero_items %}
-    <a class="hero-card" href="{{ hero.url | relative_url }}">
+    <a class="hero-card" id="{{ hero.slug }}" href="{{ hero.url | relative_url }}">
       <span class="hero-card-icon">{% if hero.preview %}<img src="{{ hero.preview | relative_url }}" alt="" loading="lazy">{% else %}{{ hero.icon | default: "📄" }}{% endif %}</span>
       <span class="hero-card-body">
         <span class="hero-card-title">{{ hero.title }}</span>
@@ -37,7 +44,7 @@
       {% unless item.group_of or item.hero %}
         {% assign children = items | where: 'group_of', item.slug %}
         {% if children.size > 0 %}
-        <div class="section-group">
+        <div class="section-group" id="{{ item.slug }}">
           <a class="section-card section-card-parent" href="{{ item.url | relative_url }}">
             <span class="section-card-icon">{% if item.preview %}<img src="{{ item.preview | relative_url }}" alt="" loading="lazy">{% else %}{{ item.icon | default: "📄" }}{% endif %}</span>
             <span class="section-card-title">{{ item.title }}</span>
@@ -54,13 +61,13 @@
           </div>
         </div>
         {% elsif item.wide %}
-        <a class="section-card section-card-wide" href="{{ item.url | relative_url }}">
+        <a class="section-card section-card-wide" id="{{ item.slug }}" href="{{ item.url | relative_url }}">
           <span class="section-card-icon">{% if item.preview %}<img src="{{ item.preview | relative_url }}" alt="" loading="lazy">{% else %}{{ item.icon | default: "📄" }}{% endif %}</span>
           <span class="section-card-title">{{ item.title }}</span>
           <span class="section-card-excerpt">{{ item.description | default: item.content | strip_html | strip_newlines | truncate: 160 }}</span>
         </a>
         {% else %}
-        <a class="section-card" href="{{ item.url | relative_url }}">
+        <a class="section-card" id="{{ item.slug }}" href="{{ item.url | relative_url }}">
           <span class="section-card-icon">{% if item.preview %}<img src="{{ item.preview | relative_url }}" alt="" loading="lazy">{% else %}{{ item.icon | default: "📄" }}{% endif %}</span>
           <span class="section-card-title">{{ item.title }}</span>
           <span class="section-card-excerpt">{{ item.description | default: item.content | strip_html | strip_newlines | truncate: 110 }}</span>

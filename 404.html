@@ -10,6 +10,15 @@ description: "The requested file could not be located in the Dolpheverse archive
   <h1 class="page-title">This file isn't in the archive.</h1>
   <p class="notfound-text">The page you're looking for may have been declassified, moved, or never existed in the first place. Try the search (press <strong>/</strong>), or head to one of these instead.</p>
 
+  <div class="terminal-widget">
+    <label for="terminal-code" class="terminal-label">// unauthorized access terminal — clearance code?</label>
+    <div class="terminal-row">
+      <input type="text" id="terminal-code" class="terminal-input" placeholder="ENTER CODE" autocomplete="off" spellcheck="false" maxlength="24">
+      <button type="button" id="terminal-submit" class="terminal-submit">SUBMIT</button>
+    </div>
+    <p class="terminal-output" id="terminal-output" aria-live="polite"></p>
+  </div>
+
   <div class="nav-card-grid">
     <a class="nav-card" href="{{ '/' | relative_url }}">
       <span class="nav-card-icon">⭐</span>
@@ -33,3 +42,5 @@ description: "The requested file could not be located in the Dolpheverse archive
     </a>
   </div>
 </div>
+
+<script src="{{ '/assets/js/terminal.js' | relative_url }}" defer></script>

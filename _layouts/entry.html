@@ -50,6 +50,7 @@
     <header class="entry-header">
       {% if page.preview %}<span class="entry-icon"><img src="{{ page.preview | relative_url }}" alt="" loading="lazy"></span>{% elsif page.icon %}<span class="entry-icon">{{ page.icon }}</span>{% endif %}
       <h1 class="page-title">{{ page.title }}</h1>
+      <button type="button" class="copy-link-btn" data-copy-url="{{ page.url | absolute_url }}" title="Copy link to this file" aria-label="Copy link to this file">🔗</button>
     </header>
 
     {% assign prev_item = nil %}
@@ -106,6 +107,39 @@
         </a>
         {% endfor %}
       </div>
+    </div>
+    {% endif %}
+
+    {% assign children_urls = children | map: "url" %}
+    {% assign related_urls = related_items | map: "url" %}
+    {% assign seen_urls = children_urls | concat: related_urls %}
+    {% assign seen_blob = "|" %}
+    {% for u in seen_urls %}{% assign seen_blob = seen_blob | append: u | append: "|" %}{% endfor %}
+
+    {% assign all_entries = site.classified | concat: site.chronicles %}
+    {% assign backlinks = "" | split: "" %}
+    {% for other in all_entries %}
+      {% if other.url != page.url and other.content contains page.url %}
+        {% assign needle = "|" | append: other.url | append: "|" %}
+        {% unless seen_blob contains needle %}
+          {% assign backlinks = backlinks | push: other %}
+        {% endunless %}
+      {% endif %}
+    {% endfor %}
+
+    {% if backlinks.size > 0 %}
+    <div class="child-entries backlinks-section">
+      <h2 class="child-entries-title">Referenced In</h2>
+      <div class="card-grid">
+        {% for item in backlinks limit:12 %}
+        <a class="section-card" href="{{ item.url | relative_url }}">
+          <span class="section-card-icon">{% if item.preview %}<img src="{{ item.preview | relative_url }}" alt="" loading="lazy">{% else %}{{ item.icon | default: "📄" }}{% endif %}</span>
+          <span class="section-card-title">{{ item.title }}</span>
+          <span class="section-card-excerpt">{{ item.description | default: item.content | strip_html | strip_newlines | truncate: 110 }}</span>
+        </a>
+        {% endfor %}
+      </div>
+      {% if backlinks.size > 12 %}<p class="backlinks-more">+ {{ backlinks.size | minus: 12 }} more file{% if backlinks.size > 13 %}s{% endif %} reference this one.</p>{% endif %}
     </div>
     {% endif %}
 
