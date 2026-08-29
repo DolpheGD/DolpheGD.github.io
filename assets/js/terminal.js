@@ -13,7 +13,8 @@
     "GLACIER15": { msg: "ACCESS GRANTED — redirecting to the Glacier 15 file…", url: "/classified-files/geographic-locations/glacier-15/" },
     "REFENSE": { msg: "ACCESS GRANTED — redirecting to the Refense Doctrine…", url: "/chronicles/refense-doctrine/" },
     "XENDER": { msg: "ACCESS GRANTED — redirecting to the Xender Machines file…", url: "/classified-files/xender-machines/" },
-    "DOLPHE": { msg: "ACCESS GRANTED — redirecting to Captain Dolphe's file…", url: "/classified-files/captains/dolphe/" }
+    "DOLPHE": { msg: "ACCESS GRANTED — redirecting to Captain Dolphe's file…", url: "/classified-files/captains/dolphe/" },
+    "MAINFRAME": { msg: "ACCESS GRANTED — booting a hidden program…", url: "/play/declassify/" }
   };
 
   function attempt() {

@@ -30,6 +30,7 @@
 <title>{{ seo_title }}</title>
 <meta name="description" content="{{ seo_desc }}">
 <link rel="canonical" href="{{ seo_url }}">
+{%- if page.robots %}<meta name="robots" content="{{ page.robots }}">{% endif %}
 
 <!-- Open Graph -->
 <meta property="og:type" content="{% if page.section %}article{% else %}website{% endif %}">

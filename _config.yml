@@ -13,6 +13,19 @@ links:
   timeline_slides: https://docs.google.com/presentation/d/1O-p_AB1jbQi3y7Q-Axrke7MKcVPh7OYxu0zh5VDWyII/edit?usp=sharing
   youtube: https://www.youtube.com/@dolphe
 
+github_username: DolpheGD
+github_repo: DolpheGD.github.io
+
+# Fill these in from https://giscus.app once Discussions is enabled and the
+# giscus app is installed on the repo (see _includes/giscus.html for the
+# full setup steps), then uncomment {% include giscus.html %} in
+# _layouts/entry.html to go live.
+# giscus:
+#   repo: "DolpheGD/DolpheGD.github.io"
+#   repo_id: ""
+#   category: "Announcements"
+#   category_id: ""
+
 collections:
   classified:
     output: true

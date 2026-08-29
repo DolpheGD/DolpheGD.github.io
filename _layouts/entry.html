@@ -149,6 +149,12 @@
       {% if next_item %}<a class="pager-link pager-next" href="{{ next_item.url | relative_url }}">{{ next_item.icon }} {{ next_item.title }} &rarr;</a>{% endif %}
     </nav>
 
+    {% if site.giscus.repo_id and site.giscus.category_id %}
+    <div class="child-entries giscus-section">
+      {% include giscus.html %}
+    </div>
+    {% endif %}
+
   </div>
 </main>
 {% include footer.html %}

@@ -8,6 +8,9 @@
     </div>
     <p>{{ site.description }}</p>
     <p><a href="https://github.com/{{ site.github_username | default: 'DolpheGD' }}">View on GitHub</a></p>
+    <p class="site-stats">
+      <img src="https://api.visitorbadge.io/api/visitors?user={{ site.github_username | default: 'DolpheGD' }}&repo={{ site.github_repo | default: 'DolpheGD.github.io' }}&label=Total%20File%20Views&labelColor=%23303540&countColor=%233457d5&style=flat-square" alt="Total archive views" loading="lazy" width="140" height="20">
+    </p>
   </div>
 </footer>
 <script src="{{ '/assets/js/search.js' | relative_url }}" defer></script>
@@ -16,3 +19,8 @@
 <script src="{{ '/assets/js/lightbox.js' | relative_url }}" defer></script>
 <script src="{{ '/assets/js/back-to-top.js' | relative_url }}" defer></script>
 <script src="{{ '/assets/js/copy-link.js' | relative_url }}" defer></script>
+<script src="{{ '/assets/js/konami.js' | relative_url }}" defer></script>
+<script>
+console.log("%c👁️ curious minds welcome.", "font-size:14px;font-weight:bold;");
+console.log("there's an unauthorized access terminal hiding on the 404 page. and some say a certain 30-year-old cheat code still works somewhere on this site...");
+</script>
