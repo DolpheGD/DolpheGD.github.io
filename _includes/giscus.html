@@ -1,25 +1,11 @@
 <!--
   Giscus reactions/comments -- backed by GitHub Discussions on this repo,
-  no server or third-party database of our own involved.
-
-  This is prepared but NOT wired into entry.html yet -- it needs a couple
-  of one-time setup steps on GitHub first:
-
-    1. Repo Settings > General > Features > check "Discussions".
-    2. Install the giscus app on this repo: https://github.com/apps/giscus
-    3. Visit https://giscus.app, enter this repo (DolpheGD/DolpheGD.github.io),
-       and pick (or create) a Discussion category -- an "Announcements"-style
-       category works best so only maintainers/giscus can start new
-       discussions threads, visitors can only comment/react on existing ones.
-    4. The page will generate a repo-id and category-id. Fill those into
-       the `giscus:` block in _config.yml (see the commented example there).
-    5. Uncomment the {% include giscus.html %} line near the bottom of
-       _layouts/entry.html.
-
-  Once live: every entry page gets its own discussion thread (matched by
+  no server or third-party database of our own involved. Live as of the
+  giscus app install + Discussions setup + repo/category IDs in
+  _config.yml. Every entry page gets its own discussion thread (matched by
   URL path), and visitors can leave 👍 / 👎 / ❤️ / 🚀 / 👀 reactions and
   comments, signed in with their own GitHub account. Reactions and threads
-  are visible in the repo's Discussions tab too.
+  are also visible in the repo's Discussions tab.
 -->
 <h2 class="child-entries-title giscus-title">Reactions &amp; Comments</h2>
 <script src="https://giscus.app/client.js"
@@ -28,10 +14,10 @@
         data-category="{{ site.giscus.category }}"
         data-category-id="{{ site.giscus.category_id }}"
         data-mapping="pathname"
-        data-strict="1"
+        data-strict="0"
         data-reactions-enabled="1"
         data-emit-metadata="0"
-        data-input-position="top"
+        data-input-position="bottom"
         data-theme="preferred_color_scheme"
         data-lang="en"
         crossorigin="anonymous"

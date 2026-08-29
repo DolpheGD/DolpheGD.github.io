@@ -53,6 +53,11 @@
       <button type="button" class="copy-link-btn" data-copy-url="{{ page.url | absolute_url }}" title="Copy link to this file" aria-label="Copy link to this file">🔗</button>
     </header>
 
+    {%- assign vb_key = "entry" | append: page.url | replace: "/", "-" %}
+    <p class="entry-views">
+      <img src="https://api.visitorbadge.io/api/visitors?user={{ site.github_username | default: 'DolpheGD' }}&repo={{ vb_key }}&label=Views&labelColor=%23303540&countColor=%233457d5&style=flat-square" alt="Views of this file" loading="lazy" width="90" height="20">
+    </p>
+
     {% assign prev_item = nil %}
     {% assign next_item = nil %}
     {% assign current_index = 0 %}
