@@ -2,6 +2,7 @@
 layout: entry
 title: "Arkiver"
 icon: "🥊"
+preview: "/assets/classified-files/images/image34.png"
 order: 5
 section: classified-files
 group_of: "auxiliary-squad"

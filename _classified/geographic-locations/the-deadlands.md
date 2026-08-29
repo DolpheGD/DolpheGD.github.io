@@ -2,6 +2,7 @@
 layout: entry
 title: "The Deadlands"
 icon: "📍"
+preview: "/assets/classified-files/images/image168.png"
 order: 19
 section: classified-files
 group_of: "geographic-locations"

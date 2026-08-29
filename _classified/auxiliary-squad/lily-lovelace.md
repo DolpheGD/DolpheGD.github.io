@@ -2,6 +2,7 @@
 layout: entry
 title: "Lily Lovelace"
 icon: "🍳"
+preview: "/assets/classified-files/images/image27.png"
 order: 2
 section: classified-files
 group_of: "auxiliary-squad"

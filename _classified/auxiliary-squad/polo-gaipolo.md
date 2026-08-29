@@ -2,6 +2,7 @@
 layout: entry
 title: "Polo (Gaipolo)"
 icon: "🐻‍❄️"
+preview: "/assets/classified-files/images/image32.png"
 order: 4
 section: classified-files
 group_of: "auxiliary-squad"

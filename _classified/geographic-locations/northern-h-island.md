@@ -2,6 +2,7 @@
 layout: entry
 title: "Northern H-Island"
 icon: "📍"
+preview: "/assets/classified-files/images/image164.png"
 order: 15
 section: classified-files
 group_of: "geographic-locations"

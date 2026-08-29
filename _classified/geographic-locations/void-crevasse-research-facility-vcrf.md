@@ -2,6 +2,7 @@
 layout: entry
 title: "Void Crevasse Research Facility (VCRF)"
 icon: "📍"
+preview: "/assets/classified-files/images/image165.png"
 order: 16
 section: classified-files
 group_of: "geographic-locations"

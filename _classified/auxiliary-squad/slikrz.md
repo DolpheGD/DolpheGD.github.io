@@ -2,6 +2,7 @@
 layout: entry
 title: "Slikrz"
 icon: "🌀"
+preview: "/assets/classified-files/images/image36.png"
 order: 6
 section: classified-files
 group_of: "auxiliary-squad"

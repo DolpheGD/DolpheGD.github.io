@@ -2,6 +2,7 @@
 layout: entry
 title: "Sol Magnum"
 icon: "🔫"
+preview: "/assets/classified-files/images/image59.png"
 order: 4
 section: classified-files
 group_of: "weapons-vehicles"

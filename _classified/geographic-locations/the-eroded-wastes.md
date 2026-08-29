@@ -2,6 +2,7 @@
 layout: entry
 title: "The Eroded Wastes"
 icon: "📍"
+preview: "/assets/classified-files/images/image161.png"
 order: 13
 section: classified-files
 group_of: "geographic-locations"

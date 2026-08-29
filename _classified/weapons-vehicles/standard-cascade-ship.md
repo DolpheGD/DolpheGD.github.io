@@ -2,6 +2,7 @@
 layout: entry
 title: "Standard Cascade Ship"
 icon: "🚀"
+preview: "/assets/classified-files/images/image53.png"
 order: 1
 section: classified-files
 group_of: "weapons-vehicles"

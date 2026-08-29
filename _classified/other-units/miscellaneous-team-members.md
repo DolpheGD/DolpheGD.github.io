@@ -2,6 +2,7 @@
 layout: entry
 title: "Miscellaneous Team Members"
 icon: "👥"
+preview: "/assets/classified-files/images/image71.png"
 order: 2
 section: classified-files
 group_of: "other-units"

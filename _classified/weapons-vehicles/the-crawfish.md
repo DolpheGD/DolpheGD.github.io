@@ -2,6 +2,7 @@
 layout: entry
 title: "The Crawfish"
 icon: "🛩️"
+preview: "/assets/classified-files/images/image62.png"
 order: 6
 section: classified-files
 group_of: "weapons-vehicles"

@@ -2,6 +2,7 @@
 layout: entry
 title: "The “Superweapon”"
 icon: "💥"
+preview: "/assets/classified-files/images/image107.png"
 order: 3
 section: classified-files
 group_of: "h-machines"

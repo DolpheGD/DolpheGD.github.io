@@ -2,6 +2,7 @@
 layout: entry
 title: "Cascade Carrier Ship"
 icon: "🚢"
+preview: "/assets/classified-files/images/image68.png"
 order: 9
 section: classified-files
 group_of: "weapons-vehicles"

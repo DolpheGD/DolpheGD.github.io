@@ -2,6 +2,7 @@
 layout: entry
 title: "Cascade Scouter"
 icon: "🛰️"
+preview: "/assets/classified-files/images/image63.png"
 order: 7
 section: classified-files
 group_of: "weapons-vehicles"

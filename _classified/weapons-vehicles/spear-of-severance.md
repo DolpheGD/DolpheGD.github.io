@@ -2,6 +2,7 @@
 layout: entry
 title: "Spear of Severance"
 icon: "🔱"
+preview: "/assets/classified-files/images/image57.png"
 order: 3
 section: classified-files
 group_of: "weapons-vehicles"

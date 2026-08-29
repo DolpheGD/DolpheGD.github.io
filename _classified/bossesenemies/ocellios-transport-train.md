@@ -2,6 +2,7 @@
 layout: entry
 title: "Ocellios Transport Train"
 icon: "🚂"
+preview: "/assets/classified-files/images/image194.png"
 order: 8
 section: classified-files
 group_of: "bossesenemies"

@@ -2,6 +2,7 @@
 layout: entry
 title: "The PLAYER"
 icon: "🐾"
+preview: "/assets/classified-files/images/image1.png"
 order: 1
 section: classified-files
 group_of: "captains"

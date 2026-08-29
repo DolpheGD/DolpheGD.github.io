@@ -2,6 +2,7 @@
 layout: entry
 title: "Axel"
 icon: "💥"
+preview: "/assets/classified-files/images/image40.png"
 order: 9
 section: classified-files
 group_of: "auxiliary-squad"

@@ -2,6 +2,7 @@
 layout: entry
 title: "Corrupted Bli"
 icon: "❄️"
+preview: "/assets/classified-files/images/image214.png"
 order: 12
 section: classified-files
 group_of: "bossesenemies"

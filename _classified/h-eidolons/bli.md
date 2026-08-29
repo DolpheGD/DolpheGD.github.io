@@ -2,6 +2,7 @@
 layout: entry
 title: "Bli"
 icon: "❄️"
+preview: "/assets/classified-files/images/image85.png"
 order: 6
 section: classified-files
 group_of: "h-eidolons"

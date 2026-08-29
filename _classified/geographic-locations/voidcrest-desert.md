@@ -2,6 +2,7 @@
 layout: entry
 title: "VoidCrest Desert"
 icon: "📍"
+preview: "/assets/classified-files/images/image152.png"
 order: 8
 section: classified-files
 group_of: "geographic-locations"

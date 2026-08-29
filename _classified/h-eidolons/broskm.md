@@ -2,6 +2,7 @@
 layout: entry
 title: "Broskm"
 icon: "🧪"
+preview: "/assets/classified-files/images/image78.png"
 order: 3
 section: classified-files
 group_of: "h-eidolons"

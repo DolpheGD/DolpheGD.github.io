@@ -2,6 +2,7 @@
 layout: entry
 title: "Ignatius"
 icon: "🚀"
+preview: "/assets/classified-files/images/image104.png"
 order: 2
 section: classified-files
 group_of: "h-machines"

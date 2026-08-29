@@ -2,6 +2,7 @@
 layout: entry
 title: "Unnamed Island"
 icon: "📍"
+preview: "/assets/classified-files/images/image146.png"
 order: 3
 section: classified-files
 group_of: "geographic-locations"

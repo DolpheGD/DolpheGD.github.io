@@ -2,6 +2,7 @@
 layout: entry
 title: "The Wastelands"
 icon: "📍"
+preview: "/assets/classified-files/images/image151.png"
 order: 6
 section: classified-files
 group_of: "geographic-locations"

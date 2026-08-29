@@ -2,6 +2,7 @@
 layout: entry
 title: "Anti-Void Allegiance"
 icon: "🌿"
+preview: "/assets/classified-files/images/image140.png"
 order: 2
 section: classified-files
 group_of: "miscellaneous"

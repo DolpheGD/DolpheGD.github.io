@@ -2,6 +2,7 @@
 layout: entry
 title: "IH"
 icon: "⚡"
+preview: "/assets/classified-files/images/image37.png"
 order: 7
 section: classified-files
 group_of: "auxiliary-squad"

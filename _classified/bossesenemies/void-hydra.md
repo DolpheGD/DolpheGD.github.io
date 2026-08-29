@@ -2,6 +2,7 @@
 layout: entry
 title: "Void Hydra"
 icon: "🐉"
+preview: "/assets/classified-files/images/image180.png"
 order: 4
 section: classified-files
 group_of: "bossesenemies"

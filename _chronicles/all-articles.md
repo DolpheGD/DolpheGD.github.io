@@ -2,6 +2,7 @@
 layout: entry
 title: "All Articles"
 icon: "📄"
+preview: "/assets/chronicles/images/image6.png"
 order: 3
 section: chronicles
 group_of: "the-daily-dolphe"

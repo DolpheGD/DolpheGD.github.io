@@ -2,6 +2,7 @@
 layout: entry
 title: "Aerion Mk1"
 icon: "✈️"
+preview: "/assets/classified-files/images/image97.png"
 order: 1
 section: classified-files
 group_of: "h-machines"

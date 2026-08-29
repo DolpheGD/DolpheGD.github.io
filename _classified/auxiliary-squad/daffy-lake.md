@@ -2,6 +2,7 @@
 layout: entry
 title: "Daffy & Lake"
 icon: "👬"
+preview: "/assets/classified-files/images/image42.png"
 order: 10
 section: classified-files
 group_of: "auxiliary-squad"

@@ -2,6 +2,7 @@
 layout: entry
 title: "Entrospire City"
 icon: "📍"
+preview: "/assets/classified-files/images/image159.png"
 order: 12
 section: classified-files
 group_of: "geographic-locations"

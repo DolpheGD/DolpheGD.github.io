@@ -2,6 +2,7 @@
 layout: entry
 title: "Ocellios Lab"
 icon: "📍"
+preview: "/assets/classified-files/images/image148.png"
 order: 5
 section: classified-files
 group_of: "geographic-locations"

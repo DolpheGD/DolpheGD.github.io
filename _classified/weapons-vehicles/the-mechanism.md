@@ -2,6 +2,7 @@
 layout: entry
 title: "The Mechanism"
 icon: "⚙️"
+preview: "/assets/classified-files/images/image69.png"
 order: 10
 section: classified-files
 group_of: "weapons-vehicles"

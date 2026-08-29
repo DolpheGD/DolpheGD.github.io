@@ -2,6 +2,7 @@
 layout: entry
 title: "The Hotlands"
 icon: "📍"
+preview: "/assets/classified-files/images/image154.png"
 order: 9
 section: classified-files
 group_of: "geographic-locations"

@@ -2,6 +2,7 @@
 layout: entry
 title: "Maelstrom Jungle"
 icon: "📍"
+preview: "/assets/classified-files/images/image167.png"
 order: 18
 section: classified-files
 group_of: "geographic-locations"

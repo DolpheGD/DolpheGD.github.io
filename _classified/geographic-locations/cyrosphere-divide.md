@@ -2,6 +2,7 @@
 layout: entry
 title: "Cyrosphere Divide"
 icon: "📍"
+preview: "/assets/classified-files/images/image147.png"
 order: 4
 section: classified-files
 group_of: "geographic-locations"

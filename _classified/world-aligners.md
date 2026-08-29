@@ -2,6 +2,7 @@
 layout: entry
 title: "World Aligners"
 icon: "🌍"
+preview: "/assets/classified-files/images/image133.png"
 order: 18
 section: classified-files
 group_of: "side-factions"

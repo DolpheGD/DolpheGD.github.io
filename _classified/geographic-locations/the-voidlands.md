@@ -2,6 +2,7 @@
 layout: entry
 title: "The Voidlands"
 icon: "📍"
+preview: "/assets/classified-files/images/image155.png"
 order: 10
 section: classified-files
 group_of: "geographic-locations"

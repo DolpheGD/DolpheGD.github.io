@@ -2,6 +2,7 @@
 layout: entry
 title: "Frostblock"
 icon: "👊"
+preview: "/assets/classified-files/images/image101.png"
 order: 3
 section: classified-files
 group_of: "h-army"

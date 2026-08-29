@@ -2,6 +2,7 @@
 layout: entry
 title: "The Administration"
 icon: "🏤"
+preview: "/assets/classified-files/images/image112.png"
 order: 13
 section: classified-files
 group_of: "acatrya"

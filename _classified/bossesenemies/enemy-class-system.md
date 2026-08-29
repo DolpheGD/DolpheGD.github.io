@@ -2,6 +2,7 @@
 layout: entry
 title: "Enemy Class System"
 icon: "📊"
+preview: "/assets/classified-files/images/image170.png"
 order: 1
 section: classified-files
 group_of: "bossesenemies"

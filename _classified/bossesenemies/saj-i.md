@@ -2,6 +2,7 @@
 layout: entry
 title: "SAJ I"
 icon: "🤖"
+preview: "/assets/classified-files/images/image175.png"
 order: 2
 section: classified-files
 group_of: "bossesenemies"

@@ -48,7 +48,7 @@
     </nav>
 
     <header class="entry-header">
-      {% if page.icon %}<span class="entry-icon">{{ page.icon }}</span>{% endif %}
+      {% if page.preview %}<span class="entry-icon"><img src="{{ page.preview | relative_url }}" alt="" loading="lazy"></span>{% elsif page.icon %}<span class="entry-icon">{{ page.icon }}</span>{% endif %}
       <h1 class="page-title">{{ page.title }}</h1>
     </header>
 
@@ -84,7 +84,7 @@
       <div class="card-grid">
         {% for child in children %}
         <a class="section-card" href="{{ child.url | relative_url }}">
-          <span class="section-card-icon">{{ child.icon | default: "📄" }}</span>
+          <span class="section-card-icon">{% if child.preview %}<img src="{{ child.preview | relative_url }}" alt="" loading="lazy">{% else %}{{ child.icon | default: "📄" }}{% endif %}</span>
           <span class="section-card-title">{{ child.title }}</span>
           <span class="section-card-excerpt">{{ child.description | default: child.content | strip_html | strip_newlines | truncate: 110 }}</span>
         </a>
@@ -100,7 +100,7 @@
       <div class="card-grid">
         {% for item in related_items limit:6 %}
         <a class="section-card" href="{{ item.url | relative_url }}">
-          <span class="section-card-icon">{{ item.icon | default: "📄" }}</span>
+          <span class="section-card-icon">{% if item.preview %}<img src="{{ item.preview | relative_url }}" alt="" loading="lazy">{% else %}{{ item.icon | default: "📄" }}{% endif %}</span>
           <span class="section-card-title">{{ item.title }}</span>
           <span class="section-card-excerpt">{{ item.description | default: item.content | strip_html | strip_newlines | truncate: 110 }}</span>
         </a>

@@ -2,6 +2,7 @@
 layout: entry
 title: "Glacier 15"
 icon: "📍"
+preview: "/assets/classified-files/images/image144.png"
 order: 2
 section: classified-files
 group_of: "geographic-locations"

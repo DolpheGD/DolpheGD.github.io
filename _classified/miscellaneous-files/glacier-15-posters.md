@@ -2,6 +2,7 @@
 layout: entry
 title: "Glacier 15 Posters"
 icon: "📰"
+preview: "/assets/classified-files/images/image225.png"
 order: 4
 section: classified-files
 group_of: "miscellaneous-files"

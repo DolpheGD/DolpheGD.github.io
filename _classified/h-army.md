@@ -2,6 +2,7 @@
 layout: entry
 title: "H-Army"
 icon: "🦾"
+preview: "/assets/classified-files/images/image90.png"
 order: 10
 section: classified-files
 group_of: "h-nation"

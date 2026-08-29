@@ -2,6 +2,7 @@
 layout: entry
 title: "Duko"
 icon: "💣"
+preview: "/assets/classified-files/images/image81.png"
 order: 4
 section: classified-files
 group_of: "h-eidolons"

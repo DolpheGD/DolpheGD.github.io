@@ -2,6 +2,7 @@
 layout: entry
 title: "FAX"
 icon: "🗺️"
+preview: "/assets/classified-files/images/image52.png"
 order: 5
 section: classified-files
 group_of: "aero-squad"

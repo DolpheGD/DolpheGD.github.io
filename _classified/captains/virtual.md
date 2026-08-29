@@ -2,6 +2,7 @@
 layout: entry
 title: "Virtual"
 icon: "🖥️"
+preview: "/assets/classified-files/images/image9.png"
 order: 3
 section: classified-files
 group_of: "captains"

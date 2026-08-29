@@ -2,6 +2,7 @@
 layout: entry
 title: "Mr. R"
 icon: "💻"
+preview: "/assets/classified-files/images/image140.png"
 order: 1
 section: classified-files
 group_of: "miscellaneous"

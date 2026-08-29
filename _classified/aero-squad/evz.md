@@ -2,6 +2,7 @@
 layout: entry
 title: "Evz"
 icon: "⚕️"
+preview: "/assets/classified-files/images/image50.png"
 order: 3
 section: classified-files
 group_of: "aero-squad"

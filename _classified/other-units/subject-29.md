@@ -2,6 +2,7 @@
 layout: entry
 title: "Subject 29"
 icon: "🔍"
+preview: "/assets/classified-files/images/image71.png"
 order: 1
 section: classified-files
 group_of: "other-units"

@@ -2,6 +2,7 @@
 layout: entry
 title: "H-City & Eidolon Stronghold"
 icon: "📍"
+preview: "/assets/classified-files/images/image162.png"
 order: 14
 section: classified-files
 group_of: "geographic-locations"

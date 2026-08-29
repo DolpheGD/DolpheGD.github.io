@@ -2,6 +2,7 @@
 layout: entry
 title: "Ocellios Defense System"
 icon: "🛡️"
+preview: "/assets/classified-files/images/image189.png"
 order: 6
 section: classified-files
 group_of: "bossesenemies"

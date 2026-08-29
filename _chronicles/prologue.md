@@ -2,6 +2,7 @@
 layout: entry
 title: "Prologue"
 icon: "📕"
+preview: "/assets/chronicles/images/image27.png"
 order: 5
 section: chronicles
 group_of: "the-legend-of-josh"

@@ -2,6 +2,7 @@
 layout: entry
 title: "Andy"
 icon: "🛠️"
+preview: "/assets/classified-files/images/image44.png"
 order: 1
 section: classified-files
 group_of: "aero-squad"

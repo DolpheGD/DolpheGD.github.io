@@ -2,6 +2,7 @@
 layout: entry
 title: "Mission Briefing"
 icon: "📃"
+preview: "/assets/chronicles/images/image40.png"
 order: 11
 section: chronicles
 group_of: "mission-hellfire"

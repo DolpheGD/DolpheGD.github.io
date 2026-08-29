@@ -2,6 +2,7 @@
 layout: entry
 title: "The Outpost"
 icon: "📍"
+preview: "/assets/classified-files/images/image152.png"
 order: 7
 section: classified-files
 group_of: "geographic-locations"

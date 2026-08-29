@@ -2,6 +2,7 @@
 layout: entry
 title: "Ignatius"
 icon: "🚀"
+preview: "/assets/classified-files/images/image212.png"
 order: 11
 section: classified-files
 group_of: "bossesenemies"

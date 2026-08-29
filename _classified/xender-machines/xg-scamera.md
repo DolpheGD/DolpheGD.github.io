@@ -2,6 +2,7 @@
 layout: entry
 title: "XG-SCamera"
 icon: "📷"
+preview: "/assets/classified-files/images/image128.png"
 order: 2
 section: classified-files
 group_of: "xender-machines"

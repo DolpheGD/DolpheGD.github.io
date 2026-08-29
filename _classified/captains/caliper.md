@@ -2,6 +2,7 @@
 layout: entry
 title: "Caliper"
 icon: "🔫"
+preview: "/assets/classified-files/images/image13.png"
 order: 4
 section: classified-files
 group_of: "captains"

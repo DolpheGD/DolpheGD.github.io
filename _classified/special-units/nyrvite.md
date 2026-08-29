@@ -2,6 +2,7 @@
 layout: entry
 title: "Nyrvite"
 icon: "🥷"
+preview: "/assets/classified-files/images/image22.png"
 order: 3
 section: classified-files
 group_of: "special-units"

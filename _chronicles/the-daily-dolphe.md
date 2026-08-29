@@ -2,6 +2,7 @@
 layout: entry
 title: "The Daily Dolphe"
 icon: "🗞️"
+preview: "/assets/chronicles/images/image2.png"
 order: 2
 section: chronicles
 description: "The Daily Dolphe is a series of Articles published starting Jan 1, 90 IC. This newspaper would eventually lay the foundation for the creation of Team…"

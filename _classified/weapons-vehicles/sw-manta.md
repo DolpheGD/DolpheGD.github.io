@@ -2,6 +2,7 @@
 layout: entry
 title: "SW-Manta"
 icon: "⚔️"
+preview: "/assets/classified-files/images/image56.png"
 order: 2
 section: classified-files
 group_of: "weapons-vehicles"

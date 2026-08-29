@@ -2,6 +2,7 @@
 layout: entry
 title: "HHyper"
 icon: "👑"
+preview: "/assets/classified-files/images/image72.png"
 order: 1
 section: classified-files
 group_of: "h-eidolons"

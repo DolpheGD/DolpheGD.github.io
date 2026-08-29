@@ -2,6 +2,7 @@
 layout: entry
 title: "The Transportationingertronshinamobile"
 icon: "🛴"
+preview: "/assets/classified-files/images/image70.png"
 order: 11
 section: classified-files
 group_of: "weapons-vehicles"

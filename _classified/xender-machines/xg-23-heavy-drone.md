@@ -2,6 +2,7 @@
 layout: entry
 title: "XG-23 Heavy Drone"
 icon: "🛸"
+preview: "/assets/classified-files/images/image124.png"
 order: 1
 section: classified-files
 group_of: "xender-machines"

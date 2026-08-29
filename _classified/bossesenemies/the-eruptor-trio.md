@@ -2,6 +2,7 @@
 layout: entry
 title: "The Eruptor Trio"
 icon: "🌋"
+preview: "/assets/classified-files/images/image177.png"
 order: 3
 section: classified-files
 group_of: "bossesenemies"

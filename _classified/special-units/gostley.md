@@ -2,6 +2,7 @@
 layout: entry
 title: "Gostley"
 icon: "👁️"
+preview: "/assets/classified-files/images/image19.png"
 order: 2
 section: classified-files
 group_of: "special-units"

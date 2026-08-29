@@ -2,6 +2,7 @@
 layout: entry
 title: "The Ace"
 icon: "🃏"
+preview: "/assets/classified-files/images/image89.png"
 order: 7
 section: classified-files
 group_of: "h-eidolons"

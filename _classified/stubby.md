@@ -2,6 +2,7 @@
 layout: entry
 title: "Stubby"
 icon: "🔬"
+preview: "/assets/classified-files/images/image129.png"
 order: 16
 section: classified-files
 wide: true

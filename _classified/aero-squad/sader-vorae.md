@@ -2,6 +2,7 @@
 layout: entry
 title: "Sader Vorae"
 icon: "🌊"
+preview: "/assets/classified-files/images/image48.png"
 order: 2
 section: classified-files
 group_of: "aero-squad"

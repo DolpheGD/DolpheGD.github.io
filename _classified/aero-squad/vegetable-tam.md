@@ -2,6 +2,7 @@
 layout: entry
 title: "Vegetable Tam"
 icon: "🥕"
+preview: "/assets/classified-files/images/image51.png"
 order: 4
 section: classified-files
 group_of: "aero-squad"

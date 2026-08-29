@@ -2,6 +2,7 @@
 layout: entry
 title: "Xero"
 icon: "💣"
+preview: "/assets/classified-files/images/image99.png"
 order: 2
 section: classified-files
 group_of: "h-army"

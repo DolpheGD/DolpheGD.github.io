@@ -2,6 +2,7 @@
 layout: entry
 title: "Aerion Mk1"
 icon: "✈️"
+preview: "/assets/classified-files/images/image209.png"
 order: 10
 section: classified-files
 group_of: "bossesenemies"

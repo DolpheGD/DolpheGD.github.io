@@ -2,6 +2,7 @@
 layout: entry
 title: "Koma"
 icon: "💤"
+preview: "/assets/classified-files/images/image84.png"
 order: 5
 section: classified-files
 group_of: "h-eidolons"

@@ -2,6 +2,7 @@
 layout: entry
 title: "Blastix"
 icon: "🔥"
+preview: "/assets/classified-files/images/image24.png"
 order: 4
 section: classified-files
 group_of: "special-units"

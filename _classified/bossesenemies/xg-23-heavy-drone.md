@@ -2,6 +2,7 @@
 layout: entry
 title: "XG-23 Heavy Drone"
 icon: "🛸"
+preview: "/assets/classified-files/images/image183.png"
 order: 5
 section: classified-files
 group_of: "bossesenemies"

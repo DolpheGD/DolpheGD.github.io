@@ -2,6 +2,7 @@
 layout: entry
 title: "Overview"
 icon: "📜"
+preview: "/assets/chronicles/images/image1.png"
 order: 1
 section: chronicles
 hero: true

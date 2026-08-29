@@ -2,6 +2,7 @@
 layout: entry
 title: "Eris"
 icon: "📍"
+preview: "/assets/classified-files/images/image158.png"
 order: 11
 section: classified-files
 group_of: "geographic-locations"

@@ -2,6 +2,7 @@
 layout: entry
 title: "Project Novaform"
 icon: "🛰️"
+preview: "/assets/classified-files/images/image108.png"
 order: 4
 section: classified-files
 group_of: "h-machines"

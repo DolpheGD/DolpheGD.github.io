@@ -2,6 +2,7 @@
 layout: entry
 title: "Earny"
 icon: "🤖"
+preview: "/assets/classified-files/images/image122.png"
 order: 2
 section: classified-files
 group_of: "defense-division"

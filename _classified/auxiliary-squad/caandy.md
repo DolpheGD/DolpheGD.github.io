@@ -2,6 +2,7 @@
 layout: entry
 title: "Caandy"
 icon: "🕵️"
+preview: "/assets/classified-files/images/image30.png"
 order: 3
 section: classified-files
 group_of: "auxiliary-squad"

@@ -2,6 +2,7 @@
 layout: entry
 title: "Hyperion Point"
 icon: "📍"
+preview: "/assets/classified-files/images/image169.png"
 order: 20
 section: classified-files
 group_of: "geographic-locations"

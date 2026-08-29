@@ -2,6 +2,7 @@
 layout: entry
 title: "Nexus"
 icon: "🎯"
+preview: "/assets/classified-files/images/image38.png"
 order: 8
 section: classified-files
 group_of: "auxiliary-squad"

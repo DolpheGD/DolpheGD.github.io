@@ -2,6 +2,7 @@
 layout: entry
 title: "The Highlands"
 icon: "📍"
+preview: "/assets/classified-files/images/image166.png"
 order: 17
 section: classified-files
 group_of: "geographic-locations"

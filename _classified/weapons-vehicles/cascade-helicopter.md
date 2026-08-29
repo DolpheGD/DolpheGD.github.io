@@ -2,6 +2,7 @@
 layout: entry
 title: "Cascade Helicopter"
 icon: "🚁"
+preview: "/assets/classified-files/images/image64.png"
 order: 8
 section: classified-files
 group_of: "weapons-vehicles"

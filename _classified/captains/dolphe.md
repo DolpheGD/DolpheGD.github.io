@@ -2,6 +2,7 @@
 layout: entry
 title: "Dolphe"
 icon: "🐬"
+preview: "/assets/classified-files/images/image4.png"
 order: 2
 section: classified-files
 group_of: "captains"

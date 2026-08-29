@@ -2,6 +2,7 @@
 layout: entry
 title: "Nebula"
 icon: "🏔️"
+preview: "/assets/classified-files/images/image16.png"
 order: 1
 section: classified-files
 group_of: "special-units"

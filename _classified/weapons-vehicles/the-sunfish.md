@@ -2,6 +2,7 @@
 layout: entry
 title: "The Sunfish"
 icon: "✈️"
+preview: "/assets/classified-files/images/image61.png"
 order: 5
 section: classified-files
 group_of: "weapons-vehicles"
