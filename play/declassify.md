@@ -3,8 +3,7 @@ layout: default
 title: "Declassify"
 permalink: /play/declassify/
 section: play
-description: "A hidden file-guessing game buried in the Dolpheverse archive."
-robots: noindex
+description: "Guess the redacted file before you run out of clearance attempts."
 ---
 
 <nav class="breadcrumb">

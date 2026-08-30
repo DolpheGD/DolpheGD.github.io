@@ -2,7 +2,7 @@
   "use strict";
 
   // The classic Konami code, sitewide -- purely a fun discovery path to the
-  // hidden Declassify game. No effect on anything else on the page.
+  // hidden transmission page. No effect on anything else on the page.
   var SEQUENCE = ["arrowup", "arrowup", "arrowdown", "arrowdown", "arrowleft", "arrowright", "arrowleft", "arrowright", "b", "a"];
   var pos = 0;
 
@@ -17,8 +17,8 @@
     toast.id = "konami-toast";
     toast.className = "konami-toast";
     toast.innerHTML =
-      '🔓 <strong>Hidden protocol unlocked.</strong> ' +
-      '<a href="/play/declassify/">Access the program &rarr;</a> ' +
+      '📡 <strong>Unknown signal detected.</strong> ' +
+      '<a href="/transmission/">Trace it &rarr;</a> ' +
       '<button type="button" class="konami-toast-close" aria-label="Dismiss">✕</button>';
     document.body.appendChild(toast);
 

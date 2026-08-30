@@ -14,7 +14,7 @@
     "REFENSE": { msg: "ACCESS GRANTED — redirecting to the Refense Doctrine…", url: "/chronicles/refense-doctrine/" },
     "XENDER": { msg: "ACCESS GRANTED — redirecting to the Xender Machines file…", url: "/classified-files/xender-machines/" },
     "DOLPHE": { msg: "ACCESS GRANTED — redirecting to Captain Dolphe's file…", url: "/classified-files/captains/dolphe/" },
-    "MAINFRAME": { msg: "ACCESS GRANTED — booting a hidden program…", url: "/play/declassify/" }
+    "MAINFRAME": { msg: "ACCESS GRANTED — an unknown signal is being routed to you…", url: "/transmission/" }
   };
 
   function attempt() {
