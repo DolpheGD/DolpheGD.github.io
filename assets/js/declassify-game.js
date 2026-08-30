@@ -54,18 +54,35 @@
   // Blocking the exact title isn't enough -- a lot of these names are
   // multi-word ("Polo (Gaipolo)", "Daffy & Lake") and the description text
   // often calls the subject by just one piece of it. Redact every
-  // meaningful word from every accepted name, not just the full strings.
+  // meaningful word from every accepted name, not just the full strings, and
+  // allow common spacing and punctuation variants (XG-23, XG 23, XG_23, etc.)
+  // to be treated as the same clue.
   function redactionTerms(names) {
     var terms = [];
+    var seen = {};
+
+    function addTerm(term) {
+      if (!term || seen[term]) return;
+      seen[term] = true;
+      terms.push(term);
+    }
+
     names.forEach(function (name) {
-      if (terms.indexOf(name) === -1) terms.push(name);
       var words = name.match(/[A-Za-z0-9']+/g) || [];
+      if (!words.length) return;
+
+      var phrase = words.map(function (word) {
+        return word.replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
+      }).join("[\\s\\-_]+");
+      addTerm(phrase);
+
       words.forEach(function (w) {
-        if (w.length >= 3 && REDACT_STOPWORDS.indexOf(w.toLowerCase()) === -1 && terms.indexOf(w) === -1) {
-          terms.push(w);
+        if (w.length >= 3 && REDACT_STOPWORDS.indexOf(w.toLowerCase()) === -1) {
+          addTerm(w.replace(/[.*+?^${}()|[\]\\]/g, "\\$&"));
         }
       });
     });
+
     // Longest first so multi-word names get fully swallowed before their
     // own pieces would otherwise leave partial "[REDACTED] Something" text.
     return terms.sort(function (a, b) { return b.length - a.length; });
@@ -75,8 +92,8 @@
     if (!text) return "No further description on file.";
     var out = text;
     redactionTerms(names).forEach(function (term) {
-      var escaped = term.replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
-      out = out.replace(new RegExp("\\b" + escaped + "\\b", "gi"), "[REDACTED]");
+      var pattern = new RegExp("\\b" + term + "\\b", "gi");
+      out = out.replace(pattern, "[REDACTED]");
     });
     // Collapse "[REDACTED] [REDACTED]" runs left behind when both a full
     // name and its own component words matched back to back.
