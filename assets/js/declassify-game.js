@@ -28,6 +28,7 @@
   var attemptsLeft = MAX_ATTEMPTS;
   var streak = 0;
   var best = 0;
+  var imageRequestId = 0;
 
   function loadBest() {
     try {
@@ -47,6 +48,28 @@
   function setBlur(level) {
     BLUR_LEVELS.forEach(function (cls) { img.classList.remove(cls); });
     img.classList.add(BLUR_LEVELS[level]);
+  }
+
+  function renderProtectedImage(src, onReady, onError) {
+    var source = new Image();
+    source.onload = function () {
+      var canvas = document.createElement("canvas");
+      var width = Math.max(1, Math.ceil(source.naturalWidth / 8));
+      var height = Math.max(1, Math.ceil(source.naturalHeight / 8));
+      var context = canvas.getContext("2d");
+      if (!context) {
+        onError();
+        return;
+      }
+
+      canvas.width = width;
+      canvas.height = height;
+      context.imageSmoothingEnabled = false;
+      context.drawImage(source, 0, 0, width, height);
+      onReady(canvas.toDataURL("image/png"));
+    };
+    source.onerror = onError;
+    source.src = src;
   }
 
   var REDACT_STOPWORDS = ["the", "a", "an", "of", "and", "or", "in", "on", "at", "to", "is", "are", "mr", "ms"];
@@ -136,16 +159,29 @@
     attemptsLeft = MAX_ATTEMPTS;
     attemptsEl.textContent = String(attemptsLeft);
     setBlur(0);
-    img.src = member.preview;
+    img.src = "";
     img.alt = "Redacted file scan";
     excerptEl.textContent = redactExcerpt(member.excerpt, names);
     feedbackEl.textContent = "";
     feedbackEl.className = "game-feedback";
     guessInput.value = "";
-    guessInput.disabled = false;
-    submitBtn.disabled = false;
+    guessInput.disabled = true;
+    submitBtn.disabled = true;
     nextBtn.hidden = true;
-    guessInput.focus();
+
+    var requestId = ++imageRequestId;
+    renderProtectedImage(member.preview, function (protectedSrc) {
+      if (requestId !== imageRequestId) return;
+      img.src = protectedSrc;
+      guessInput.disabled = false;
+      submitBtn.disabled = false;
+      guessInput.focus();
+    }, function () {
+      if (requestId !== imageRequestId) return;
+      excerptEl.textContent = "The file scan couldn't be loaded. Try refreshing.";
+      feedbackEl.textContent = "Unable to prepare this round.";
+      feedbackEl.className = "game-feedback is-denied";
+    });
   }
 
   function endRound(won) {
