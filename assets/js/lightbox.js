@@ -4,7 +4,8 @@
   var SELECTOR = ".entry-content img, .page-wrap img, .timeline-entry-image img";
   var SKIP_ANCESTOR_SELECTOR =
     ".nav-card-icon, .entry-icon, .section-card-icon, .hero-card-icon, " +
-    ".search-result-icon, .site-brand-icon, .lightbox-overlay";
+    ".search-result-icon, .site-brand-icon, .lightbox-overlay, " +
+    "#declassify-game, .game-image, .game-image-wrap";
 
   var overlay = null;
   var imgEl = null;
